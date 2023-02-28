@@ -5,11 +5,11 @@ editor: visual
 df-print: paged
 ---
 
-This tutorial will present the basic of reading text as data into R, and doing descriptive and some statistical analysis on the use of intensifiers in Spanish from movie scripts.
+This tutorial will present the basic of reading text as data into R, and doing descriptive and some statistical analysis on the use of intensifiers in Spanish from movie scripts. [You can access the source code and the data for this tutorial on GitHub](https://github.com/picoral/SPN203-Spring2023)
 
 # Before we start
 
-If you open this document in RStudio ([cloud](https://posit.cloud/) or [desktop](https://posit.co/download/rstudio-desktop/)), you should be prompted to install the packages that are used in this document. If that's not the case, run `install.packages("tidyverse")` before running the first line of code: 
+If you open this document in RStudio ([cloud](https://posit.cloud/) or [desktop](https://posit.co/download/rstudio-desktop/)), you should be prompted to install the packages that are used in this document. If that's not the case, run `install.packages("tidyverse")` before running the first line of code:
 
 ```{r}
 #| echo: true
@@ -123,7 +123,7 @@ all_text %>%
 
 It's pretty common to count occurrences of words when working with text. To do so, we first need to `tokenize` our text -- which means to split the text in individual words.
 
-We will be using the package `tidytext` for this. You should have been prompted to install the packages that are used in this document. If that's not the case, run `install.packages("tidytext")` before running this line of code: 
+We will be using the package `tidytext` for this. You should have been prompted to install the packages that are used in this document. If that's not the case, run `install.packages("tidytext")` before running this line of code:
 
 ```{r}
 #| echo: true
@@ -185,7 +185,7 @@ tokenized_texts %>%
 
 ## Annotated text
 
-Text annotation is really helpful when searching for certain grammatical class (like adjectives and adverbs). I annotated the text with part-of-speech (`POS`) labels and then extracted all adjectives from the text automatically, with some post-processing to eliminate false positives. That is to say that there’s noise in the data since these tokens were not coded by humans. This data is used to the purpose of this demonstration, not as valid findings regarding the use of intensifiers in Spanish.
+Text annotation is really helpful when searching for certain grammatical class (like adjectives and adverbs). I annotated the text with part-of-speech (`POS`) labels and then extracted all adjectives from the text automatically, with some post-processing to eliminate false positives. That is to say that there's noise in the data since these tokens were not coded by humans. This data is used to the purpose of this demonstration, not as valid findings regarding the use of intensifiers in Spanish.
 
 Let's read that annotated in R (it's in a `comma separated values` file):
 
@@ -235,7 +235,7 @@ model_movie <- glm(formula = intensified ~ movie,
              family = "binomial")
 ```
 
-The best way to visualize the results is by plotting them. You should have been prompted to install the packages that are used in this document. If that's not the case, run `install.packages("effects")` before running these lines of code: 
+The best way to visualize the results is by plotting them. You should have been prompted to install the packages that are used in this document. If that's not the case, run `install.packages("effects")` before running these lines of code:
 
 ```{r}
 library(effects)
@@ -253,7 +253,7 @@ effect("movie", model_movie) %>%
 
 Note how the percentages are similar to what we had calculated before. The difference is that now we have `confidence intervals` which tells us if the different groups are different or not (overlapping intervals indicate no differences).
 
-We can do the same with the grammatical gender of the adjective. Is one type of adjective intensified more than the others? 
+We can do the same with the grammatical gender of the adjective. Is one type of adjective intensified more than the others?
 
 ```{r}
 annotated_text %>% 
@@ -280,8 +280,7 @@ effect("genero", model_genero) %>%
   geom_label()
 ```
 
-
-We built our statistical models with just one predictor -- we can also run multivariate models. 
+We built our statistical models with just one predictor -- we can also run multivariate models.
 
 The question here is, controling for adjective gender, do we still see differences in intensification across the movie scripts?
 
