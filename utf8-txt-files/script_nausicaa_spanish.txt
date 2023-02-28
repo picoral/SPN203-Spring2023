@@ -1,0 +1,1623 @@
+Esta es la traducción al español, realizada por Andrés Martínez, del 
+libreto de la película de anime "Kaze no Tani No Nausicaä" de Studio 
+Ghibli, basado en el script encontrado en la página Nausicaa.Net. 
+Comentarios en: andybusy@yahoo.com
+
+12 de octubre del 2001
+
+==========================================================================
+
+ LIBRETO:  NAUSICAÄ DEL VALLE DEL VIENTO                     7/25/91
+
+==========================================================================
+
+Este libreto es una traslación producida por fans de la película animada 
+"Kaze no Tani no Nausicaä" y no significa de en ningún modo infringir 
+sobre los derechos propios del autor o esos en conexión con la película. 
+El libreto es puramente un instrumento para ayudar a los fans a entender 
+mejor la película cuando la ven legalmente.
+
+Este libreto adapta fragmentos de los trabajos de Sue Shambaugh (fecha 
+desconocida), editada por Jeff Okamoto (1988) y Scott Sanford (1990).
+
+Los diálogos en este libreto tratan de retener el sabor original del anime.
+La fluidez pudo haber estado comprometida de algun modo debido a esto.
+Para el propósito de doblaje, el diálogo alterno representado por [ALT:] 
+puede encajar mejor.
+
+Reproducción de este material está permitido solo con propósitos de 
+No-Beneficio. Se espera madurez en el uso de este libreto. Por favor 
+mantenga estas líneas intactas.
+
+Gracias especiales a Sheng-Te Tsao y K Hindall de CJAS por su edición.
+
+  Miho Nishida  7/25/91                       Universidad Cornell
+=========================================================================
+
+                           KAZE NO TANI NO NAUSICAÄ
+                      -Nausicaä del Valle del Viento-
+                              POR HAYAO MIYAZAKI
+
+-------------------------------------------------------------------------
+( ) = notas de escena
+[ ] = notas de traducción/culturales
+       Nota:  (dentro de las notas de traducción)
+       TL  indica traducción literal del japonés;
+       TE  indica traducción equivalente;
+       ALT indica expresión alternativa de una oración anterior o palabra;
+       ?   indicates traducción inadecuada debido a diálogo confuso en la
+           película. La oración anterior es tan exacta como el traductor la
+           pueda determinar.
+
+< > = referencia oculta de un diálogo
+* * = énfasis en la palabra
+
+Los símbolos, ...!!, ...?!, etc., si son precedidos por una oración sin 
+un punto, son equivalentes a alzar la voz por asombro o una exclamación.
+--------------------------------
+
+PERSONAJES:
+
+
+NAUSICAÄ    Una joven princesa del Valle del Viento que es hábil en leer el
+		viento. Tiene una extraña empatía con los insectos del Fukai
+            [TL=Mar Corrupto, Mar Podrido; TE=bosque de hongos], especialmente
+		Ohmu.
+JHIL        El líder del Valle del Viento; el padre de Nausicaä.
+MITO        Mayordomo del Castillo [TL: Tío del Castillo (un título)]; consejero
+		y guardián de Nausicaä.
+YUPA        Maestro de Nausicaä. Uno de los más renombrados espadachines en la
+		región.
+ABUELA 	Anciana y sabia mujer del castillo. [TL: Gran Anciana]
+ASBEL       Hermano gemelo de Rastel. Rebelde sobreviviente de Pejite.
+KUSHANA     Princesa Imperial de Torumekia. Cuarta en la línea del trono.
+KUROTOWA    Jefe de Estado de Kushana [TE: Consejero]; de sangre común.
+OHMU        Guardianes del Fukai, señores del los insectos. [Nota: "Ohmu" 
+		literalmente es, "Rey (o Señor) Insecto". En este libreto "Ohmu" 
+		es ambos singular y plural]
+
+--------------------------------------------------------------------
+
+(Un hombre camina por un pueblo fantasma infestado con hongos)
+
+YUPA      	Otra villa ha muerto...
+YUPA      	Vámonos... Este lugar, también, se hundirá en el Fukai.
+
+--------------------------------
+
+INSERTO   	1000 years después del colapso de una gigante civilización 
+	    	industrial, óxido y fragmentos de cerámica cubrieron la tierra. 
+	    	Sobre este desierto, un bosque mortal de fungi que expulsa 
+		vapores venenosos (miasmas), los cuales son llamados el "Fukai"
+		(Mar Corrupto), esparciéndose y amenazando la existencia de la
+		declinente raza humana.
+
+Título: Kaze no Tani no Nausicaa  (Nausicaä del Valle del Viento)
+
+----------------------------
+
+(Nausicaä está volando sobre el desierto en su deslizador, Mehve. Aterriza al
+borde del Fukai y entra al bosque)
+
+NAUSICAÄ  	Una huella de Ohmu...   Aún está fresca...  (Ella sigue la huella)
+NAUSICAÄ  	El caparazón [ALT: concha; exuviae] de un Ohmu...  Es magnífico...!
+		Esta es la primera vez que veo un caparazón perfectamente mudado.
+		(Toca el caparazón con su espada de cerámica)
+NAUSICAÄ  	Buen sonido...  (Golpea el caparazón; la espada no le causa ningún 
+		corte significante)
+NAUSICAÄ  	La espada de cerámica se astilló.  Las personas del Valle estarán 
+		felices.  No tendrán que preocuparse por materiales para hacer
+		herramientas por un tiempo.
+NAUSICAÄ  	Un magnífico ojo...  Talvés pueda volar de regreso con este... 
+		(Libera la cubierta del ojo)
+NAUSICAÄ  	Ah, lo tengo!   Que ligero <es>!
+
+(Caen esporas como nieve)
+
+NAUSICAÄ  	Los mushibayashi [un nombre de planta] están esparciendo sus 
+		esporas de la tarde.  Que hermoso... <aunque> este lugar es un 
+		bosque de muerte;  si no es por esta máscara, mis pulmones se 
+		pudrirían en cinco minutos.  [pausa]...!!  Quién es?! [pausa] 
+		Que puede ser?  Mi corazón está latiendo fuerte.  (Ella escucha 
+		un dispara de arma)
+NAUSICAÄ  	Es un arma de insectos!  Alguien está siendo atacado por insectos.
+
+(Ella sube para encontrar un mejor sitio de visión, ese sitio parece ser una
+cabeza fosilizada)
+
+NAUSICAÄ  	Oh! Lo siento!  (Pisa sin querer a un insecto)
+NAUSICAÄ  	Una nube de esporas...  Ohmu!!  Debe ser el dueño de ese caparazón.
+		(Observando la ruta del Ohmu, y luego la ruta del humano)
+NAUSICAÄ  	No debe ir [TL: escapar] por ese camino!  (Dispara una luz de 
+		bengala)
+NAUSICAÄ  	Por favor, mire la señal!  Respondió!  Viene para acá!
+
+(Levanta el vuelo abordo de Mehve, y pronto encuentra a un jinete escapando
+del bosque)
+
+NAUSICAÄ  	Ese es...!  (Un Ohmu gigantesco atravieza el bosque en persecución
+		del hombre)
+NAUSICAÄ  	Que espléndido Ohmu...  (a Yupa)  Hacia donde viene el viento!
+YUPA      	Gracias!  [TL: Lo siento]
+NAUSICAÄ  	Ohmu!  Regresa al bosque.  Este lado ya no es tu mundo.  Ves?
+          	["Ne?": expresión usada en solicitud de un acuerdo]
+          	Se un buen chico.  [pausa]
+          	Se olvidó de si mismo por la ira.  Debo calmarlo.  (Nausicaä lanza
+		bombas de luz)
+YUPA      	El Ohmu está inconsiente por la luz!  (Nausicaä da vueltas sobre
+		el Ohmu, sosteniendo un extraño silbato)
+YUPA      	Un silbato de insectos...
+NAUSICAÄ  	Ohmu, abre los ojos...  Regresa al bosque.  Está despierto!
+YUPA      	El Ohmu está regresando al bosque...  Con solo bombas de luz y 
+		un silbato de insectos, pudo calmar al Ohmu...
+--------------------------------
+
+(Cima de la colina; Nausicaä aterriza y corre hacia Yupa)
+
+NAUSICAÄ  	Maestro Yupa!
+YUPA      	Nausicaä, has crecido!   [TL: visualmente has cambiado; te he 
+		confundido con otra]
+NAUSICAÄ  	Ha pasado un año y medio!  Papá estará complacido.
+YUPA      	Debo agradecerte.  Te has convertido en una gran amazona del 
+		viento.
+NAUSICAÄ  	No, Mi Padre dice que aún no.  (Nausicaä nota algo en la bolsa del
+		cinturón de Yupa)
+YUPA      	Oh, sí...  Había olvidado completamente a este pequeño.
+NAUSICAÄ  	Oh! Un zorro-ardilla.
+YUPA      	Este pequeño fue secuestrado por bicho-pájaro.  Lo confundí 
+		con un bebé humano y terminé usando mi arma.
+NAUSICAÄ  	Así que por eso estaba tan furioso el Ohmu.
+YUPA      	Parece que no inhaló el veneno porque estaba inconsiente.  No 
+		debes ponerle así tu mano.  Es pequeño, pero muy furioso.
+NAUSICAÄ  	Ven...
+YUPA      	Hey!
+NAUSICAÄ  	No hay porque temer.  No hay porque temer.  (El zorro-ardilla
+		muerde el dedo de Nausicaä)
+NAUSICAÄ  	...!!  No hay porque temer.  Ves? ["Ne?"]  (Después de un rato,
+		el zorro-ardilla suelta y lame el dedo de Nausicaä)
+NAUSICAÄ  	Solo estabas asustado, cierto?  Maestro Yupa, no te importaría
+		dármelo?
+YUPA      	Ah...  No me importaría, pero...
+NAUSICAÄ  	Waa!  [expresión que indica emoción]  Gracias!  (Ella corre 
+		hacia los pájaros de montar)
+NAUSICAÄ  	Kai y Kui.  Me recuerdan?
+YUPA      	Que misterioso poder...  [La palabra es "Fushigi" y abarca 
+		diferentes palabras como misterioso, extraño, maravilloso y 
+		místico.  "Misterioso" solo no explica bien la palabra 
+		"fushigi"]
+NAUSICAÄ  	<Están> cansados?  Han corrido mucho!
+YUPA      	Todo está igual?  [TL: No hay cambios en alguien?]  (Nota 
+		el humor de Nausicaä cambiado)  Qué pasa...?
+NAUSICAÄ  	Es mi Padre!  Mi Padre ya no puede volar más...
+YUPA      	Jhil...?  El veneno del bosque...?
+NAUSICAÄ  	Sí...  Es el destino de todos los que viven cerca del Fukai, 
+		o eso me contaron.
+YUPA      	Debí haberlos visitado antes.
+NAUSICAÄ  	No...  Fue bueno que vinieras... Maestro!  Después, quieron 
+		que veas algo.  Mi cuarto secreto!  No se lo digas a nadie o 
+		estarán asustados.
+YUPA      	Oho...
+NAUSICAÄ  	Iré adelante para contar <a todos> que estás aquí.  Apúrate.
+          	(Mostrando lo que encontró)
+NAUSICAÄ  	Maestro Yupa!!  Por favor puedes llevar esto por mí? 
+		La corriente de aire se perturba y no puedo volar bien 
+		<con eso>.
+YUPA      	Oh, ella lee [ALT: entiende] bien el viento.  Vamos, solo un 
+		poco más.
+--------------------------------
+
+(Luego, en el Valle del Viento)
+
+GOLL      	Maestro Yupa!
+TÍO VIEJO	Bienvenido!
+YUPA      	Todos están bien?
+GOLL      	Ambas, el agua y el viento están calmados, sin un incidente.
+NIÑO 		Maestro Yupa!
+YUPA      	Ah, todos están bien?
+GUARDIA    	Maestro Yupa.
+ALDEANO 	Es el Maestro Yupa.
+ALDEANO  	Hemos estado por tí, Maestro Yupa.
+ALDEANO  	Bienvenido.
+
+(Nausicaä está reparando el aspa de un molino de viento)
+
+MITO      	Princesa! Ya llegó!
+NAUSICAÄ  	Solo un momento.
+MITO      	Maestro Yupa!!
+YUPA      	Tio Mito!  Trabajando duro, ya veo.
+MITO      	Cuéntanos más de esas historias extrangeras esta noche!
+NAUSICAÄ  	Ok.  Muévelo.
+MITO      	Luce bien.
+NAUSICAÄ  	Sí.
+
+(Abajo en el suelo, las personas están admirando la cubierta del ojo del
+Ohmu)
+
+GOLL	      Oh, este es uno muy bueno.  La primera cosa que haremos 
+		mañana es conseguirlo.
+NAUSICAÄ  	Está bien, Toeto?
+TOETO     	Sí.
+NAUSICAÄ  	Maestro Yupa, este es la hija de Toeto que nació este año.
+YUPA      	Oh, déjame ver.  Es una linda niña.  Me recuerda a Nausicaä 
+		cuando era menor.
+TOETO     	Puedes ser el padrino de la niña, por favor?
+MUJER VIEJA	Que un buen viento siempre sople para ella...
+YUPA      	Acepto.  Le daré un buen nombre.
+TOETO     	Gracias.  Podrá crecer tan saludable como la Princesa...
+MITO      	Hm!  Si hablamos de salud, la Princesa es famosa por eso.
+          	Pero podrá ser un problema si la niña empieza a imitar también
+		los juegos de la Princesa en el Fukai.
+NAUSICAÄ  	Pero gracias a esos <juegos>, encontré el caparazón del Ohmu.
+MITO      	Bueno, pónganse en mi lugar como Mayordomo.  No puedo dormir
+		fácilmente [ALT: tranquilamente] en la noche de la preocupación.
+GOLL      	Si hablamos de los caparazones de Ohmu, no podemos decir que los
+		juegos de la Princesa en el Fukai fueron en vano.
+YUPA      	Es verdad.  Fuí rescatado también, cierto?
+--------------------------------
+
+(La habitación de Jhil en el castillo)
+
+JHIL      	Salvado por esta niña...?
+YUPA      	Este valle es bueno...  Siempre que vengo aquí, mi corazón se
+		consuela [ALT: sosiega].
+JHIL      	Cómo han estado tus viajes esta vez?
+YUPA      	Es terrible.  En el Sur, dos países más han sido tragados 
+		por el Fukai.  El Fukai se está expandiendo constantemente.  
+		Por donde quiera que voy, solo hay hambre y guerra.  Solo 
+		siniestras sombras.  Porqué no pueden vivir como este valle?
+ABUELA 	Es porque aquí estamos protegidos por el Señor del Viento 
+		[ALT: viento bendito] que sopla desde el mar.  Los venenos del 
+		bosque no pueden alcanzar este valle.
+JHIL      	Como estás, Yupa.  Porqué no te estableces pronto en este valle?
+		Estoy en esta condición...  Todo el mundo estaría feliz...
+ABUELA 	Eso es imposible.  Yupa es un hombre destinado a continuar su
+		búsqueda.
+YUPA      	Destino, dices...?
+NAUSICAÄ  	Abuela, que quieres decir con "búsqueda"?
+ABUELA 	Oh...  No lo sabes, Nausicaä?  Allá - En ese tapiz de la pared.
+		No puede ver más, pero es el señor de la esquina izquierda.
+          	"Aquel, que esté vistiendo un traje azul, podrá descender sobre 
+		un campo dorado.  Para forjar una vez más la atadura perdida 
+		con la tierra."
+NAUSICAÄ  	"Y guiar a todos, al final, a la casta tierra azul..." 
+		Maestro Yupa, pensé que eso era solo una vieja leyenda 
+		[ALT: antiguo mito]
+YUPA      	Abuela!  Me avergüenzas con tu impertinencia.
+ABUELA 	La misma cosa, cierto?
+YUPA      	Solo quiero resolver el misterio del Fukai...  Somos nosotros,
+		La raza humana, una especie destinada a ser tragada por el 
+		Fukai y ser destruídos...? Quiero ver y juzgar por mi mismo.
+--------------------------------
+
+(En la habitación de Nausicaä, ella está viendo por la ventana y su
+mascota duerme en su regazo)
+
+NAUSICAÄ  	Si solo pudiera ayudar al Maestro Yupa...
+--------------------------------
+
+(Esa noche)
+
+MITO      	Princesa... Princesa!
+NAUSICAÄ  	Qué pasa, Mito?
+MITO      	Goll dice que huela algo en el viento.
+NAUSICAÄ  	Ya casi amanece <cierto>...  Estaré ahí.
+
+(En lo alto del castillo)
+
+NAUSICAÄ  	Buen trabajo. ["Gokuro^sama" TE: Gracias por el esfuerzo]
+GOLL      	Es una buena tormenta, pero hay algo extraño...
+NAUSICAÄ  	...! Ahí!!  Ahí, otra vez!  Es un avión.
+MITO      	Porque estaría un avión en una frontera como esta...
+YUPA      	Que sucede?
+MITO      	Maestro Yupa!  Es un avión.
+YUPA      	Un avión?!
+NAUSICAÄ  	Ya viene!
+MITO      	Es grande!
+YUPA      	Es un avión <de tamaño> gigante de Torumekia!
+NAUSICAÄ  	El modo en que está volando es extraño...!  Está tratando
+		de hacer un aterrizaje de emergencia [ALT: aterrizaje forzoso].
+		Goll!  Súbeme!
+MITO      	Princesa!  Eso es absurdo!
+NAUSICAÄ  	Los guiaré hacia la costa!
+YUPA      	Han girado alrededor!
+GOLL      	Aquí va.
+
+(Teto (el zorro-ardilla) salta sobre el hombro de Nausicaä justo antes 
+de que la catapulta lance al Mehve al aire)
+
+NAUSICAÄ  	Teto...!
+
+(Un enjambre de insectos terrestres -como de orugas- están atacando 
+el avión y causando daños)
+
+NAUSICAÄ  	Como pudieron?  Ellos <debieron haber> aterrizaron en el Fukai
+		y mataron algunos insectos.  Levanten su timón!!  Se van a 
+		estrellar!!  Levanten su timón!!  Su timón...!!
+--------------------------------
+
+(Todo se pone en silencio cuando Nausicaä ve a una chica en una ventana,
+el avión se estrella contra la montaña y explota.  En el techo del castillo)
+
+YUPA      	Cayó...
+MITO      	Princesa...!
+GOLL      	Es en el risco de la costa!
+MITO      	Vamos!!
+VOZ		Muévete, vamos!!  Todos los que estén disponibles, apúrense!!
+--------------------------------
+
+(En el sitio del accidente)
+
+NAUSICAÄ  	Ese esa chica!  Está viva...! (Nausicaä la saca del accidente)
+RASTEL    	Dónde...?
+NAUSICAÄ  	El Valle del Viento...  No debes hablar! (La revisa y ve una
+		gran herida en el estómago y una cadena que va a su mano)
+RASTEL    	Soy Rastel de Pejite...  La carga...  Por favor quema la carga...!
+NAUSICAÄ  	La carga?
+RASTEL    	Por favor...  Quémala...
+NAUSICAÄ  	La carga.  Entiendo.  Todo está bien.  Todo se quemó.
+RASTEL    	Bien...
+MITO      	Princesa!
+MITO      	Esta niña...!  Es una Princesa de la casa real de Pejite...
+		(Rastel muere, Nausicaä corta su cadena y junta sus manos)
+--------------------------------
+
+(En el centro del tumulto,)
+
+HOMBRE	Un insecto!!  Un Ushiyabu estaba vivo!!
+HOMBRE	Maldición!  Está llamando a otros insectos!
+HOMBRE	Está herido y no puede volar.
+HOMBRE	Traigan sus armas aquí!
+HOMBRE	Es inútil!  Si disparamos, llamará a otros de su clase!
+HOMBRE	La mataré en el primer disparo.
+HOMBRE	No puedes matar a un Ushiyabu con un arma!
+HOMBRE	Entonces qué?
+NAUSICAÄ  	Esperen!  Mito, <por favor> trae el Mehve.
+MITO      	Sí!
+HOMBRE	Princesa!  (Nausicaä toma su silbato de insectos y lo empieza
+		a girar)
+NAUSICAÄ  	Regresa al bosque...  Está bien!  Puedes volar.  Sí, eres un
+		buen niño...
+MITO      	Princesa!
+NAUSICAÄ  	Gracias.  (Ella lanza el silbato para insectos al aire, y el 
+          	Ushiyabu levanta vuelo.  Guiando al insecto, Nausicaä se dirige
+		al Fukai)
+MITO      	Estoy contento...  No sabemos que pasaría si matamos a uno de
+		ellos...
+          	[La alternativa, "si uno de ellos es muerto", no implica
+          	específicamente a humanos como los asesinos.  Por esta razón, la
+          	frase anterior debe ser dejada así, aunque esta suene un poco
+		rara]
+--------------------------------
+
+(Al llegar al comienzo del Fukai, Nausicaä aterriza y ve alejarse al insecto.
+En el desierto, un Ohmu espera)
+
+NAUSICAÄ  	Ohmu...
+--------------------------------
+
+(En el aire, aviones de guerra se hacen señales el uno al otro)
+--------------------------------
+
+(En el Valle, los campos están siendo revisados en busca de esporas)
+
+NIÑO		Lo encontré!  Por aquí!  Aquí está.  Habían esporas en el avión
+		después de todo.
+HOMBRE	No han expulsado ningún veneno aún?  (Quema la espora) Solo un
+		poco más.
+NIÑO       	Sip.  Aún si queda una, será un desastre.  (En los restos que
+		se quemaron del accidente)
+HOMBRE	Que se supone que es esta cosa...? (Ven una gran masa roja)
+HOMBRE	No se quemó aún con ese fuego.
+MITO      	Bueno, todo el mundo, regresaremos a la investigación de esta
+		cosa después.  Por faqvor ayuden a quemar las esporas.  Tengan
+		mucho cuidado.  [pausa]  Realmente, que cosa tan molesta han 
+		logrado transportar <a este valle>.
+YUPA      	Mito, mira aquí. (La cosa roja palpita)
+MITO      	Se está moviendo...  Es como si estuviera viva.  Maestro Yupa, 
+		esto es...?
+YUPA      	En medio de mis viajes, escuché un siniestro rumor...  Dice que
+		un mosntruo del mundo antiguo había sido escabado de debajo de
+		la ciudad de Pejite donde había estado durmiendo.
+MITO      	Un monstruo del mundo antiguo?
+YUPA      	Es un Dios Guerrero [TL: Dios Soldado Gigante].
+MITO      	Un Dios Guerrero?!  O sea, los que quemaron el mundo en los Siete
+		Días de Fuego...?!  Esta cosa...!
+YUPA      	Todos los Dioses Guerreros deberían haberse convertido en fósiles.
+		Pero este logró dormir bajo tierra por 1000 años.
+MITO      	Parecer que tiene forma humana, ahora que me lo dices.
+YUPA      	Torumekia es un gran estado militar en el lejano Oeste.  Y con
+		estos prisioneros muertos de from Pejite...  Me preocupa...
+--------------------------------
+
+(Cerca del bosque del Valle)
+
+NAUSICAÄ  	Por favor, ocúpense del resto.  [pausa] Qué podrá ser...?  
+		(Aviones aparecen, dispersando a la gente)
+NAUSICAÄ  	Es una nave de Torumekia.  Todos, al castillo!  (De los aviones
+		aterrizados, están descendiendo soldados con armadura)
+NAUSICAÄ  	Todo el mundo!  Al castillo!!  Todos, vayan al castillo!! 
+		[TL:  reúnanse en el castillo; encuéntrense en el castillo]
+          	Al castillo!!  (Viendo un avión despachando tropas al castillo)
+NAUSICAÄ  	Padre!!
+--------------------------------
+
+(En el castillo.  Jhil desenvaina su espada)
+
+JHIL      	Escóndete, Abuela.
+ABUELA 	Me quedaré aquí.
+
+(Miestras se acerca la castillo, Nausicaä escucha disparos de arma)
+
+MUJER		Princesa!?
+
+(Entrando bruscamente en la habitación de Jhil, Nausicaä encuentra a
+soldados de Torumekia parados sobre el cuerpo de su padre)
+
+NAUSICAÄ  	Como se atreven...!!
+
+(Ella los ataca.  Luego de terminar con los guardias, nuevos soldados
+con armaduras llegan.  Ella evade un ataque y salta hacia atrás.  
+Encontrando la espada de su padre, ella los embiste)
+
+ABUELA 	NausicAÄ!
+
+(Yupa salta en medio de Nausicaä y los soldados invasores)
+
+YUPA      	Usted!  No se mueva!!  Si lo hace, este cuchillo cortado de un
+		caparazón del un Ohmu atravesará su armadura de cerámica.
+		(Yupa coloca su cuchillo en el cuello de un soldado, y con su
+		otro brazo detuvo la espada de Nausicaä)
+SOLDADO	(A Kushana) Ese hombre... es Yupa.
+YUPA      	Le pregunto al ejército de Torumekia.  Anoche, la gente de este
+		valle trabajaron duramente por salvar su nave.
+YUPA      	Aún ahora, acabamos de enterrar cuidadosamente a los muertos.
+		Aunque <este país> es pequeño, esta es la cortesia de Torumekia 
+		hacia un país?!  Si ustedes empiezan una guerra, deben tener una
+		razón.  Deben primero enviar un mensajero y establecer <cuales son>
+		sus objeciones.  (Por la espada que tiene atravezada en el brazo, 
+		le empieza a salir sangre, Nausicaä la ve y le dice)  Nausicaä...  
+		Cálmate, Nausicaä.  Si peleamos ahora, todos en este valle serán
+		asesinados.
+          	Debemos estar vivos y esperar nuestra oportunidad.
+KUROTOWA  	Uuf...   Ese jovencita...! (Saca un pistola y le apunta a Nausicaä)
+KUSHANA   	Alto, Kurotowa.
+KUROTOWA  	Pero...! Oh rayos... Es un demonio! [ALT: Es una perra]
+          	Los mató *a todos*!
+KUSHANA   	Tu consejo duele en mi oídos...  No eres Yupa Miralda, el mejor
+		espadachín de la frontera?  Nuestro objetivo no es la masacre.  
+		Quiero hablar.  <Te pido que> envaines tu espada. (Yupa guarda
+		su cuchillo y se saca el brazo de la espada de Nausicaä, esta de
+		la impresión, se desmaya)
+--------------------------------
+
+(Afuera del castillo, la gente ha sido reunida bajo custodia.  Kushana 
+está parada sobre un tanque.  Nausicaä camina hacia el tanque)
+
+MITO      	Es la Princesa!
+HOMBRE      Princesa!
+KUROTOWA  	Escuchen!  Estás son las palabras de Su Alteza Kushana, 
+		Comandante de la fuerza expedicionaria fronteriza del Imperio
+		de Torumekia!
+KUSHANA   	Hemos venido para unir a los países de la frontera para construir
+		una tierra sin preocupaciones. [TL: Un camino grande y sin afanes].
+		Están a punto de ser destruídos por el Fukai.  Obedéscanos, 
+		y cooperen en nuestra empresa!  Quememos el Fukai y una vez más
+		revivamos esta tierra!
+TÍO		Quemar el Fukai?
+TÍO	     	Eso es posible?
+KUSHANA   	Hemos revivido las milagrosas habilidades y poderes que hicieron
+		una vez a la raza humana los amos de este planeta.  Para aquellos 
+		me obedezcan, prometo una vida sin miedo de los venenos del bosque
+		o los insectos!
+ABUELA 	Esperen!
+
+(La Abuela camina hacia el tanque y encara a Kushana)
+
+ABUELA 	No deben levantar una mano en contra del Fukai!
+KUROTOWA  	Quién es esta vieja arrugada?  Hey!  Llévensela!
+KUSHANA   	Déjala hablar...
+ABUELA 	Hace mil años desde el nacimiento del Fukai... Los humanos han
+		tratado de quemar el Fukai.  Pero cada vez, una manada de Ohmu,
+          	enloquecidos por la ira, convergen para formar una ola gigante,
+		como una inundación que cubre la tierra [ALT: enloquecidos
+		por la ira, vienen en un poderoso ataque como una sola ola]
+          	Destruyendo países, tragándose ciudades...  Los Ohmu continuarán
+          	corriendo hasta que sus propias vidas expiren de hambre.  A su
+		debido tiempo, usando los cuerpos de los Ohmu como semilleros, 
+		las esporas echarán sus raíces a la tierra y vastas tierras
+		serán tragadas por el Fukai...
+          	No deben tocar el Fukai...
+KUROTOWA  	Cállese!  No permitiré tales disparates!
+ABUELA 	Bueno, que va a hacer?  Matarme?
+KUROTOWA  	T-tu <perra>!  ["Kisama": "Tu", pero de un modo más indecente;
+		como insulto]
+ABUELA Go 	Adelante, máteme!  Son una mujer vieja y ciega; es fácil!  
+		<Del mismo modo> como mató a Jhil...
+MITO      	Señor Jhil?!
+HOMBRE      El Señor Jhil estaba enfermo!
+ALDEANOS	Asesinos!  Asesinos!!
+KUROTOWA  	Cállenlos!  No seré indulgente con aquellos que me desafíen.
+NAUSICAÄ  	Todos, esperen!  Por favor escúchenme...!  No quiero crear
+		ninguna otra muerte...
+MITO      	Princesa...
+NAUSICAÄ  	Por favor entiende también, Abuela.  Vamos a obeceder a esta
+		gente.
+--------------------------------
+
+(El Dios Guerrero está siendo halado por los aldeanos al castillo)
+
+KUSHANA   	Es un valle muy bonito, no lo crees...?
+KUROTOWA  	Me opongo a esto.  Nuestras ordenes son la de transportar al
+		Dios Guerrero de vuelta a nuestro país natal lo antes posible.
+KUSHANA   	Las órdenes no pueden ser llevadas a cabo.  Aún la nave <del 
+		tipo> gigante no soportaría el peso de esa cosa y se estrellaría.
+KUROTOWA  	Pero...  No habla en serio de establecer un estado [ALT: nación]
+          	aquí...
+KUSHANA   	Y que si lo quiero?  Estás diciendo que debemos hacer ese monstruo,
+		el juguete de esos tontos de casa?
+KUROTOWA  	Bueno, puedo entender eso, pero... (se coloca en posición de 
+		firmes para llamar la atención) yo soy no más que un simple 
+		soldado.  Estaré sobrepasando mis privilegios en tal decisión.  
+		[ALT: Tal decisión está más allá de mi estación]
+KUSHANA   	Hmph!  Zorro...!  [TL: Tejón]  Regresaré a Pejite.  En mi ausencia, 
+		pongan todo su esfuerzo en revivir al Dios Guerrero.
+KUROTOWA  	Sí, señora!
+KUSHANA   	Esta nave armada funciona?
+KUROTOWA  	Sí, es un hallazgo.
+--------------------------------
+
+(En el cuartel provisional de Kushana)
+
+KUSHANA   	No me malinterpreten.  No les estoy consultando.
+MITO      	Pero...!  Llevándose a la Princesa a Pejite...
+GOLL      	Cinco rehenes, el avión y comida, dice usted...
+KUSHANA   	Dejo la selección <de los rehenes> a ustedes.  Completen los
+          	preparativos para partir, mañana en la mañana. [ALT: los
+		preparativos a tiempo para partir mañana en la mañana]
+--------------------------------
+
+(En el hangar)
+
+YUPA      	Gracias por ser los rehenes.
+MITO      	Olvídalo...  Por favor mira.  Están tratando de llevarse todo.
+YUPA      	Dejaré este lugar por ahora.  Regresaré secretamente y esperaré
+		por una oportunidad.  Debemos detener el revivamiento de ese 
+		monstruo a toda costa.
+MITO      	Sí.
+--------------------------------
+
+(Yupa toca en la puerta de Nausicaä)
+
+YUPA      	Nausicaä.  (Al no escuchar respuesta, entra y ve a Teto raspando
+		la pared)
+YUPA      	Teto, dónde está tu dueña?
+
+(Yupa toca la pared y descubre una puerta secreta, la empuja y sigue a Teto
+a un cuarto bajo el castillo; al entrar ve una especie de jardín)
+
+YUPA      	Nausicaä, que significa todo esto? Estas son plantas del Fukai!
+NAUSICAÄ  	Conseguí las esporas y las cultivé.  Está bien.  No están arrojando
+		vapor [ALT: miasma].
+YUPA      	No arrojan veneno...!?  Aunque el aire aquí ciertamente es puro...
+		Porqué?!  Aún cuando esta venenosa planta Hisokusari ha florecido?!
+NAUSICAÄ  	El agua usada aquí es traída de 500 metros bajo tierra por el
+		molino de viento gigante del castillo.  He conseguido la arena del
+		mismo lugar.  Descubrí que las plantas del Fukai no arrojan veneno
+		con agua y tierra limpias... Es la tierra la que está contaminada!
+          	Aún el suelo de este valle está contaminado.  Porqué!?  Quién le
+		pudo hacer esto al mundo?
+YUPA      	Descubriste todo esto tu sola?
+NAUSICAÄ  	Sí...  <Porque> quería curar la enfermedad de mi Padre y de todos.
+		Pero...  Cerraré pronto este lugar.  Detuve el agua hace un rato, 
+		así que todas se marchitarán pronto.  (Nausicaä va a abrazar a
+		Yupa llorando)
+YUPA      	Nausicaä...!
+NAUSICAÄ  	T...  tengo miedo de misma...  No se lo que haga furiosa!
+          	No quiero matar a nadie más...!
+--------------------------------
+
+(Al día siguiente, antes del despegue; el pueblo se reune a despedir a su
+princesa; tres niñas corren hacia la princesa)
+
+NIÑA      	Princesa [ALT: Hermana-Princesa]!  Princesa!  Recogimos estas
+		nueces Chico...  Se las damos a usted, Princesa!
+NAUSICAÄ  	Niñas...!  Son muchas...  Debió haber sido difícil...  Gracias...
+          	Las comeré con cariño.
+NIÑA      	Pobre Princesa! (Las niñas llorando abrazan a Nausicaä)
+GUARDIA     Aborde rápido!  Estamos partiendo!!
+NAUSICAÄ  	Vamos...  Niñas.  No lloren más... Está bien.  Regresaré.
+NIÑA      	En serio?
+NAUSICAÄ  	Hey, alguna vez les he dicho una mentira?
+NIÑA      	No...
+NAUSICAÄ  	Ne?
+NIÑA      	De veras?
+NAUSICAÄ  	Sí.  Vamos, será peligroso <si se quedan por aquí>.
+NIÑAS     	Es una promesa!! [TL: Seguro.  Esencialmente, ellas están
+		preguntando para reasegurar]
+
+(Los aviones están acumulando aceleración)
+
+HOMBRE      Cuiden a la Princesa!
+TÍO     	Cuiden a los demás!  [Una frase de despedida común]
+--------------------------------
+
+(Volando; abordo del avión remolcado del Valle)
+
+GOLL      	Pejite está cerca? [TL: Pejite aún no?]
+TÍO     	Mi cadera [TL: El área cubriendo la cintura y la cadera] me 
+		está doliendo...
+TÍO     	Ay, Ay, la Princesa realmente escogió aquellos que no deben 
+		fallar.
+GOLL      	Hey...  No crees que esto es extraño?  Porqué estamos volando
+		en un formación cerrada como esta?
+TÍO     	Es como si tuvieran miedo de un ataque.
+
+(Abordo de un gran avión de transporte)
+
+NAUSICAÄ  	Bajo las nubes es un terrible remolino de vapores.
+NAUSICAÄ  	...? (Ella mira hacia arriba, pues parece que vió algo)
+GUARDIA    	No se mueva.
+
+(Una nave armada extrangera aparece de repente de las nubes de arriba)
+
+NAUSICAÄ  	Una nave armada!!
+VOZ	     	Ataque enemigo!  Nave número 2, destruída!!
+
+(En el avión remolcado)
+
+TÍO     	Como lo dije!
+TÍO     	Que miedo!!
+
+(La nave armada está regresando para otro ataque)
+
+VOZ		Perímetro de defensa!  Es una nave armada de Pejite!
+NAUSICAÄ  	Pejite!?
+VOZ		Maldición - nave número 3, también fue destruída!  Qué está
+		haciendo la corveta?!
+RADIO     	(de la nave número 3) "No podemos maniobrar!  No podemos 
+		maniobrar!"
+MITO      	Qué avión más frágil.  (Explosión)
+VOZ     	La guardia trasera fue atrapada en eso!
+
+(La línea de remolque del avión se rompe y este vuela sin curso)
+
+NAUSICAÄ  	El cable del remolque...!  Teto, rápìdo! (Teto se esconde
+		en el pecho de Nausicaä)
+MITO      	No hay caso, este también caerá!  Princesa! (La nave de
+		transporte es impactada)
+
+(Nausicaä trepa arriba del transporte, y se para en medio de la línea
+de disparo)
+
+NAUSICAÄ  	<Por favor> alto!  No mate a nadie más!! 
+NAUSICAÄ  	Alto!!  (El piloto duda y la nave armada gira violentamente.  
+		Esta es impactada y empieza a caer)
+MITO      	Princesa!
+
+(El transporte está en fuego; Nausicaä y Mito llegan a la nave armada en 
+la bodega)
+
+NAUSICAÄ  	Rápido, Mito!!
+MITO      	Ouch-ouch-ouch.  Princesa!  Es inútil!
+NAUSICAÄ  	Seremos capaces de volar!
+MITO      	Qué?!
+NAUSICAÄ  	Mito!  Rápido!!
+MITO      	S-Sí!!
+NAUSICAÄ  	Motor, encendido!  Volaremos la puerta con el arma!!
+MITO      	Sí!  (Nausicaä ve a Kushana en la entrada de la bodega)
+NAUSICAÄ  	Venga!  Rápido!!  (Kushana duda, pero salta abordo de la nave de 
+		batalla)
+NAUSICAÄ  	Rápido, entre!  Mito, listo?!
+MITO      	De algún modo!
+NAUSICAÄ  	Motor a toda potencia al mismo tiempo del disparo <del arma>!
+MITO      	Ententido!
+NAUSICAÄ  	Lista!  Fuego!
+
+(La nave armada deja exitósamente el transporte incendiado; este luego
+explota)
+
+NAUSICAÄ  	Pónganse las máscaras!  Descenderemos bajo las nubes y rescataremos 
+		el remolque!
+--------------------------------
+
+(Bajo las nubes, sobre el Fukai)
+
+NAUSICAÄ  	<Aún está> tibio...  Por favor no mueres, Teto!
+MITO      	Que mundo <hay abajo>!  Nunca he visto un vapor [ALT: miasma]
+		denso antes!
+NAUSICAÄ  	Puesto trasero!  Atención en la dirección trasera-derecha!  
+		Están cerca.  Aún están volando!
+MITO      	Es verdad!  En realidad estaban allí!!
+TÍO     	Es la Princesa!
+GOLL      	Princesa!
+NAUSICAÄ  	Todos!  Aguanten!!  Extenderé el cable.
+TÍO     	El gancho está roto.  La recuperación aérea es imposible!
+TÍO     	No quiero hacer un aterrizaje de emergencia [ALT: aterrizaje
+		forzoso] y ser comido por los bichos!!
+TÍO     	Solo moriré [ALT: Me mataré a mi mismo] sin más bulla!
+MITO      	Cálmense!!  Arrojen el equipaje!!
+TÍO     	Adiós!
+MITO      	Hagan lo que digo!!  Arrojen el equipaje!!
+NAUSICAÄ  	Puesto trasero! Apaga el motor!!
+MITO      	Q-Qué?!
+NAUSICAÄ  	El ruido del motor está distrayendo.  Rápido!!
+MITO      	S-Sí! (Nausicaä se para sobre la cabina, maneja los controles
+		con los pies y se quita su máscara)
+GOLL      	P-Princesa!  Q-Qué...
+TÍO     	Princesa, su máscara!!  Morirá!  Póngase la máscara!!
+NAUSICAÄ  	Todos!  Seguro [ALT: claro] que los salvaré!  Créanme y
+		arrojen el equipaje!
+TÍO     	Haremos lo que sea!  Por favor, rápido, póngase la máscara!
+GOLL      	La Princesa está sonriendo.
+TÍO     	Vamos a ser salvados.
+GOLL      	Rápido!  Arrojen el equipaje!
+MITO      	El arco está cayendo!!
+NAUSICAÄ  	Enciende el motor!  Buscaremos un lugar para aterrizar de 
+		emergencia!  Un poco <del vapor [ALT: miasma]>... llegó a mis
+		pulmones...
+--------------------------------
+
+(La nave armada y el remolque acuatizan en un lago)
+
+TÍO     	Princesa!
+NAUSICAÄ  	Todos están bien?
+KUSHANA   	No se muevan!  (Ella sale de la nave y les apunta con su arma)
+MITO      	Tú...!! ["Kisama"]
+KUSHANA   	Gracias por tu labor hace un rato.
+GOLL      	Princesa!  Porqué <salvó> a una como...?
+KUSHANA   	Eres muy ingenua. ["Amai"  TE: dulce, fácil, simple, confiada]
+		Pensaste que me pondrías de rodillas y te agradecería?
+NAUSICAÄ  	No has entendido nada sobre el Fukai.  Este no es un mundo 
+		humano...  Este es un lugar donde usted no sabe que pasará si
+		usa un arma.  Muchos aviones cayeron al bosque por la batalla de
+		hace poco, y los insectos están furiosos.  Mire, arriba...  
+		El Yanma real es el centinela [TE: vigilante] del bosque.  
+		Llamará [ALT: Reunirá] inmediantamente a los otros insectos.  
+		Debemos escapar en el acto!
+          	<Traigan> el cable de repuesto!
+MEN       	S-Sí!
+NAUSICAÄ  	Mito!  Repara el gancho!
+MITO      	Sí!  (Kushana dispara)
+KUSHANA   	No se muevan!  Yo daré las órdenes!
+NAUSICAÄ  	De qué tienes miedo?  Pareces un zorro-ardilla perdido.
+KUSHANA   	QUÉ!?
+NAUSICAÄ  	No te asustes...  Sólo quiero que regreses a tu propio país.
+KUSHANA   	Tú <perra>...! ["Kisama"]  (La nave se sacude de arriba a abajo
+		en forma de las en el lago)
+TÍOS    	Qué es esto?
+NAUSICAÄ  	Ya viene!  (Ohmu emergen alrededor de ellos)
+NAUSICAÄ  	Silencio!!  No los enfurezcan!
+TÍO     	Este es un nido de Ohmu!!
+GOLL      	Estamos rodeados...
+NAUSICAÄ  	Nos estás investigando...  Ohmu!  Lo siento!  Por perturbar su
+		nido...  Pero, por favor entiendan!  No somos sus enemigos.  
+		(Un Ohmu extiende sus antenas, rodeando a Nausicaä)
+TÍO    	P-Princesa!
+
+(Nausicaä ve una visión de un campo dorado y un gran árbol.  Los Ohmu se van)
+
+NAUSICAÄ  	..!!  Esa persona está viva?  Esperen!  Ohmu!!
+GOLL      	Qué está empezando [ALT: sucediendo]?!
+TÍO     	Los ojos de los Ohmu están en rojo brillante. (Nausicaä abre un
+		compartimiento secreto en el ala del remolque)
+GOLL      	Princesa!  Que piensa que está haciendo con Mehve?
+NAUSICAÄ  	Cuando el agua se calme, despeguen y esperen en el cielo alto!  
+		Si no regreso en una hora, regresen al valle!!
+MITO      	Pero!
+TÍO     	Princesa!  (Nausicaä despega y vuela, al fondo se ve una gran
+		cantidad insectos no muy contentos que digamos)
+TÍO     	Se fue...
+MITO      	(Se acerca a Kushana) Usted me dará eso...  (Mito toma el arma)
+		Bueno, todos, vamos a seguir las instrucciones de Princesa.  
+		Princesa...
+--------------------------------
+
+(El piloto de la estrellada nave armada está luchando una batalla 
+perdida con enjambres de insectos terrestres)
+
+PILOTO     	M-Mierda!  (El piloto cae a un precipicio, y es perseguido por
+		un Hebikera, un insecto volador.  Nausicaä salva al piloto de las
+		mandíbulas del insecto)
+PILOTO     	Tu <eres>...?
+NAUSICAÄ  	Has matado demasiados <insectos>!  Ni las bombas de luz ni el 
+		silbato para insectos funcionaran más!
+
+(La cola del insecto golpea al Mehve.  Ellos se estrellan en un arenal.
+El piloto es consciente de nuevo)
+
+ASBEL     	Arenas movedizas!  M-Maldición!
+--------------------------------
+
+(En el cielo sobre Fukai)
+
+TÍO     	Ya han pasado 2 horas!
+TÍO     	Los insectos solo se han incrementado.
+TÍOS    	Princesa!  Princesa!!
+--------------------------------
+
+(Campo dorado; un sueño.  La joven Nausicaä está recogiendo flores)
+
+JHIL      	Nausicaä...  Nausicaä!  Ven acá...  Ven acá...!
+NAUSICAÄ  	Padre...  Madre también está aquí...  No...  No quiero ir por
+		ese camino... (Nausicaä va a caballo con su padre)
+NAUSICAÄ  	No vayan!  No hay nada <aquí>.  Realmente no hay nada <aquí>!
+          	(Se acercan a un gran árbol, Nausicaä intenta impedir que se 
+		acerquen, pero una larva de Ohmu aparece)
+NAUSICAÄ  	No salgas!
+HOMBRE	Es una larva de Ohmu.
+JHIL      	Así que este árbol estaba infectado, después de todo.  [Esta 
+		frase también puede ser interpretada como "Así que ella poseída
+		<por el bicho> después de todo".  Es mi fuerte creencia de que
+		este es el anterior, pero es difícil estar seguro] Entrégamelo,
+		Nausicaä.
+NAUSICAÄ  	No.  N ha hecho nada malo!
+JHIL      	Las personas y los insectos no  pueden vivir en el mismo mundo, hija.
+NAUSICAÄ  	Por favor!  No lo maten!!  Por favor...
+
+(Ella despierta)
+
+NAUSICAÄ  	Teto ...
+NAUSICAÄ  	Un misterioso [ALT: extraño; "fushigi na" ] lugar...  
+		(El piloto, llevando el Mehve, corre hacia Nausicaä)
+ASBEL     	Hola!  Al fin lo encontré.  Cómo te sientes?
+NAUSICAÄ  	Dónde estamos?
+ASBEL     	Primero que todo, déjame agradecerte.  Soy Asbel of Pejite. 
+		Gracias por salvarme.
+NAUSICAÄ  	Soy Nausicaä del Valle del Viento...  Dónde está este lugar?
+ASBEL     	No es extraño que estés sorprendida.  Estamos bajo el Fukai.
+NAUSICAÄ  	Bajo el Fukai?
+ASBEL     	Mira.  Caímos de allá arriba, con las arenas.
+NAUSICAÄ  	(Hace como si se ahogara)...!!  No tenemos puestas nuestras
+		máscaras!
+ASBEL     	Sí, tienes razón.  Aquñi el aire es límpio.  También estaba
+		sorprendido... de que hubiera in lugar como este bajo el Fukai.  
+		Qué sucede?  (Nausicaä empieza a caminar)
+ASBEL     	Nausicaä!  No te alejes mucho!  (Ella camina hacia uno de los
+		árboles fosilizados)
+NAUSICAÄ  	Qué magnífico árbol...  Sigue conduciendo agua aunque ya ha 
+		muerto...  (Fragmentos de arena caen de arriba.  Ella levanta una)
+NAUSICAÄ  	Igual que la arena del pozo...
+NAUSICAÄ  	Los árboles fosilizados se desmoronan, y caen...
+
+(Después de un rato, Asbel encuentra a Nausicaä acostada en el suelo)
+
+ASBEL     	Estás llorando?
+NAUSICAÄ  	Sí...  Estoy feliz...
+--------------------------------
+
+(Después)
+
+ASBEL     	Rastel era mi hermana gemela...  Quería estar ahí con ella 
+		<cuando murió>...
+NAUSICAÄ  	Lo siento...  <Es que> me demoré en contártelo.
+ASBEL     	No...  lo siento.  Casi asesino a la persona que guardo la muerte
+		de mi hermana.  [ALT: que estuvo en el lecho de muerte de mi
+		hermana] ["Mitoru" - Vigilar la muerte.  En Japón, como en otros
+		países, la observancia de la muerte de quien amas o de un familiar
+		es considerado importante.  Aquí, con Nausicaä en su lugar vigilando
+		la muerte de la hermana de Asbel, Asbel "le debe a" Nausicaä de 
+		alguna manera]
+NAUSICAÄ  	No.
+ASBEL     	Así que... Esa cosa se da en el Valle del Viento?
+ASBEL     	...!!  Nueces de extraño sabor, cierto? (Asbel come una
+		y hace un gesto de desagrado por el sabor, Nausicaä está
+		comiendo y le da a Teto también)
+NAUSICAÄ  	Son llamados nueces Chico...  Son muy nutritivas.
+ASBEL     	Olvidemos el sabor, quiero comer una bolsa llena!
+		(Asbel come muchas y Nausicaä se ríe al verlo)
+--------------------------------
+
+(Esa noche)
+
+ASBEL     	La razón del nacimiento del Fukai?  Eres una persona que piensa 
+		sobre cosas extrañas.
+NAUSICAÄ  	Los árboles del Fukai nacieron para limpiar este mundo que los 
+		humanos ahn polucionado.  Ellos toman dentro de sí, el veneno de 
+		la tierra, se convierten en cristales límpios, y luego mueren
+		convirtiéndose en arenas.  Esta caverna subterránea fue creada
+		de ese modo.  Los insectos están protegiendo ese bosque.
+ASBEL     	Si eso es así, parece como si no tuvieramos más alternativa que
+		morirnos.  No sabemos cuantos miles de años tomará eso - No 
+		podemos vivir con miedo al vapor [ALT: miasma] y a los insectos.  
+		Al final, necesitamos un modo de evitar que el veneno del Fukai
+		no se siga esparciendo más de donde esta.
+NAUSICAÄ  	Dices la misma cosa que Kushana.
+ASBEL     	No!  No estamos planeando usar al Dios Guerrero en la guerra!  
+		Mañana, cuando conozcas a todos, lo entenderás!
+NAUSICAÄ  	(Hablando medio dormida) Vámonos a dormir...  Mañana...  tenemos 
+		que volar mucho... (Nausicaä se queda dormida, Asbel la observa
+		un momento y luego la cubre con su manta)
+--------------------------------
+
+(De regreso en el Valle, donde el Dios Guerrero está siendo revivido)
+
+GUARDIA     Nada inusual, señor.
+KUROTOWA  	Vamos fácilmente?
+GUARDIA     Sí, señor!  La mitad superior casi se ha estabilizado. (Yupa
+		observa todo desde un escondite)
+KUROTOWA  	(al Dios Guerrero) De veras, entre más lo veo, más adorable me
+		parece el monstruo.  Aún para un simple soldado como yo, la
+		ambición la ambición que ha estado oxidado por algún tiempo
+		empieza a latir.  Sheesh!  (El Dios Guerrero abre los ojos)
+		Se está riendo!  Los que eran como tú debieron haber dormido bajo 
+		tierra hasta el fin de los tiempos!
+GUARDIA     Jefe!  el convoy de Su Alteza fue atacado por un rebelde de 
+		Pejite, y dejando solo una corbeta, todos fueron aniquilados.
+KUROTOWA  	Qué le sucedió a Su Alteza!
+GUARDIA     Me dijeron que su avión explotó en pleno vuelo.
+GUARDIAS    Jefe!
+KUROTOWA  	Los aldeanos no se han enterado aún...?
+GUARDIA     No, señor!
+KUROTOWA  	Bien!  Iré de inmediato.  Mientras para el resto de ustedes,
+		continuen con la operación!
+GUARDIAS    Sí, señor!
+KUROTOWA  	Parece que la suerte finalmente le llega a un comunero sin suerte,
+		o es una trampa de destrucción?
+--------------------------------
+
+(En un pasadizo oculto en el castillo)
+
+NIÑO       	El Tío Mito y los otros han regresado.
+NIÑO       	Están esperando por usted en el Mar Ácido, Maestro Yupa.
+--------------------------------
+
+(En el casco de una antigua nave cerca del Mar Ácido)
+
+MITO      	Hemos regresado solos <sin la Princesa>...  [disculpándose]
+          	[ALT: Tuvimos el descaro de regresar solos]
+VOZ		No...  estoy contento de que ninguno está herido.
+
+(En una sección del casco,)
+
+KUSHANA   	<Quiere dicer que está> dejándome libre?
+YUPA      	Porqué no hunde al Dios Guerrero dentro del Mar Ácido y regresa 
+		a su propio país?  Son pocos los guerreros <de Torumekia> que 
+		quedan en el valle.  Sería fácil luchar ahora, pero no tiene 
+		sentido que incrementar los muertos.
+KUSHANA   	Ni el fuego ni el agua funcionarán en esa cosa... No puede
+		moverlo ahora, solo hasta que empieza a caminar...  No entiende?
+		No hay regreso.  Por el miedo de que un país extrangero pudiera 
+		poseer un enorme poder, me fue ordenado conquistar Pejite.  
+		Ahora que la existencia de esa cosa es conocida, los países 
+		vecinos pronto estarán despachando enormes ejércitos, uno tras 
+		otro.  Solo les queda un camino a <todos> ustedes.  Revivan al 
+		Dios Guerrero, rechazen la intervención de los poderes vecinos, 
+		y vivan con esas cosa!
+          	Miren!  (Kushana desabrocha cierto dispositivo para revelar su
+		mano izquierda mecánica; todos ponen cara de asombro)
+YUPA      	Por un insecto...?
+KUSHANA   	Aquel que será mi esposo verá cosas aún más espantosas.  Quemen
+		el Fukai!  Maten a los insectos!  Porqué dudan en regresarle el
+		mundo a los humanos?!  Tomen [ALT: Arrebaten] esa cosa <de nosotros> 
+		así como nosotros se la tomamos [ALT: arrebatamos] a Pejite.
+YUPA      	Nosotros no reviviremos al Dios Guerrero!
+
+(Un niño llega a la puerta)
+
+NIÑO       	EmergencIA!!
+NIÑO       	Hey, da la contraseña!
+NIÑO       	Tengo prisa!
+NIÑO       	Viento!
+NIÑO       	VALLE!!
+NIÑO       	OK.
+NIÑO       	Quedó una espora!
+MITO      	QUÉ?!
+NIÑO       	Están lanzando muchos vapores y todo se está convirtiendo en una
+		gran conmoción por todo el valle!
+--------------------------------
+
+(Afuera del castillo, una muchedumbre se ha reunido)
+
+VOZ     	Entréguelas!
+VOZ     	Rápido, entréguelas!
+VOZ     	Si no nos apuramos, el valle entero será aniquilado!
+VOZ     	Eso es cierto!  Entreguen los ganchos de mano y los lanzallamas!!
+VOZ     	Están creciendo rápidamente!
+GUARDIA     Las herramientas para quemar las esporas pueden volverse armas...  
+		Darles eso <podría ser>...
+KUROTOWA  	No hay más que hacer.  Regrésenles todo menos las armas.
+GUARDIA     Sí, señor!
+GUARDIA     La corveta está partiendo.
+KUROTOWA  	No fallen esta vez.  Reunan a todas las tropas que quedan en
+		Pejite y traíganlas a este valle.
+GUARDIA     Sí, señor!
+KUROTOWA  	Rayos, esto se está volviendo molesto...
+HOMBRE      Rápido! Apúrense!
+--------------------------------
+
+(En el Mar Ácido, la nave armada está por partir)
+
+GOLL      	Por favor encuentren a la Princesa.
+YUPA      	Cuiden del valle.  Repriman hasta que regrese.
+GOLL      	Sí <lo haremos>.
+GOLL      	Iremos al valle.
+--------------------------------
+
+(En los campos, se ve un gran árbol del cual caen muchas hojas, con 
+grandes bolsas de esporas)
+
+HOMBRE      Es perdido!  Las esporas se han esparcido hasta acá.
+HOMBRE      Está infectado aquí también!
+MUJER     	Fuera del camino!
+GUARDIA     Qué estan haciendo! (un par de mujeres golpean con hachas la
+		raíz de un árbol)
+MUJER     	Aquí también!
+VOZ     	Abuela...
+ABUELA 	Sólo podemos quemarlos...  Este bosque está perdido.  Si
+		dudamos, el valle entero será tragado por el Fukai.
+HOMBRE      No hay nada que podemos hacer...?  Este bosque ha protegido
+		el depósito por 300 años...
+HOMBRE      Maldición... Si solo ellos no hubieran venido...  (Entrando al
+		Valle,)
+GOLL      	Parece que no se arreglará como es [ALT: arreglar con solo el 
+		incendiar de los bosques]. Vamos!
+--------------------------------
+
+(Cerca de Pejite, Nausicaä y Asbel están volando juntos en Mehve)
+
+ASBEL     	Piensas eso?  Me parece el mismo de siempre.
+NAUSICAÄ  	No hay insectos...  Me pregunto porqué?  Mi corazón es 
+		palpitando.
+ASBEL     	Un poco más adelante.  Si cruzamos esas montañas, mi gente 
+		[ALT: amigos.  "Nakama" abarco los significados de amigos, 
+		aliados, compañeros, aquellos que inspiran la misma cosa] 
+		están allá.
+ASBEL     	...?!  Luce extraño en la dirección a Pejite.  Qué es esa neblina?
+NAUSICAÄ  	...!  Asbel, ponte tu máscara!
+ASBEL     	Insectos...!  <Están> muertos...
+NAUSICAÄ  	Vamos a Pejite!
+ASBEL     	Ten cuidado!  Las tropas de Torumekia pueden estar allá.
+--------------------------------
+
+(Vemos una gran cantidad de insectos muertos; al llegar a Pejite vemos
+que está en ruinas.  Nausicaä y Asbel caminan por la ciudad.  Encuentran
+un Ohmu muerto que había penetrado las ruinas que eran la pared)
+
+NAUSICAÄ  	Aún un Ohmu...
+ASBEL     	<No puedo creerlo> el Domo Central fue destruído [ALT: comido] 
+		a través...!  Este es el fin de Pejite ...  Aún si aniquilamos 
+		a los de Torumekia, esto es...
+NAUSICAÄ  	aniquilados?  Qué quieres decir, Asbel?  (Ellos notan un avión)
+NAUSICAÄ  	Es un bergantín [ALT: avión de transporte].
+ASBEL     	Es el avión de mi gente [ALT: amigos]!  Está bajando.  Vamos!
+
+(El bergantín aterriza)
+
+LÍDER    	Asbel!  Estás vivo!
+ASBEL     	Qué han hecho?  Ni siquiera no podemos reconstruir así!
+LÍDER    	Viste la ciudad, ya veo.  No te preocupes.  Aún si es tragada
+		por el Fukai, podemos quemarlo casi a tiempo.
+ASBEL     	Pero el Dios Guerrero no está aquí.
+LÍDER    	Lo sé.  Está en el Valle del Viento.
+ASBEL     	Cómo <lo supo>? (En ese momento se acerca Nausicaä con su Mehve)
+LÍDER    	Tampoco estabamos jugando.  Ya hemos puesto en acción el plan
+		número 2 .  Para esta noche, todo el ejército de Torumekia en el
+		Valle del Viento será destuído.
+ASBEL     	Qué?!
+NAUSICAÄ  	Destruído?  Que van a hacer?
+LÍDER    	Asbel, quién es esta?
+ASBEL     	Nausicaä del Valle del Viento.  Ella salvó mi vida.
+LÍDER    	El Valle del Viento...
+NAUSICAÄ  	Dime!  Qué esta pasando?  Asbel!  Tu sabes, cierto?  Dime!
+ASBEL     	Haremos que los insectos...ataquen.
+NAUSICAÄ  	Usted fue el que hizo que los insectos atacaran Pejite?!  Cómo
+		pudieron...?
+LÍDER    	Debemos regresar al Dios Guerrero a cualquier costo antes de que
+		sea revivido.
+HOMBRE      Es por proteger el mundo...  Por favor.
+NAUSICAÄ  	Así que matarán a las personas del Valle del Viento en el 
+		proceso?!  Deténgalos!  Deténgalos ahora!  Por favor! 
+HOMBRE      Es muy tarde.
+LÍDER    	Nadie puede detenerlos una vez comenzaron a correr.  Muchos de
+		nosotros fuimos asesinados por Torumekia.  No hay otro camino
+		<para nosotros>!
+
+(Nausicaä se tapa la cara con sus manos al escuchar eso y trata de escapar en
+Mehve)
+
+LÍDER    	Agárrenla!
+NAUSICAÄ  	Suéltenme!  Déjenme ir!!
+LÍDER    	Aunque es duro ahora, tan pronto regresemos al Dios Guerrero, 
+		podremos que el Fukai y devolver el mundo a los humanos.
+NAUSICAÄ  	Eso es una mentira!  Son iguales a los de Torumekia!!
+LÍDER    	No!  Ellos solo lo usarán para la destrucción!
+NAUSICAÄ  	Usted toma agua de pozo también, cierto?  Quién cree que está
+		puricando esa agua?  Los lagos y ríos que los humanos han 
+		convertido en aguas venenosas, los árboles del Fukai están 
+		purificando.  Usted está diciendo que quemarán esos bosques?  
+		Usted es el culpable por excavar al Dios Guerrero!!  [ALT: Es su
+		culpa por excavar al Dios Guerrero]
+LÍDER    	Entonces, que debemos hacer?!  Hacer lo que Torumekia ordene?!
+NAUSICAÄ  	No, no!!  Asbel, diles la razón de porqué nació el Fukai!  Esos
+		insectos están protegiendo el mundo...!  Asbel!  Por favor!!  
+		(Asbel toma el arma del Líder)
+LÍDER    	Qué haces?
+ASBEL     	No se muevan!  Déjenla ir.
+LÍDER    	Cálmate, Asbel! (Asbel dispara al suelo)
+ASBEL     	Hablo en serio!  Déjenla ir!  Nausicaä!  Hasle saber a todos 
+		(en el Valle)!  (Asbel es golpeado por atrás y queda inconsiente)
+NAUSICAÄ  	Asbel!!  Suéltenme!!
+--------------------------------
+
+(De vuelta en el refugio del Valle, Kushana saca un cuchillo en el talón de
+un pie y logra escapar y regresar al Valle a pie.  Ve al Valle en pleno
+alboroto)
+
+KUSHANA   	Esos tontos...!
+--------------------------------
+
+(Una muchedumbre esta atacando a los soldados de Torumekia y luego se
+dirigen al castillo)
+
+GOLL      	No podemos evitar lo que ya empezó.
+TÍO    	<Pero> dijimos que nos contendríamos...
+KUROTOWA  	No entren en pánico; vayan a rescatar a los soldados con los
+		tanques!
+GUARDIA     Jefe!  El último bajó.
+KUROTOWA  	Vienen en esta dirección?
+GUARDIA     No lo sé.  Los aldeanos se están reuniendo.
+KUROTOWA  	No lo odia?  Un bosque o dos, y se vuelven sedientos de sangre.  
+		Es una repetición de Pejite.  (Kurotowa nota a los Tíos llegando
+		a la entrada del castillo)
+KUROTOWA  	Han tomado el tanque!
+GOLL      	Muévanse rápido!
+TÍO     	No me presione.
+TÍO     	Se acercan!!
+GUARDIA     Adelante! (Los soldados con armadura avanzan para intentar tomar
+		el tanque)
+GOLL      	Hey, hey, apúrate.
+TÍO     	Me pregunto si es este?  Ah, se movió.  (Ese no fue, pues le
+		entró la reversa)
+TÍO     	Para donde vas?!
+GOLL      	Hacia adelante!  Adelante!!
+TÍO     	LO SÉ.
+KUROTOWA  	Maldición!  Envíen todos los tanques!  (Kurotowa nota que 
+		Kushana hace su arribo)
+KUROTOWA  	<No lo sabía,> ella estaba viva...  fue un sueño pasajero...
+          	(se coloca en posición de firmes para llamar la atención)  
+		Su Alteza!
+TÍO     	Mientras retemos al enemigo, lleven a todos al refugio en el
+		Mar Ácido!
+HOMBRE      Entendido!
+HOMBRE      Aguanten hasta que la Princesa regrese con la nave armada!
+HOMBRE      Todos, rápido.
+HOMBRE      Apúrense!
+GOLL      	No seas tan lento.  Porqué no ayudas también?
+TÍO     	Tengo una mala espalda ["gikkuri-goshi": una mala cadera; una 
+		espina débil en el área de la cadera].  Ya vienen!  Los tanques
+		han llegado!
+TÍO     	Rápido!
+TÍO     	Ya lo sé!
+--------------------------------
+
+(A bordo de la corbeta de Torumekia)
+
+TENIENTE 	No hay error?
+GUARDIA     Es un bergantín de Pejite.  Lo vislumbré más allá de esas nubes.
+TENIENTE 	Bien!
+--------------------------------
+
+(En la nave de Pejite)
+
+GUARDIA     Por favor tengan cuidado.  Estuvo actuando violentamente hace
+		un rato...  (Una mujer y una chica entran en la celda de 
+		Nausicaä)
+MUJER     	Ràpido!  (La chica empieza a quitarse la ropa)
+MUJER     	Señorita Nausicaä, la sacaremos de aquí.  Vaya y avísele al
+		Valle...  Puede estar a tiempo si usa su cometa...  Está
+		preparada.  Escuché todo de Asbel.  [ALT: Asbel nos contó todo]
+CHICA      	Yo tomaré su lugar, apúrese y tome esto...
+NAUSICAÄ  	Usted es...?
+MUJER     	Soy la madre de Rastel...
+NAUSICAÄ  	Madre...!  (Las dos se abrazan)
+MADRE		(de Asbel) Lo siento mucho...  Lo que hicimos estuvo mal.
+CHICA      	Rápido!  (Nausicaä, vistiendo la vestido de la otra chica, sale
+		con la madre de Asbel)
+NAUSICAÄ  	Esa chica...?
+MADRE		Todo está bien; no se preocupe.
+
+(En la sección de carga del bergantín)
+
+MUJER     	Tenga cuidado.
+MUJER VIEJA	Por favor, perdónenos <por> el terrible trato...
+ASBEL     	Nausicaä, por aquí!  Rápido!
+NAUSICAÄ  	Gracias, a todos!  (Nausicaä se quita el gorro)
+ASBEL     	Lo siento, llegué tarde...
+
+(En un hangar de carga)
+
+ASBEL     	Puedes volar desde aquí?
+NAUSICAÄ  	Trataré.  (Asbel abre la compuerta y de una nube sale una
+		corbeta)
+NAUSICAÄ  	Una corbeta!
+LÍDER    	Retirada!  Rápido, a las nubes!!
+TENIENTE	Cese el fuego!  Tontos!  Es una perturbación de aire y un
+		infierno eléctrico dentro de las nubes.
+GUARDIA     (Pejite) No tiene caso!  No podemos maniobrar!
+ASBEL     	La nave se está rompiendo!
+LÍDER    	Todos!  No se puede evitar.  Salgamos de las nubes y luchemos!
+
+(El bergantín sale de las nubes, pero la corbeta los estaba esperando)
+
+LÍDER    	Nos han anticipado!  [ALT:  Leyeron nuestra intención]
+ASBEL     	Maldición.  Que están intentando hacer <los de Torumekia>?!
+NAUSICAÄ  	Las nubes!  Nos fuerzan a ir a las nubes y abordarnos!
+          	(la corbeta aterriza encima de la gran nave de Pejite, 
+		y partidas de abordaje entran)
+ASBEL     	Ya vienen!  Si vas a volar, ahora es el tiempo.
+NAUSICAÄ  	No puede hacer eso!  Me quedaré también!  No puedo dejar atrás
+		a esa chica que tomó mi lugar o a tu madre e irme!
+ASBEL     	Solo tú puedes salvar a la gente del Valle!  Por favor vete!  
+		Ve por nosotros!!
+
+(Hay luchas en los corredores)
+
+GUARDIA     Tomaremos está nave.  No tomen prisoneros.  Mátenlos a todos [?].
+--------------------------------
+
+(Un hombre aparece en la escotilla de la bahía de carga)
+
+ASBEL     	Vete, Nausicaä!!  VE!!  (Nausicaä es empujada fuera por Asbel)
+NAUSICAÄ  	Asbel!!
+
+(La corbeta deja la nave de Pejite y persigue a Nausicaä.  La corbeta le
+dispara a Nausicaä, pero ella hábilmente evade los disparos.  De pronto,
+la nave armada del Valle aparece)
+
+MITO      	Princesa!!
+NAUSICAÄ  	Mito!  (La nave del Valle dispara y da de baje a la corbeta)
+NAUSICAÄ  	Mito!  Maestro Yupa!!
+MITO      	Princesa!!
+NAUSICAÄ  	Rápìdo!  Todos <seránbe> [en referencia a la gente de Pejite]...!
+          	Todos <serán>!!
+MITO      	Extenderé el gancho de recuperación ahora!  Maestro Yupa!  
+		<Hale> la palanca roja de la derecha!
+--------------------------------
+
+(De regreso abordo de la nave de Pejite)
+
+GUARDIA     Está es el único lugar que queda.  Rápido!  (los soldados de 
+		Torumekia intentan abrir la puerta con una viga)
+ASBEL     	La puerta...se está rompiendo!  (Asbel y otros intentan evitar
+		que abran la puerta)
+LÍDER    	Déjenlos entrar...  Les mostraremos el orgullo de Pejite!!
+CHICA      	Me pregunto que es eso?  Un ave...?  (La chica que reemplazó
+		a Nausicaä ve algo por la ventana)
+VIGÍA		Es una avión!  Una nave armada del Valle del Viento!
+GUARDIA     Qué!?
+
+(Yupa salta del avión y aterriza en el de Pejite)
+
+GUARDIA     Tú <bastardo>...! ["Kisama"]  (Tres guardias caen sobre Yupa, 
+		pero él se libra rápido de ellos)
+TENIENTE	Es Yupa!  Mátenlo y ganen fama! [ALT: ganen fama; ganen renombre]
+          	(Yupa salta sobre los guardias y acorrala al teniente)
+YUPA      	Ríndanse!  LA corbeta no regresará.
+GUARDIA     F-Fuerte... [ALT: E-Experto]
+--------------------------------
+
+(En la nave armada)
+
+MITO      	Princesa, esto es ridículo!  El motor explotará!
+NAUSICAÄ  	Todo lo que tiene que hacer es durar hasta llegar al Valle. 
+		[ALT: No me importa con tal que dure hasta el Valle]  
+		Súbelo a 300!!  Querido Dios...!  Querido Dios del Viento!
+		Por favor, proteje a todos.
+--------------------------------
+
+(La gente del Valle están detenidos en los restos de la antigua nave 
+espacial;  El ejército de Torumekia los está rodeando)
+
+KUROTOWA  	No parece que podamos moverlos ni con una palanca...
+KUSHANA   	Están esperando su regreso...
+KUROTOWA  	Regreso?
+KUSHANA   	Ellos creen que esa chica regresará con la nave armada.
+KUROTOWA  	La nave armada puede ser una molestia...  Podemos disparar
+		una ronda <antes de que la nave armada regrese>?
+KUSHANA   	Usted sabe que es esa nave?
+KUROTOWA  	Fue construída antes de los Siete Días de Fuego, cierto?  
+		No se si es verdad o no, pero <supuestamente> fue hasta las
+		estrellas, o algo así.  Las armas no trabajan muy bien <contra
+		eso> porque es extremadamente duro, pero, rayos, si apuntamos
+		[ALT: disparamos] a los huecos...
+KUSHANA   	Yo quiero esperar también.
+KUROTOWA  	Huh?
+KUSHANA   	Sí, es verdad que puede regresar del fondo del Fukai viva...
+		Me gustaría tener una charla con esa chica una vez.
+
+(Ella baja del tanque para hablar con los prisoneros del Valle)
+
+KUSHANA   	Bueno?  Ya lo pensaron?  Si van a aconsejarles <a ellos> que se
+		rindan, los liberaré.  Quieren que esto sea una repetición de
+		Pejite?
+TÍO     	Usted también es una Princesa, pero usted es muy diferenta a
+		nuestra Princesa...
+GOLL      	Por favor mire esta mano.  Tiene la misma enfermedad que el Señor
+		Jhil.  En medio año, será como una roca.  Pero, nuestra Princesa 
+		dice que le gusta esta mano.  Ella me dijo que era la hermosa
+		mano de una persona que trabajaba duro.
+KUSHANA   	Aún cuando esté siendo afectado por los venenos del Fukai, no 
+		obstante usted dice que vivirá con el Fukai?
+TÍO     	Ustedes usan fuego...  Nosotros usamos un poco de eso también, 
+		pero...
+GOLL      	Demasiado fuego da nacimiento a nada...  El fuego reduce un
+		bosque a cenizas en un día...
+TÍO     	El agua y el viento toman 100 años en nutrir un bosque.  
+		Preferimos el agua y el viento...
+TÍO     	Si la Princesa ve el bosque, se pondría triste...
+GUARDIA     Jefe.  Alguna orden aún?
+KUROTOWA  	No moleste... [ALT: Quédese abajo; apártese; váyase]
+GUARDIA     Sí, señor!
+KUROTOWA  	No se que pasó, pero, me ablandó el corazón.
+          	[ALT: lindo(bueno...); manejable]
+KUSHANA   	Kurotowa!  Libere a esa gente!
+KUROTOWA  	Entonces vamos a esperar?
+KUSHANA   	Deje que las tropas tengan su comida!  En una hora comenzaremos
+		el ataque!
+KUROTOWA  	Una comida, eh...?  Creo que me tomaré mi tiempo con esto...
+
+(Después)
+
+HOMBRE      Alguien viene!
+HOMBRE      Es Goll y los otros!
+GOLL      	Hm?
+TÍO     	Qué pasa...?
+GOLL      	No hay viento...
+TÍO     	No hay viento?  Es verdad...  el viento se ha detenido...
+ABUELA 	Oh... (La Abuela empieza como a ahogarse)
+NIÑA      	Abuela, que pasa?
+MUJER     	Abuela?
+ABUELA 	Alguien...  Que alguien me saque afuera...!
+
+(En el casco de la nave antigua)
+
+NIÑA      	Esta es la primera vez que el viento se ha detenido...
+NIÑA      	Abuela, me duelen mis oídos...
+ABUELA 	La atmósfera...  La atmósfera está llena de odio...
+--------------------------------
+
+(Abordo de la nave armada)
+
+NAUSICAÄ  	<Estamos> cerca!
+MITO      	Atravezaremos el Fukai!  Tres minutos al Mar Ácido!
+NAUSICAÄ  	Motor, despacio!  Descenderemos bajo las nubes.
+MITO      	Qué son esas luces?!  (Se ve una línea roja a lo lejos)
+NAUSICAÄ  	Ohmu...!
+MITO      	Los Ohmu se han salido del Fukai!!  Se dirigen al Valle
+		del Viento!
+NAUSICAÄ  	Porqué?  Cómo hicieron que los Ohmu fueran <en estampida>...?
+NAUSICAÄ  	..!!  Alguien está llamando a la horda...  Mito!  Vuela 
+		hacia Sirio!  (Nausicaä ve algo)
+MITO      	S-Sí.
+NAUSICAÄ  	Ahí!  Mito, una bengala!  Listo...  Fuego!
+
+(Un Ohmu bebé está siendo transportado a través del aire)
+
+MITO      	Qué es eso!?
+NAUSICAÄ  	Que cruel...!  Están usando a es niño como carnada para llamar
+		a la horda.
+MITO      	Maldición!!  Los derribaré!
+NAUSICAÄ  	No!!  No dispares!  Mito, por favor!!
+MITO      	Porqué!  Porqué no puedo derribarlos?!
+NAUSICAÄ  	Si matamos al bebé Ohmu, no seremos capaces de detener la 
+		estampida!!
+MITO      	Entonces que podemos hacer?!  A este ritmo, el Valle será
+		aniquilido!!
+NAUSICAÄ  	Cálmate, Mito!  Regresaremos el bebé Ohmu a la manada.  Voy a
+		tratar!  (Nausicaä se agacha y arranca una tubo de la nave)
+MITO      	Princesa, que está haciendo?!  (Con el tubo se desliza por
+		el cable de enganche hacia Mehve)
+NAUSICAÄ  	Mito, ve ha avisarles a todos!  (Nausicaä se va en Mehve)
+MITO      	Princesa!!  No tiene un arma...!
+--------------------------------
+
+(De vuelta en el Valle)
+
+GUARDIA     Esas no son nuestras bengalas!
+KUSHANA   	Distancia?!
+GUARDIA     Alrededor de 20 leguas.  Creo que están al otro lado del lago.
+KUSHANA   	Crees que es la nave armada?
+KUROTOWA  	Es lo más probable...  Es una señal pidiendo ayuda.  
+		Definitivamente es la nave armada.
+KUSHANA   	Una hora ha pasado.  Vamos.
+KUROTOWA  	No va a esperar?
+KUSHANA   	Es una senda sangrienta, después de todo.
+GUARDIA     Tropas blindadas, adelante!
+KUROTOWA  	Su Alteza, <porqué no va> adentro?  (Kushana está sobre un tanque)
+KUSHANA   	Aquí estoy bien.
+GUARDIA     La nave armada!
+GUARDIA     Ataque aéreo!  (El ejército de Torumekia le empieza a disparar
+		la nave del Valle)
+KUSHANA   	No disparen!!  Alto.  Deténgase!  (Como un artillero no escuchó
+		la orden, Kushana lo golpea y este cae, y bueno, deja de disparar)
+GOLL      	Princesa!!
+KUSHANA   	Esperen órdenes aquí!  Alto al fuego!!
+KUROTOWA  	Su Alteza!
+
+(La nave armada aterriza)
+
+KUSHANA   	Qué pasó con esa chica?!
+GOLL      	Dónde está la princesa!?
+TÍO     	Ella no viene atrás!
+MITO      	Son los Ohmu!  Una horda de Ohmu viene en esta dirección!
+GOLL      	Qué?
+HOMBRE      Ohmu?
+MITO      	La Princesa se quedó atrás sola para parar la estampida.  
+		No hay tiempo para luchar!  Todos, escapen hacia lo alto!  
+		Rápido!!  (La gente del Valle empieza a escapar hacia la 
+		montaña, Kushana se regresa al lado del ejército)
+		
+(Encima de la nave antigua, mirando a lo lejos)
+
+NIÑA      	Abuela, puedo ver luces rojas!
+NIÑA      	Parece que se están multiplicando rápidamente...
+NIÑA      	Vienen en esta dirección!
+ABUELA 	Agárrense firme a la Abuela...  Nadie puede detenerlos ahora...
+VOCES    	No tengan pánico!!  Aún está bien!  Rápido!  (La gente del
+		Valle empieza a salir de la nave antigua)
+MUJER VIEJA	Mito...  Voy a morir de todos modos; Moriré en el valle.
+MITO      	No.  Mientras la Princesa no se haya rendido, tu no te rindas.
+
+(Kushana está hablando a sus tropas)
+
+KUSHANA   	Está bien?  Ganen tanto tiempo como puedan.  Regresaré 
+		rápidamente
+KUROTOWA  	Su Alteza!  Está considerando esa cosa...?  Es muy pronto.
+KUSHANA   	Si no lo usamos ahora, cuando lo usaremos?  Ve!
+--------------------------------
+
+(Nausicaä es volando alrededor de la "jarra voladora" de Pejite)
+
+NAUSICAÄ  	No disparen!  Escúchenme!  (Nausicaä evada los disparos)
+HOMBRE      Maldición...  Esa se mueve como un pájaro!
+ARTILLERO	Esa persona no es un enemigo.  Estaba gritando algo.
+HOMBRE      Cualquiera que impida el plan es un enemigo.  Si no soltamos
+		la carnada en el valle pronto, seremos nosotros los que 
+		estemos en peligro. [ALT: estaremos en peligro] Ya viene...  
+		Espere a tenerla en la mira antes de disparar.
+          	Ahora!  Dispare!!  (Nausicaä se para sobre Mehve con los
+		brazos extendidos)
+ARTILLERO	No!!  Esas son las ropas de Rastel...  (No dispara)
+HOMBRE      Muévase!
+
+(Nausicaä salta del Mehve hacia la jarra voladora.  El jefe de la jarra
+voladora dispara, y Nausicaä sufre impactos en brazo izquierdo y la pierna
+derecha. Ella cae en la jarra voladora haciéndola perder altitud.  La larva
+de Ohmu aterriza y hala el vehículo hacia abajo.  Nausicaä se dirige hacia
+la herida larva)
+
+NAUSICAÄ  	Ohmu... (Los ojos del bebé Ohmu se ponen rojos)
+NAUSICAÄ  	No te enojes...  No te asustes...  No soy tu enemiga...  Lo
+		siento...  Lo siento mucho...  No puede pedir que nos perdones, 
+		puedo...?  Fue muy cruel, cierto...?  (La larva de Ohmu, 
+		sintiendo el acercamiento de la horda, empieza a avanzar)
+NAUSICAÄ  	No te debes mover!!  Los fluídos de tu cuerpo van a brotar!!
+		(Nausicaä intenta detenerlo, y un gran chorro de fluído tiñe
+		su traje de azul)
+HOMBRE      Oh no! [ALT: Oh Dios mío] Hemos sido encontrados! [ALT: Nos
+		encontraron]
+ARTILLERO	Vienen en esta dirección!
+
+(La larva de Ohmu trata de cruzar el lago para reunirse con la horda)
+
+NAUSICAÄ  	No!  Si entras con una herida como esa...!  El agua de este
+		lago no es bueno, te lo digo!  (El pie herido de Nausicaä
+		entra en el agua y es quemado por el ácido)
+NAUSICAÄ  	AHHH!!  (La larva de Ohmu la saca del lago.  Extiende sus
+		antenas para confortar a Nausicaä)
+NAUSICAÄ  	Tú...  [pausa]  Niño bondadoso...  Estoy bien...  Pronto
+		todos estarán aquí para llevarte de regreso...  (La horda
+		de Ohmu que se estaba dirigiendo hacia la larva ahora cambian
+		de dirección)
+NAUSICAÄ  	No vienen para acá!  Ohmu!  No!  El Valle del Viento está
+		situado en ese camino!!  Por la ira, se han olvidado de si
+		mismos.  Si puedo calmarlos, el Valle será...!!
+
+(Están siendo disparados cohetes desde el Valle)
+
+HOMBRE      Tontos!  Están atrayendo a los Ohmu ellos mismos!
+ARTILLERO	Estamos salvados...
+HOMBRE      Despeguemos de una vez.  Revisa el motor...  [pausa] A-alto!
+
+(Nausicaä ha desmontado la ametralladora de la jarra voladora)
+
+HOMBRE      Podemos explicarlo!
+NAUSICAÄ  	Llévenos...  Regresaré este bebé a la horda!
+HOMBRE      No tiene caso <hacer una cosa como esa>.  La horda no parará!
+NAUSICAÄ  	Solo tienen que soltarnos [ALT: descargarnos] en frente de la
+		horda.  (NausicaÄ dispara al suelo unas rondas)
+          	Llévenos!
+ARTILLERO	Pero...  Morirá también!
+--------------------------------
+
+(Cerca del Mar Ácido)
+
+NIÑA      	Todos morirán, Abuela?
+ABUELA 	Si ese es nuestro destino...solo podemos obedecer.
+KUROTOWA  	No se muevan!
+GUARDIA     Retirémonos, señor.
+KUROTOWA  	Idiota.  Está hablando sobre escapar pero...a dónde escapamos?  
+		(Los soldados pierden el valor y una deserción en masa acaba
+		de comenzar)
+KUROTOWA  	Hey!  No huyan!  Esperen!  Hey!  Estén en su puesto hasta
+		que Su Alteza regrese!  Su Alteza...  (Kushana llega) Es Su
+		Alteza!!
+
+(The Dios Guerrero aparece detrás de Kushana)
+
+GENTE		Es el Dios Guerrero!
+KUROTOWA  	Se está derritiendo [ALT: pudriendo]...  Fue muy temprano.
+KUSHANA   	Quémalos!!  Qué pasa...?!  No eres el descendiente del clan
+		más maligno <que existió alguna vez en la> tierra?!
+
+(El Dios Guerrero abre fuego sobre los Ohmu; Es seguido por una tremenda
+explosión)
+
+KUROTOWA  	Impresionante...  No hay duda de que el mundo fue quemado!
+GUARDIA     Su Alteza Kushana...  Hurra!  Hurra!
+KUSHANA   	Quémalos!  Que te pasa, monstruo?   Dispara de una vez!
+
+(El Dios Guerrero dispara una vez más y luego comienza a desintegrarse y
+a colapsar)
+
+NIÑA      	El Dios Guerrero murió...
+ABUELA 	Es mejor de ese modo.  La ira de los Ohmu es la ira de la
+		tierra.  De que se va a sobrevivir, confiando en una cosa
+		como esa?
+
+(Nausicaä es transportada con el pequeño Ohmu)
+
+NIÑA      	Princesa !!  Es la Princesa!
+ALDEANOS	Princesa.  Princesa...!
+
+(La jarra voladora suelta a Nausicaä y a la larva de Ohmu adelante de 
+la horda)
+
+HOMBRE      Un lugar como ese...!
+HOMBRE      Es una locura...
+MUJER     	Princesa!
+
+(Llega la estampida, y el cuerpo de Nausicaä es lanzado a los aires)
+--------------------------------
+
+(El bergantín de Pejite se está aproximando al Valle)
+
+YUPA      	El color de ataque de los Ohmu se está iendo...!
+--------------------------------
+
+(Cerca del Mar Ácido)
+
+ABUELA 	La ira ha desaparecido de la atmósfera...
+MITO      	Se han detenido... .  Los Ohmu se han detenido.
+NIÑA      	Princesa!!
+NIÑA      	Princesa está muerta...
+ABUELA 	Ella ha calmado la ira de los Ohmu con su propio cuerpo
+		[TE:  vida]...
+          	Esa niña ha protegido al Valle...  (Un Ohmu levanta el
+		cuerpo de Nausicaä con sus antenas; otros Ohmu se unen)
+HOMBRE      Miren!
+KUROTOWA  	Qué son esas luces...?
+
+(Hay un gran resplandor de luz.  Nausicaä recupera la conciencia [o
+revive, como usted lo prefiera])
+
+NAUSICAÄ  	Teto...  Estoy contenta...  Ohmu, gracias...  Gracias...!
+GOLL      	Es un milagro...  Es un milagro!
+ABUELA 	Que simpatía poseen...!  Los Ohmu están abriendo sus corazones...
+          	Niñas, miren bien <por mí> en lugar de mis ojos ciegos.
+NIÑA      	La Princesa está vistiendo un traje azul oscuro de otro país.
+NIÑA      	Y parece que está caminando sobre un campo dorado...  (En ese
+		momento, la Abuela cae en cuenta)
+ABUELA 	"Aquel, que esté vistiendo un traje azul, podrá descender sobre 
+		un campo dorado..."  Oh...!!
+NIÑA      	Abuela?
+ABUELA 	La vieja leyenda en verdad era cierta...!
+NIÑA      	Miren!
+HOMBRE      Es Mehve!
+HOMBRE      El viento...!  El viento ha regresado!
+
+(Las persones corren para reunirse con Nausicaä.  Escenas de lo que sucede
+después. La máscara de Nausicaä yace cerca de un nuevo retoño que crece en
+la caverna bajo el Fukai)
+
+EL FIN

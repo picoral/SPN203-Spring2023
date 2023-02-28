@@ -1,0 +1,2148 @@
+Mimi wo sumaseba
+("Si escuchas atentamente")
+Susurro del corazón
+
+ADVERTENCIA
+
+Esta es una traducción no autorizada de una obra registrada. El original 
+está registrado (c) 1995 por Hiiragi Aoi/Shuueisha, Nibariki, TNHG.
+
+Dado que esta es una traducción no autorizada, no estoy en posición para 
+demandar nada, pero por favor cumpla con las siguientes peticiones.
+
+1. POR FAVOR no remueva esta advertencia.
+
+2. POR FAVOR respete los derechos del artista original de recibir ganancias 
+de su trabajo, y compre una copia de la video cinta original Japonesa o del 
+disco laser para usarlo en conjunto con este libreto, o con subtitulos de los 
+aficionados.
+
+3. Si usted va a hacer una subtitulación propia, POR FAVOR no cobre por 
+subtitulaciones basadas en esta traducción, y POR FAVOR incluya la petición 
+número 2 en pantalla.
+
+4. Si usted cambia esta traducción, POR FAVOR incluya su nombre y una 
+descripción de lo que usted haya cambiado para que quien la lea no se confunda.
+
+Traducción al Inglés por Deborah Goldsmith
+Traducción al Inglés de los créditos finales por Miyoko y Dwayne Fujima
+Editores de la traducción al Inglés: Toyama Ryoko y Fukumoto Atsushi
+Traducción al Español por Andrés Villagómez.
+
+
+Cualquier error, omisión y/o inexactitud en la traducción al Español es 
+culpa mía y agradezco
+de antemano cualquier comentario que desee hacerme al respecto.
+
+
+Traducción al Español basada en el libreto en Inglés versión 1.0.4, del 28 
+de Noviembre de 1996
+[Indudablemente habrá ediciones adicionales, pero esta versión es adecuada 
+para uso generalizado.]
+[Las notas de la traducción Japonés-Inglés aparecerán entre corchetes 
+rectangulares.]
+{Las notas de la traducción Inglés-Español aparecerán entre corchetes 
+"normales".}
+? significa duda en la traducción.
+
+
+{   La siguiente es una breve explicación del uso de "honoríficos" en la 
+cultura Japonesa.
+
+   La manera preferente de escribir cualquier nombre de una persona en 
+Japonés es primero el apellido (o nombre de la familia) y después el nombre 
+propio. Invirtiendo este orden casi exclusivamente para trato entre 
+conocidos, amigos o familiares. Prefiriendose el uso del apellido cuando 
+no se conoce de primera mano a la persona a la que se esté refiriendo.
+
+   En Japón se espera que toda persona de menor o igual edad o status que 
+usa el nombre de otra de mayor o igual edad o estatus, use uno de los 
+siguientes honoríficos despues del nombre propio (o el apellido). El no usar 
+alguno se considera una falta de respeto hacia la persona, o por lo menos
+algo rudo y proveniente de una persona con poca educación o muy distraida.
+
+   En la actualidad el "status" no se refiere tanto a la clase social donde 
+cada persona pertenece (aunque fué así como se originó, y muchas personas 
+todabia lo ven de esta manera), más bien se refiere a la edad o respeto por 
+personas de mayor edad.
+
+Sensei - Honorífico que se usa con profesionales tales como ingenieros, 
+doctores, profesores, etc.
+Sama - Se usa con personas de mayor status que el propio, respetables y/o 
+de mayor edad.
+San - Honorífico entre personas que se consideran iguales. Usado 
+especialmente entre colegas y adultos.
+Chan - De uso entre familiares y amigos. Muy informal. Para referirse a 
+personas de menor edad y especialmente a niñas y señoritas adolecentes.
+Kun - De uso muy similar a "Chan" pero casi exclusivamente con niños y 
+jovenes adolecentes.
+}
+
+
+Pantalla inicial
+Una producción cooperativa de:
+Tokuma Shoten - NTV broadcasting network - Hakuhoudou - Studio Ghibli
+
+Derechos reservados (c) 1995 por Hiiragi Aoi/Shuueisha, Nibariki, TNHG
+
+Los siguientes créditos aparecen durante el tema inicial de la película:
+
+Mimi wo sumaseba ("Si escuchas atentamente")
+
+Shizuku: Honna Youko
+Seiji: Takahashi Issei
+
+Papá de Shizuku: Tachibana Takashi
+
+Mamá de Shizuku: Muroi Shigeru
+
+Barón: Tsuyuguchi Shigeru
+
+Propietario de "Earth shop": Kobayashi Keiki
+
+Cancion inicial
+"Take Me Home, Country Roads" {"Llévenme a mi hogar, caminos campestres"}
+Letra y Música (c) 1971 por Bill Danoff, Taffy Nivert, y John Denver
+
+*Caminos campestres, llévenme a mi hogar
+Al lugar al que pertenezco
+West Virginia, mamá de la montaña
+Llévenme a mi hogar, caminos campestres
+
+Casi el paraiso, West Virginia
+Montañas Cresta Azul, Río Shenandoah
+La vida es vieja ahí, más vieja que los árboles
+Mas joven que las montañas, creciendo como la brisa
+
+*Estribillo
+{Coro}
+
+Todos mis recuerdos se acumulan alrededor de ella
+Mujer de minero, ajena al agua azul
+Obscura y polvosa, pintada en el cielo
+Sabor vaporoso de moonshine, lagrima en mi ojo
+
+{"moonshine" es una bebida de alto contenido alcohólico, de destilación 
+casera, muy barata, de baja calidad y por lo mismo muy popular en zonas 
+rurales en Estados Unidos}
+
+*Estribillo
+[En este punto comienza a disminuir el volúmen de la música]
+
+Escucho su voz, en las horas de la mañana ella me llama
+El radio me recuerda mi lejano hogar
+Y manejando en el camino tengo el presentimiento
+De que debería haber estado en mi hogar ayer, ayer
+
+*Estribillo
+
+En las escaleras
+Shizuku: Buenas tardes.
+Vecina: Vaya que hace calor, ¿he?
+
+La casa de Shizuku
+Shizuku: Ya llegué.
+Mamá: Gracias.
+Mamá: ¿De nuevo te dieron una bolsa de plastico para un cartón de leche?
+Shizuku: Pero eso es lo que te dan.
+Mamá: Podrias decir, no gracias... Yo tambien quiero un poco, por favor.
+Shizuku: ¿Papá? ¿Té de cebada?
+Papá: Mm, solo un poco. Ahora voy.
+Mamá: Gracias.
+Mamá: ¿Ya desocupaste el procesador de palabras?
+Papá: Ahorita está imprimiendo.
+Mamá: Me pregunto si deberiamos comprar una computadora portátil con 
+procesador de palabras después de todo...
+ugh, humo de cigarro.
+Papá: Shizuku, que mal que tu no vayas a Kashiwazaki.
+Shizuku: Está bien. Estar con mi hermanita me desgastaría.
+Papá: Por cierto. Mañana voy a la oficina.
+Mamá: ¿Qué? ¿Vas a necesitar almuerzo?
+Papá: Está bien. Comeré fuera. La biblioteca finalmente está cambiando a
+código de barras, y es un gran alboroto para estar listos.
+Shizuku: ¿Así que realmente van a cambiar? A mi me gustan más las tarjetas.
+Papá: Bueno. a mi tambien, pero ...
+Mamá: Oye, hay algo raro acerca de este documento.
+Papá: ¿Qué? ¿Dónde?
+Mamá: Me pregunto si no fatla una línea... aquí...
+Papá: Ah, ¡tienes razón! Diantres.
+Mamá: Ohh... Dejame a mi primero. Si no termino esto rapido el profesor
+me va a empezar a molestar por ello.
+Shizuku: Que tipo...
+Papá: Shizuku, los libros son agradables pero tú necesitas irte a dormir.
+Shizuku: OK, buenas noches.
+
+La habitación de Shizuku
+Shizuku: Lo sabia. Sabia que habia reconocido ese nombre.
+Shizuku: Este tambien...
+Tarjetas: Amasawa Seiji
+Shizuku: Es asombroso. Él los sacó todos antes que yó.
+Shizuku: Amasawa Seiji... ¿Como podrá ser él? Me pregunto si será realmente 
+agradable...
+
+A la mañana siguiente
+Mamá: ¡Shizukuuu! ¡Ya levantate! Voy a salir.
+Mamá: ¿Qué? Querida, ¿te fuiste a dormir así?
+Mamá: Lava el arroz para esta noche, ¿OK?
+Shizuku: Bye.
+Shizuku: ¡Ahhh! ¿Ya es tan tarde? ¡Se supone que voy a ver a Yuuko!
+Mamá: ¡Mi cartera!
+Shizuku: ¿Qué? ¿De nuevo llegaste al final de las escaleras?
+Mamá: Si.
+Mamá: Que chistoso...
+Shizuku: ¿Al lado del teléfono?
+Mamá: ¡La encontré!
+Shizuku: Tu misma la dejaste ahí...
+Mamá: ¡Aahhh! ¡Voy a llegar tarde! Cierras, ¿OK?
+Shizuku: Descuidada...
+
+Desayuno
+Shizuku: ¡Guau! ¡Realmente bajo!
+Shizuku: Presiento que algo agradable va a pasar hoy.
+
+Caminando
+Shizuku: ¡Vaya que hace calor!
+Shizuku: ¡Yoo-hoo! Estas entusiasmado, ¿no es así?
+
+En la escuela
+Jugador de baseball: ¡Belt it!   ?????
+Amigo: ¡Hey, Shizukuuuu!
+Shizuku: ¡Yoo-hoo! Buena suerte, ¿OK?
+
+Adentro
+Shizuku: Kousaka-sensei, ¿está usted aquí?
+Kousaka: ¿Huh? Oh, Tsukishima. ¿Qué pasa?
+Shizuku: Sensei, ¿me haría un favor?
+Kousaka: ¿Qué? No es algo raro, ¿o si?
+Shizuku: Por favor abra la biblioteca.
+Kousaka: ¿La biblioteca?
+
+Kousaka: ¿No puedes esperar hasta que inicie el trimestre?
+Shizuku: Ya terminé de leer todos mis libros. Y hoy la biblioteca de la 
+ciudad
+está cerrada.
+Shizuku: Decidí que iba a leer veinte libros durante las vacaciones.
+Kousaka: ¡¿Veinte?! Tsukishima, por lo menos podrias pretender que estas 
+estudiando
+para los exámenes de admisión.
+Kousaka: Vamos, aprisa.
+Shizuku: Veamos... ¡Aquí está!
+Kousaka: ¡Apurate y traelo para acá!
+Kousaka: ¡Anda, vamos, saca la tarjeta de lectores y la de préstamo!
+Shizuku: Aquí estan; por favor.
+Kousaka: Heyyy, ¿qué es esto? Nadie lo ha sacado hasta hoy.
+Shizuku: Este es un libro raro. Ni siquiera lo tienen en la biblioteca de la 
+ciudad.
+Shizuku: ?! Amasawa... Sensei, ¿usted sabe quien es esta persona Amasawa?
+Kousaka: ¡Ahhhh! Me equivoque, ¿no es así? Probablemente es la persona que 
+lo donó. Yo
+no se ese tipo de historia antigua. Trata de preguntarle a uno de los 
+profesores
+veteranos.
+Yuuko: ¡Shizukuuu!
+Yuuko: ¡Oh, DE VERAS! ¿Aquí es donde estabas? ¡Y dijiste que nos veiamos
+a la entrada a las 11! ¡Me hiciste esperar en el sol por 15 minutos! ¡Mis 
+pecas
+van a aparecer de nuevo!
+Shizuku: Lo s-siento.
+Kousaka: ¡Termina el alboroto! Harada, estas demasiado preocupada por tus 
+pecas.
+Yuuko: ¡Sensei, estoy seriamente preocupada acerca de esto!
+Kousaka: Ya veo, ya veo. Vamos ustedes dos, para afuera.
+
+En una banca
+Jugador de fútbol soccer: ¡Para arriba, para arriba!
+Shizuku: Hice un primer intento, pero no va muy bien.
+Shizuku: ¿Estas segura de que no la quieres dejar en Inglés?
+
+Yuuko:
+Shiroi kumo waku oka wo
+Maite noboru saka no machi
+
+	Pueblo que vedeas a través de las colinas
+	Las colinas que forman blancas nubes
+
+Furui heya, chiisa na mado
+
+	Vieja habitación, pequeña ventana
+
+Yuuko y Shizuku:
+Kaeri matsu oita inu
+
+	El perro que ha envejecido esperando mi regreso
+
+Kantorii Roodo, haruka naru
+Furusato e tsuduku michi
+
+	Camino campestre, camino que continúa
+	Hacia mi pueblo natal que está muy lejos
+
+Uesto jiinia, haha naru yama
+Natsukashii wagamachi
+
+	West Virginia, mamá de la montaña
+	Recuerdos de mi pueblo
+
+Yuuko: No está mal, sabes.
+Shizuku: ¡No está bien!
+Shizuku: Tan convencional...
+Yuuko: Supongo que sí...
+Shizuku: Tambien hice una de esta manera.
+
+Yuuko:
+Konkuriito roodo, doko made mo
+Mori wo kiri, tani wo ume
+
+	Caminos de concreto, a todas partes
+	Talando bosques, sepultando valles
+
+Uesto Toukyou, Maunto Tama
+
+	West Tokyo, Monte Tama
+
+Yuuko y Shizuku:
+Furusato ha, konkuriito roodo
+
+	Mi pueblo natal es un camino de concreto
+
+(Ambas se rien)
+Yuuko: ¿Qué ES esto?
+Shizuku: Así que, dijiste que querias hablar, ¿acerda de qué?
+Shizuku: Todabia no necesitas la traducción, ¿cierto?
+Yuuko: Uh-huh...
+Yuuko: Shizuku, ¿hay algún muchacho que te guste?
+Shizuku: ¿Huh?
+Yuuko: Creo que es agradable el tener alguien que siente lo mismo por ti,
+sabes... Todos estamos estudiando para los exámenes de admición, y si 
+pudieramos animarnos
+mutuamente para intentar con mucho empeño... ese tipo de cosas.
+Shizuku: Yuuko, ¡hay alguien que te gusta!
+Yuuko: (susurro)
+Shizuku: ¿Recibiste una carta de amor?
+Yuuko: ¡Shhh! ¡No!
+Shizuku: ¿Cuándo? ¿Cómo era él? ¿Es guapo?
+Yuuko: Es de otra clase. Era algo guapo...
+Shizuku: ¿Por qué no intentas con él? Entonces si no te gusta, no lo 
+aceptas.
+Yuuko: Pero...
+Shizuku: ¡Vaya, apuesto a que hay alguien más que te gusta!
+Yuuko: Uh...
+Shizuku: ¡No te sirve de nada tratar de ocultarlo! Vamos, ¡confiesa!
+Yuuko: Uh, umm, Su... Su...
+Sugimura: ¡¡Tsukishimaaa!!
+Sugimura: ¿Podrías pasarme mi maleta?
+Shizuku: ¡Sugimura!
+Sugimura: Hey, es la maleta deportiva azul. ¡Por favor, Tsukishimaaa! 
+¡Lanzala!
+Shizuku: ¡Cayate ya, señor Calienta Bancas!
+Sugimura: ¡Dame chance! ¡Soy un jugador habitual y llegamos a la cuarta 
+ronda!
+Shizuku: ¿Yuuko?
+
+Caminando
+Shizuku: Así que, es Sugimura, ¿he? El muchacho que te gusta...
+Yuuko: ¿Que haré? Podria haberlo notado... Yo... Este...
+Shizuku: Hey, está bien. Es muy denso.
+Shizuku: Pero, ¿qué es lo que vas a hacer? Acerca de la carta, quiero decir.
+Yuuko: Mmm. Quiero intentar pensar acerca de eso un poco más por mi cuenta.
+Shizuku: Ya veo.
+Yuuko: Tu eres afortunada. En tu casa no te dicen "estudia, estudia".
+Shizuku: Aún cuando no me lo dicen frecuentemente, hay momentos dificiles, 
+sabes.
+Yuuko: Supongo que sí...
+Shizuku: ¡Oh, rayos!
+Yuuko: ¿Qué pasa?
+Shizuku: Olvidé mi libro. Voy a regresar por él, ¿OK?
+Yuuko: ¿Quieres un aventón?
+Shizuku: Está bien, vas a llegar tarde a tu clase de preparación.
+Yuuko: Luego te llamo, ¿OK?
+Shizuku: ¡'kay!
+
+En el patio de la escuela
+Shizuku: E-ese libro...
+Muchacho: ¡Ah! ¿Esto es tuyo?
+Muchacho: Aquí tienes... Tsukishima Shizuku.
+Shizuku: Mi nombre... como...
+Muchacho: Veamos, ¿cómo podría yo...?
+Shizuku: ¡Ah! La tarjeta de la biblioteca.
+Muchacho: Oye... Creo que deberias darte por vencida con "Caminos de 
+Concreto".
+Shizuku: ... LO LEISTE, ¡¿NO ES ASÍ?!
+
+Caminando a casa
+Shizuku: ¡Imbécil! ¡Imbécil! ¡Imbécil!
+Shizuku: ¡Imbécil! ¡Imbécil! ¡Imbécil!
+
+En casa
+Shizuku: ¡Imbécil!
+Shizuku: "Deberias darte por vencida con 'Caminos de Concreto'"
+Shizuku: ¿Quién se cree que es?
+
+Más tarde
+Shiho: ¡Ya llegué!
+Shizuku: Hermanita, ¿era hoy?
+Shiho: Aaaah. Estoy rendida.
+Shiho: Alguien venia manejando directo para casa, así que conseguí un 
+aventón.
+Shiho: ¿Dónde está mamá?
+Shizuku: Dijo que iba a ir a un curso intensivo de verano. Papá está en la 
+oficina.
+Shiho: Shizuku, arregla las cosas un poco.
+Shiho: ¿Qué tal si preparamos la cena?
+Shizuku: Yó lavo el arroz.
+Shiho: ¿Qué es esto, Shizuku? Dejaste un reguero, ¿no es así?
+Shizuku: Ya lo iba a levantar...
+Shiho: Es dificil para mamá, así que decidimos ayudar, ¿cierto?
+Shiho: Despues de que laves el arroz, termina de lavar la ropa. Yó haré la 
+cena
+despues de darme una ducha.
+
+Haciendo la cena
+Shiho: La tía dijo que fueras despues de que entres al bachillerato.
+Shizuku: Mmm.
+Shiho: ¿Estás estudiando?
+Shizuku: Mmm.
+Shiho: Porque sería horrendo si sintieras que no tienes nada de que 
+preocuparte
+porque Mamá y Papá no están preocupados.
+Shizuku: ¡Estoy estudiando!
+
+Durante la cena
+Shiho: Así que, saben, ¡incluso trató de hacerme traer un poco de salsa de 
+soya!
+Mamá: Así es tu tía, ¿no es así?
+Mamá: Estoy casi segura... ¿Acaso no pasó lo mismo el año pasado?
+Shiho: ¡Así es! Me hizo traer un poco de miso, saben. ¡Estaba pesado!
+Todabia me acuerdo.
+Mamá: Eran como dos kilos, ¿no es cierto? Pero...
+
+A la mañana siguiente
+Shiho: ¡Shizuku! ¡Ya levantate!
+Shiho: Aspira tu propio lado.
+Shiho: Estoy lavando las cobijas, así que quita las tuyas. Tambien vamos a 
+orear
+los colchones,
+Shizuku: ¿Dónde está mamá?
+Shiho: Se fué hace mucho.
+
+Desayuno
+Shiho: Pon las cosas en orden rápido y llevale esa caja de almuerzo a papá.
+Shizuku: ¿¿Qué??
+Shiho: ¿Qué significa que uses ese tono? Vas a ir a la biblioteca, ¿cierto?
+Shiho: ¿O debo ir yó en tu lugar?
+Shiho: En ese caso tu puedes limpiar la taza del baño, el resto del baño,
+y tambien el pasillo, he ir a la cooperatiba por mi. Y metes los colchones,
+vas de compras, y tambien preparas la cena.
+Shizuku: ¡Adios!
+
+Afuera
+Shiho: ¡Shizukuuu!
+Shiho: Pon esto en el correo por mi, por favor.
+Shizuku: ¿Queeé?
+Shiho: ¡Pon esto en el correo!
+Shiho: ¡No tienes que mirarlo! ¡No lo envies con el clip!
+Shizuku: ¿Tu novio?
+Shiho: ¡Tontita!
+
+En el tren
+Shizuku: ¿Estás solo minino?
+Shizuku: ¿Hasta dónde vas?
+Shizuku: ¿Hay algo interesante afuera?
+Shizuku: Heyyyyy, respondeme, ¿quieres?
+Shizuku: Aquí me bajo, ¿que tal tú?
+Shizuku: Bye, minino.
+
+Estación
+Niño: ¡Oh, un gato!
+
+Letrero de la estación: Línea Keiou, Estación Suginomiya
+[Nota: Esto está escrito en kanji que normalmente se leería "Keitama".
+Sin embargo, en Tokyo realmente hay una línea Keiou, y el kanji para "ou"
+(rey) y "tama" (joya) difieren tan solo en un trazo. El kanji para "tama"
+tambien se puede leer como "ou" en nombres, pero normalmente no en el
+nombre de una estación del tren. Adicionalmente, más tarde en la pelicula
+un tren tiene escrito afuera "Keio" en alfabeto Romano. Dadas las 
+referencias
+obvias a la línea Keiou real y el hecho de que la mayoria de la gente no
+entenderían el juego de palabras en kanji, uso "Keiou".]
+
+Afuera
+Shizuku: ¡Va hacia la biblioteca!
+
+En la calle
+Shizuku: Awww, justo cuando se sentía que comenzaba una historia.
+
+Cerca de la biblioteca
+Shizuku: ¡Ahí está!
+
+Letrero en la puerta: Solo personal autorizado, no pase.
+
+Subiendo
+Shizuku: Asombrosa pendiente. Me pregunto, ¿qué tan alto irá?
+
+En un camino
+Shizuku: Miniiino... Miniiino...
+Shizuku: Me pregunto si, ¿vivirá en este barrio?
+
+Persiguiendo al gato
+Shizuku: Minino, ¿a donde vas? ¿Te gusta este rumbo?
+
+Casas bonitas
+Shizuku: No tenia idea de que hubiera un lugar así en la cumbre de la 
+colina.
+
+El minino atormentando a un perro...
+Shizuku: ¡Que travieso! ¡Se la pasa burlandose de los perros!
+Shizuku: Hmmmm... Tal vez se está burlando de mí.
+
+Chikyuuya...
+Shizuku: No tenia idea de que hubiera una tienda como esta en la cumbre de 
+la colina.
+Shizuku: Que figura tan maravillosa...
+Shizuku: ¿Tu eres ese minino que estaba siguiendo?
+
+Conociendo al propietario
+Nishi: Ah, bienvenida
+Shizuku: uh, uhhh
+Nishi: Oh, no, continue, continue. Por favor, mire cuanto desee. El Barón
+tambien está aburrido.
+Shizuku: ¿Es, "Barón" el nombre de esta figura?
+Nishi: Así es. Barón Humbert Von Jikkingen... gran nombre, ¿eh?
+Nishi: Ah, gracias.
+Nishi: Gracias, ahora ya estoy bien.
+Shizuku: Que magnífico reloj.
+Nishi: Estaba reposando en cierto castillo. Estaba completamente oxidado.
+Heche un vistazo.
+Shizuku: ¡Ohhh, es bonito! ¿Qué es eso?
+Nishi: Hee hee hee... terminar es la parte divertida.
+
+Observando el reloj
+Shizuku: ¡Ohhh!
+Shizuku: Está bien hecho... Esos son enanos, ¿no es así?
+Nishi: ¡Muy bien! Así que, Señorita, usted es alguien que conoce de enanos.
+Nishi: Mire la caratula del reloj. Me pregunto si va a funcionar.
+Shizuku: ¡Un Duende!
+Nishi: El vidrio es brillante, ¿no es así? Venga aquí arriba.
+Shizuku: Si.
+Shizuku: ¿Una princesa?
+Nishi: Si, así es.
+Shizuku: ¿Están enamorados?
+Nishi: Mmm, pero viven en mundos diferentes. Porque él es el rey de los
+enanos. Solo cuando el reloj da las doce, es cuando ella puede regresar de
+ser una obeja a su mundo original. Y así, él tambien se deja ver de esta 
+forma
+cada vez que el reloj toca las 12. Él sigue esperando para ver a la 
+princesa.
+Estoy seguro de que el artesano que hizo este reloj tuvo un amor 
+insatisfecho.
+Shizuku: Por eso es que ellos dos parecen tristes de alguna forma, ¿no es 
+así?
+Shizuku: ¡Ahhhhhh! Este reloj va adelantado, ¿no es cierto?
+Nishi: Mmm, pero solo alrededor de cinco minutos, creo.
+Shizuku: ¡Oh no!
+Nishi: Oh...
+Shizuku: ¡Tengo que ir a la biblioteca! ¡Adios!
+Shizuku: Señor, ¿puedo venir otra vez?
+Nishi: Claro. Para ir a la biblioteca es mejor por la izquierda.
+
+Corriendo
+Shizuku: ¡Wow! ¡Está justo arriba de la biblioteca!
+Shizuku: Encontré un lugar agradable.
+Shizuku: ¡Es como una tienda sacada de un cuento!
+Shizuku: ¡Es maravilloso!
+
+En los escalones
+Muchacho: ¡Tsukishimaaa! ¡Tsukishima Shizuku!
+Muchacho: Esto es tuyo, ¿cierto?
+Shizuku: ¿Huh?
+Shizuku: ¡Ahhhhh!
+Muchacho: Eres olvidadiza, ¿no es así?
+Shizuku: Gracias. Pero, ¿por qué?
+Muchacho: Vamos, ¿por qué podría ser?
+Shizuku: ¡El gato!
+Shizuku: Yó... ¿El gato es tuyo?
+Muchacho: Oye, tu caja del almuerzo es algo enorme.
+Shizuku: ¿Huh?
+Shizuku: ¡ESTAS EQUIVOCADO!
+Muchacho: Caminos de concreto, a todas partes, el camino blanco que 
+continua...
+Shizuku: ¡NO ES ASÍ! ¡CALLA!
+
+En la biblioteca
+Papá: ¿Huh? Shizuku, ¿viniste aquí por mi?
+Papá: ¿Qué pasa? ¿Por qué la mala cara?
+Shizuku: Es un poco dificil de explicar.
+Papá: ¿Oh?
+Shizuku: Pasó algo muy agradable, y tuve la sensación de que habia 
+encontrado
+un tesoro en una cueva. Y entonces con una sola palabra desconsiderada
+sentí que el lugar se había enterrado vivo.
+Papá: Ha ha ha... que complicado.
+Papá: ¿Hoy tambien vas a sacar algunos libros?
+Shizuku: Si. Tengo que leer siete más.
+Papá: Igual que siempre... ¿Qué vas a hacer para el almuerzo?
+Shizuku: Comeré algo en el puesto.
+Papá: ¿Oh? ... Entonces, gracias.
+
+Mirando libros
+Shizuku: 16 de Junio...
+Shizuku: Este "tipo" Amasawa es asombroso. Tambien leyó este libro. Me 
+pregunto que
+clase de persona es.
+Shizuku: ¡NO! ¡NO ES ALGUIEN COMO TU!
+
+En casa
+Mamá: ¡Shizukuu! ¡Apurate!
+Mamá: Ahhh, ya se nos hizo tarde.
+Mamá: Paraguas... Llevate un paraguas.
+Mamá: Aún cuando es el nuevo trimestre, nada sino lluvia.
+Shizuku: Deja de quejarte. Estas estudiando porque te gusta, ¿cierto?
+Mamá: ¡Si, Señorita!
+Shizuku: Entonces estudia mucho.
+Mamá: Puedes contar conmigo.
+
+Caminando rumbo a la escuela
+Yuuko: ¡Shizukuuu!
+Shizuku: ¡Yoohoo!
+Yuuko: ¡Apurate, vamos a llegar tarde!
+Yuuko: Está mal, ¿no es así? Nada más que exámenes.
+Shizuku: Todos los días es una cosa o la otra.
+Shizuku: Oh, ¿dijiste algo?
+Yuuko: Uh-uh.
+Shizuku: ¿No ha venido de nuevo a hablar contigo?
+Yuuko: No. Despues de todo no lo voy a aceptar.
+Shizuku: Ya veo... Bien, tal vez sea lo mejor...
+Shizuku: ¡Sugimuraa!
+Sugimura: Apenas vamos a llegar a tiempo, ¿saben?
+Shizuku: ¡Si sabemos!
+
+En clase
+Maestro: OK, se acabó el tiempo. Por favor junten las hojas.
+Maestro: Esta tarde será como siempre.
+Yuuko: Shizuku, vamos a la oficina de Kousaka-sensei.
+Shizuku: Uh-huh. ¿Está bien si nos detenemos en la sala de maestros en el 
+camino?
+Yuuko: Claro.
+Sugimura: Tsukishima, escucha, escucha.
+Shizuku: ¿Qué?
+Sugimura: ¡Adiviné correctamente y pasé ese examen! Asombroso, ¿huh?
+Shizuku: Suertudo.
+Sugimura: ¡Acabo de ver durante el intermedio, y yó estaba exactamente bien!
+Shizuku: No eras solo un loco por el baseball.
+Shizuku: Hablando de adivinar, Yuuko es buena para eso. ¿Por qué no estudias 
+con ella
+la proxima vez?
+Sugimura: ¿Harada?
+Muchacho: ¡Sugimura, Sugimura!
+Sugimura: ¿Qué pasa?
+Muchacho: ¿Viste esto?
+Yuuko: ¡Vamonos Shizuku!
+
+En las escaleras
+Yuuko: ¡No intentes forzarnos a estar juntos!
+Shizuku: ¿Lo notaste?
+Yuuko: ¡Porque no soy buena adivinando!
+Shizuku: Lo siento.
+
+Sala de maestros
+Shizuku: Disculpenos por favor.
+Maestro: ¿Quién donó un libro? No estoy seguro de saber...
+Shizuku: Siento interrumpir mientras ustedes están comiendo. Es acerca de 
+esta
+marca de la biblioteca.
+Maestro: ¿Mm? Dejeme ver...
+Maestro: Ah, es Amasawa-san, ¿no es así? Tambien leí este. Buen libro, ¿no 
+es así?
+Shizuku: Si, bastante. Así que, ¿quién es éste caballero llamado Amasawa?
+Maestro: Estoy seguro de que fue hace varios años. Fué seleccionado 
+presidente
+de la asociación de padres y profesores.
+Shizuku: ¿Padres y profesores? Umm, ¿sabe usted su nombre completo?
+Maestro: ¿Su nombre completo? Dejeme ver... Kimura-sensei... ¿cuál es
+el nombre de Amasawa-san? El doctor?
+Kimura: ¿Amasawa-san? Estoy seguro de que es Kouichi. Amasawa Kouichi.
+Shizuku: Amasawa Kouichi...
+Kimura: ¡Tsukishima! Hay un Amasawa en tu grado quien es el hijo menor de 
+este
+hombre, ¿no es así? ¿Acaso no sabia usted?
+Shizuku: ¿QUÉ?
+Shizuku: Uh... Umm... ¡Muchas gracias!
+Yuuko: Por favor disculpenos.
+
+Afuera de la sala de maestros
+Shizuku: ¡Lo siento!
+Yuuko: Shizuku, ¿a donde vas?
+
+Afuera
+Shizuku: Estaba sobresaltada.
+Yuuko: ¡Yo soy la que estaba sobresaltada! ¡Voy a obtener una explicación 
+adecuada!
+Shizuku: Lo siento.
+
+Pasando "al imbécil"
+Yuuko: Shizuku, ¿ahora a dónde vas?
+Shizuku: ¿Quién se cree que es, ignorandome completamente?
+Yuuko: Shizuku, ¿quién era ese muchacho? ¿Dónde pensabas que ibas a ir?
+Shizuku: ¡Ese tipo es un imbécil! ¿Está mal alejarse?
+
+La oficina de Kousaka
+Amiga 1: Hahahahaha
+Amiga 2: ¡Tan lindo!
+Yuuko: ¡Ahí iba yó cargando con la caja del almuerzo de Shizuku!
+Kousaka: Tsukishima y un muchacho, ¿eh?
+Amiga 1: ¡Sensei! Al fin, la primavera le ha llegado aún a Shizuku, ¿no es 
+así?
+Shizuku: Ya les dije, ¡no es así!
+Amiga 1: La verdad es que, conociste al principe de los libros, ¿correcto?
+Amiga 2: ¿Es guapo?
+Shizuku: ¡Ya les dije, solo me preguntaba que clase de muchacho es!
+Amiga 2: Hey, Yuuko, tu debes saber su nombre. ¡Dinos!
+Shizuku: ¡Yuukoo!
+Yuuko: Bueno... pasó tan rapido... habia una "ma" en el nombre, ¿era
+Masaki? Ama... Hey, Shizuku...
+Shizuku: ¡Bueno, caramba!
+Kousaka: Saben, salir corriendo sin escuchar el final de la historia
+simplemente es típico de Tsukishima, ¿no es así?
+Amiga 1: ¡Quieres saber, pero no quieres saber! Tu corazón tembloroso
+está adolorido y feliz.
+Amiga 2: ¡Tu eres tan romántica!
+Shizuku: ¡Bueno, está bien si van a burlarse de mi así! Despues de que
+traje mi canción "Country Roads".
+Yuuko: ¿Está terminada?
+Amiga 1: ¡Veamos, veamos!
+Yuuko: Señorita Shizuku, gran poeta maestra, ya no le haremo burla, así que
+por favor enseñenos.
+Shizuku: Muy bien.
+Shizuku: La verdad es que, no estoy muy segura acerca de ella.
+Shizuku: Hay algo que no capto acerca de "home town", así que
+escribí honestamente con mis propios sentimientos.
+Amiga 1: Esto es bastante radical, ¿no es así?
+
+Todas:
+Kantorii Roodo, kono michi,
+Zu-tto yukeba
+Ano machi ni tsuduite ru,
+ki ga suru Kantorii Roodo
+
+   Camino campestre, si tu sigues
+	todo este camino, tengo el presentimiento
+	de que es el camino campestre a mi pueblo natal
+
+Yuuko: ¡Está bien, Shizuku! A mi me gusta.
+Shizuku: ¿No es dificil de cantar?
+Amiga 1: Creo que nos las areglaremos.
+Yuuko: Simplemente darsela a los nuevos es muy aburrido. Cantemosla nosotras 
+tambien, en
+la fiesta de apreciación a los profesores.
+Shizuku: ¿Qué? ¿La fiesta de apreciación a los profesores?
+Amiga 2: ¡Te estas adelantando a ti misma!
+Amiga 1: Esta parte es agradable...
+Amiga 1:
+Hitori de ikiru to
+Nani mo motazu, machi wo tobidashita
+Sabishisa oshikomete,
+Tsuyoi jibun wo mamotte ita
+
+	Intentando vivir sola, con nada,
+	Me fuí del pueblo
+	Encerrando la soledan adentro,
+	Protegí mi fuerte persona.
+
+Kousaka: Primera campana, señoritas.
+Todas: Si, señora.
+
+Caminando a casa
+Shizuku: ¡Ahhhh, se despejó!
+Yuuko: ¡Shizukuuuu!
+Yuuko: ¿No vas a mi club Coral? Vamos a mostrar esa traducción.
+Shizuku: No gracias. Tengo que ir a la biblioteca.
+Yuuko: ¿Qué? Sabes que mañana tambien hay un examen.
+Shizuku: Estudiaré en la biblioteca.
+Yuuko: De verdad te gusta, ¿no es así?
+Shizuku: Te veo luego.
+Yuuko: ¡Bye-bye!
+
+Yuuko y Sugimura
+Sugimura: Harada...
+Sugimura: Um, sabes, Siento molestarte pero, ¿tienes un minuto?
+Yuuko: Umm.
+
+Chikyuuya
+Shizuku: Así que despues de todo está cerrado.
+Shizuku: Me pregunto si alguien está rregando las flores.
+Shizuku: ¡"Barón" no está!
+Shizuku: Me pregunto si alguien lo habrá comprado.
+
+Letrero:
+Studio Earth Shop [Atelier Chikyuuya]
+Nishi Shirou
+
+Shizuku: Nishi Shirou... Me pregunto si el nombre de ese muchacho tambien es 
+Nishi.
+
+En casa
+Shiho: ¡Shizuku... Shizukuuuu!
+Shiho: ¡Tienes una llamada telefónica de Yuuko-chan!
+Mamá: Shizuku, te vas a arruinar los oidos.
+Shizuku: ¿Yuuko? ¿Huh? ¿Qué? No te escucho.
+Shizuku: Mmm...
+Shizuku: Voy de inmediato... Mmm... OK, Voy a colgar ahora.
+Mamá: ¿A donde vas?
+Shizuku: No muy lejos.
+
+Afuera
+Shizuku: ¿Qué pasa? Yuuko...
+Yuuko: Shizukuuuu....
+Shizuku: Cual es el problema? ¡Oh, ¿qué pasa con tu rostro?!
+Yuuko: Shizuku, ¿qué voy a hacer? El amigo de Sugimura le pidió que
+obtuviera una respuesta a esa carta.
+Shizuku: ¡¿QUÉ?!
+Shizuku: ¡Oh, cielos!
+
+Recordando
+Yuuko: ¡Como puedes decir algo así!
+Sugimura: ¡H-Hey!
+
+En una banca
+Shizuku: Vaya, de veras que es cabeza dura. Pero sabes, no es que él sepa
+como te sientes tú.
+Yuuko: Me disculparé con él. Pero no puedo ir a la escuela con esta 
+apariencia,
+así que voy a tomar el día libre mañana, ¿OK?
+Shizuku: ¿Aún con el examen?
+Yuuko: Si.
+Shizuku: Ya veo...
+
+Examen
+Shizuku: (silenciosamente) ¡Idiota!
+Sugimura: (silenciosamente) ¿Qué hice?
+
+Pasillo
+Amiga 2: Parece que me fué bien.
+Amiga 1: ¡Shizukuuuu! ¿Hoy tambien a la biblioteca?
+Shizuku: Voy a tratar de ir a casa de Yuuko.
+Amiga 1: Oh, ¿de verdad? Dile hola.
+Shizuku: Claro. ¡Bye-bye!
+Amiga 1: ¡Bye-bye!
+
+Caminando
+Sugimura: ¡Tsukishimaaa!
+Sugimura: ¡Espera!
+Sugimura: Es acerca de Harada...
+
+Santuario
+Sugimura: Y entonces, sabes, la canija comenzó a llorar repentinamente...
+Sugimura: Dime... Me pregunto si dije algo malo.
+Shizuku: Sugimura, sabes... Yuuko dijo "¿Por qué estas diciendo algo como
+esto?", ¿cierto?
+Sugimura: Si... por eso le dije "Mi amigo del Club de Baseball me lo
+pidió..."
+Shizuku: ¡NO ES POR ESO! Cuando ella dijo eso queria decir que no queria oir 
+eso de
+ti. Sabes lo que eso significa, ¿verdad?
+Sugimura: ¡No se! Hablame claro, ¿quieres?
+Shizuku: Dios, realmente eres denso, ¿no es así? ¡Yuuko está enamorada de 
+tí!
+Sugimura: ¿QUÉ?
+Sugimura: Eso... Yó... ¡Que predicamento!
+Shizuku: ¿"Predicamento"? ¡Habria que sentirse mal por Yuuko! ¡Se llevó tal 
+sorpresa que
+tuvo que quedarse en casa alejada de la escuela!
+Sugimura: P-pero... Yó... ¡Yó estoy enamorado de ti!
+Shizuku: ¿QUÉ?
+Shizuku: N-no... ¡No hagas bromas en un momento como este!
+Sugimura: ¡No es una broma! He estado enamorado de ti por mucho tiempo.
+Shizuku: ¡T-tu no puedes! Yó... Pero eso...
+Sugimura: ¿Me odias? ¿Estás saliendo con algún muchacho?
+Shizuku: No estoy saliendo con nadie... P-pero...
+Shizuku: ¡Lo siento!
+Sugimura: ¡Espera!
+Sugimura: Tsukishima... ¡Dime sin rodeos!
+Shizuku: Bueno... tu siempre has sido mi amigo, así que te quiero... pero 
+"querer"
+no significa que...
+Shizuku: Lo siento... No puedo decirlo correctamente...
+Sugimura: ¿Sólo como amigo?
+Sugimura: ¿Y seguimos siendo sólo amigos?
+Sugimura: Ya veo...
+
+En casa
+Shizuku: ¡Idiota! ¡Yo soy la que es densa!
+
+Mas tarde
+Vecina: Tsukishima-san, por favor espere un momento. Tengo una entrega que
+llegó para usted.
+Mamá: Gracias de nuevo, como siempre.
+
+Afuera
+Vecina: Lo siento, siempre terminamos recibiendo algo.
+Mamá: Está bien, de todas formas nosotros no nos los podemos acabar.
+Mamá: Oh, ¿estabas en casa?
+Mamá: Shizuku...
+
+Afuera de Chikyuuya
+Shizuku: Yoohoo...
+Shizuku: ¿Tú tambien te quedaste afuera?
+Shizuku: ¿Vives aquí? ¿No tienes hambre?
+Shizuku: Tampoco eres muy dulce, ¿verdad?
+Shizuku: Justo como yó...
+Shizuku: ¿Por qué cambiamos?, me pregunto. Como yó... Aún cuando siempre fuí
+una niña tan dócil, gentíl. Tambien leyendo libros... Ya no me emociono como
+solía. De inmediato, sabes, algo dentro dice, "No es como si las
+cosas fueran a salir tan bien." No muy dulce...
+
+
+{ En el siguiente texto "Moon" es un nombre propio y por tanto no lo 
+traduzco.
+Pero es obvio que el equivalente en Español es "Luna", que refleja en parte 
+la
+apariencia física del gato en la pelicula.}
+Llega "El Imbécil"
+Muchacho: Mira, si es Tsukishima.
+Shizuku: ¡Oh!
+Muchacho: "Moon" realmente te dejo acariciarlo.
+Muchacho: Hey, "Moon", ¿no vas a entrar?
+Shizuku: ¿El nombre de ese gato es "Moon"?
+Muchacho: Si. Parece como una luna llena, ¿cierto? Así que lo llamo "Moon".
+Shizuku: ¿"Moon" no es el gato de tu familia?
+Muchacho: Él es imposible de atar. En otras casas he oído que lo llaman
+"Otama". Estoy seguro de que tiene otros nombres.
+Shizuku: Así que vaga de un lugar a otro.
+Shizuku: ¡Oh, eso es! ¡"Moon" viaja en tren!
+Muchacho: ¿En tren?
+Shizuku: Así es. Él estaba viajando solo en tren. Así que lo
+seguí y terminé aquí. Y aquí estaba esta maravillosa tienda,
+¿cierto? Fue como estar en una historia, estaba toda emocionada.
+Shizuku: Dije algo malo. Le dije a "Moon" que él no era muy dulce. Justo 
+como yó.
+Muchacho: "Moon", ¿como tú? ¡Ustedes no se parecen para nada!
+Muchacho: Ese gato es mitad duende. [bakeneko]
+Shizuku: Umm...
+Muchacho: Tú...
+Shizuku: ¿Está bien tu abuelito? La tienda ha estado cerrada por tanto 
+tiempo que
+me preguntaba si él estaría bien...
+Muchacho: Él nunca ha estado mejor. Es solo que esta es una tienda extraña; 
+no está
+abierta muy a menudo.
+Shizuku: ¿De verdad? Me alegro. Cuando me asomé por la ventana, no pude ver
+a "Barón", y me preguntaba si habia sido vendido...
+Muchacho: ¡Ha si! ¿Esa figura de gato? ¿La quieres ver? Ven.
+
+En las escaleras
+Muchacho: Cierra la puerta.
+Shizuku: Wow...
+Shizuku: Como flotando en el cielo.
+Muchacho: ¿Acrofobia?
+Shizuku: Uh-uh. Me gustan los lugares altos. Maravilloso...
+Muchacho: A esta hora del día es más bonito. Por aquí.
+
+En la tienda
+Muchacho: ¡Perfecto! Sientate ahí.
+Shizuku: Ya no está el reloj.
+Muchacho: ¡Ah! ¿El que estaba ahí?
+Muchacho: Hoy fuimos a entregarlo. Ven para acá.
+Shizuku: ¿Se vendió? sabía 
+de tí
+desde hace mucho tiempo... Algunas veces quiero verte tanto que no puedo 
+soportarlo.
+Shizuku: Hoy pareces muy triste de alguna manera...
+
+En el piso de abajo
+Muchacho: Oh... ¿Terminaste?
+Shizuku: S-si, gracias. Dime, eso... ¿Acaso estas haciendo un violín?
+Muchacho: ¿Eh? Si.
+Shizuku: ¿Puedo ver?
+Muchacho: Mmm.
+Muchacho: Va junto, así.
+Shizuku: ¿Hiciste esto tú sólo? ¿A mano?
+Muchacho: Claro que sí.
+Shizuku: ¡No lo puedo creer!
+Muchacho: La forma del violín se estableció hace 300 años. Desde entonces, 
+la habilidad
+del artesano ha determinado que tan bueno es su sonido.
+Shizuku: ¿Tambien hiciste todos estos?
+Muchacho: Debes estar bromeando... Hay una clase de hacer violines que 
+tambien se reune
+aquí, sabes.
+Shizuku: Pero uno de ellos es tuyo, ¿cierto?
+Muchacho: Mmm.
+Shizuku: Vamos, ¿cuál?
+Muchacho: ¡Ese!
+Shizuku: Ohhhh... ¿Este? Es maravilloso que los puedas hacer tan bien.
+Es casi como magia.
+Muchacho: Sabes, tu puedes decir cosas embarazosas como esa muy 
+frecuentemente.
+Shizuku: ¿Oh? ¿Qué hay de malo en ello? Es como realmente lo siento.
+Muchacho: Cualquiera puede hacer uno tal como este. Todabia no son buenos 
+para nada.
+Shizuku: Hey, apuesto a que tu tocas el violín.
+Muchacho: Bueno, más o menos.
+Shizuku: ¡Dejame escuchar por favor! Aunque sea un poco.
+Muchacho: Oye...
+Shizuku: ¡Por favor, por favor, por favooooor!
+Muchacho: ¡Está bien! ¡Pero a cambio, tu cantas!
+Shizuku: ¿Huh? ¡N-no puedo! ¡No tengo sentido musical!
+Muchacho: Creo que entonces estamos parejos.
+
+Afinando
+Muchacho: Canta, ¿quieres? Es la que te sabes.
+Shizuku:
+Hitori botchi, osorezu ni
+Ikiyou to yume mite ta
+Samishisa oshikomete
+Tsuyoi jibun wo mamotte ikou
+
+	Soñé que vivia
+	Sin miedo de estar sola
+	Embotellando la soledad
+	Seguiré, preservando mi lado fuerte
+
+Kantorii Roodo, kono michi
+Zutto yukeba
+Ano machi ni tsuduite ru
+Ki ga suru Kantorii Roodo
+
+   Camino campestre, si tu sigues
+	todo este camino, tengo el presentimiento
+	de que es el camino campestre a mi pueblo natal
+
+Donna samishii toki datte
+Kesshite namida wo misenaide
+Kokoro nashi ka hochou ga hayaku natte iku
+omoide kesu tame
+
+	Aún cuando me ponga triste
+	Nunca lloro
+	Sin querer, acelero el paso
+	Para borrar los recuerdos
+
+Kantorii Roodo, kono michi
+Furusato he tsuduite mo
+Boku ha, ikanai sa
+Ikenai Kantorii Roodo
+
+	Camino campestre, aún cuando este camino
+	Continúe hasta mi poueblo natal
+	No iré, tu conoces
+	El camino campestre que no puedo seguir
+
+Kantorii Roodo, ashita ha
+Itsu mo no boku sa
+Kaeritai, kaerenai
+Sayounara, Kantorii Roodo
+
+	Camino campestre, mañana
+	Seré la misma, tu sabes
+	Que quiero ir a casa pero no puedo
+	Adiós, camino campestre
+
+Nishi: ¡Ah, que placer!
+Shizuku: Yo soy Tsukishima Shizuku. Gracias por lo de ahorita.
+Nishi: No tiene nada que agradecer. Había estado pensando que quería verla 
+de nuevo señorita.
+Estos dos músicos son amigos mios.
+Amigo 1: ¡Buena vocalización! Usted es la jovencita que tuvo la suerte de 
+estar aquí
+cuando se completó el famoso reloj, ¿no es así?
+Amigo 2: ¿Quién hubiera imaginado que Seiji-kun tuviera una amiga tan linda?
+Shizuku: ¡¿Qué?! ¿SEIJI?? ¿Tu eres Amasawa Seiji?
+Seiji: Si. Espera un momento. ¿No dije mi nombre?
+Shizuku: No, no lo dijiste. Y en el letrero del frente decia "Nishi".
+Seiji: Ese es el apellido de mi abuelito. El mio es Amasawa.
+Shizuku: ¡Que horrible sorpresa! ¡Estoy enterrada viva en una cueva! ¡Es 
+como si
+el cielo se estuviera cayendo!
+Seiji: ¿Qué clase de cosas estúpidas estas diciendo? ¿Qué importa cual es
+mi condenado apellido?
+Shizuku: ¡Si importa! ¡TU usaste mi nombre completo sin un honorífico!
+Seiji: Tu deberias haber preguntado, ¿cierto?
+Shizuku: ¿Y cuándo tuve el tiempo de preguntar?
+Shizuku: Ahhhhh... Amasawa Seiji... Estaba segura...
+Seiji: ¿Ahora qué?
+Shizuku: ¡Creia que eras una persona gentíl y callada!
+Seiji: Sabes, has leído demasiados libros.
+Shizuku: ¿Y tu no lees muchos tambien?
+
+Caminando a casa
+Shizuku: Fué realmente divertido. Todo mundo es tan agradable.
+Seiji: Ven de nuevo. A mi abuelito y sus amigos les gustará eso.
+Shizuku: Si tan solo pudiera haber oido... Cantar fué doloroso. Pero
+Amasawa-kun, tu tocas bien el violín. ¿Vas a estudiarlo más?
+Seiji: Hay muchas personas que tocan tan bien como yo. Pero sabes, más que 
+tocar, yó
+quiero ser un fabricante de violines.
+Shizuku: ¿De verdad? Porque ya eres bastante bueno, ¿no es así?
+Seiji: En Cremona, Italia, hay una escuela de fabricantes de violines. 
+Quisiera ir
+allá despues de la secundaria.         {la escuela antes del bachillerato de 
+3 años}
+Shizuku: ¿No vas a ir al bachillerato?
+Seiji: Todo mundo en mi familia se opone seriamente a eso. Así que todabia 
+no
+se como van a resultar las cosas. Sólo mi abuelito me apoya.
+Shizuku: Es maravilloso... ya decidiste desde ahora la dirección de tu vida.
+Yo no tengo ni idea acerca de la mia. Sólo viviendo cada día de alguna 
+manera...
+Seiji: Bueno sabes, todabia no he decidido si realmente voy a ir
+o no. Peleo con mis padres todos los días. Aún si estuviera bien, si
+no lo intento por mi mismo nunca sabré si tengo el talento.
+Seiji: ¿Está bien si no te acompaño todo el camino hasta tu casa?
+Shizuku: Claro, solo es un poco más lejos.
+Shizuku: ¡Adiós!
+Seiji: ¡Uh, Tsukishima!
+Shizuku: ¿Q-qué?
+Seiji: Sabes, tu realmente puedes escribir canciones.
+Seiji: Me gusta la que acabas de cantar, pero tambien me gusta "Caminos de 
+Concreto".
+Shizuku: ¿Qué es esto? ¡El otro día me dijiste que me diera por vencida!
+Seiji: ¿Yó dije algo como eso?
+Shizuku: ¡SI LO HICISTE!
+Seiji: ¿De verdad?
+Shizuku: Gracias por lo de hoy. ¡Adiós!
+
+En casa
+Shiho: Shizuku, apaga tu lampara como se supone que deberias. Ayer la
+dejaste encendida.
+Shizuku: Hermanita, ¿cuándo decidiste lo que harías con tu vida?
+Shiho: ¿Huh?
+Shizuku: ¡Lo que ha-rí-as con tu vi-da!
+Shiho: Creí que ibas a hacer examenes para Su-gi-no-mi-ya.
+Shizuku: No es acerca del bachillerato...
+Shiho: Estoy yendo a la Universidad para averiguar eso.
+Shizuku: (suspiro)
+Shiho: Buenas noches.
+Shizuku: Buenas noches.
+
+Corriendo bajo la lluvia
+Shizuku: ¡Mamá no se levantó porque se canceló su clase!
+Sugimura: ¡Días!
+Shizuku: ¡Días!
+Sugimura: ¡Corre más rapido!
+Shizuku: Está bien que te adelantes.
+Pizarrón: (7 de Septiembre. Primera hora, auto-estudio. Libro B, p.32-33)
+Shizuku: Estoy salvada.
+Yuuko: Shizuku... Shizuku...
+Yuuko: Cielos, que apariencia.
+Shizuku: Hablando de apariencias, tu te recuperaste rapido.
+Yuuko: Anoche, ¿estabas caminando con un muchacho de otra clase?  {otro 
+salón}
+Shizuku: ¿Qué? ¿Quién ha estado diciendo eso?
+Yuuko: Anda rondando. Dicen que parecian como una pareja.
+Shizuku: No es de esa manera...
+Estudiante (solo voz): Cualquiera de las dos está bien, ¿sabes?
+Sugimura: Harada, acerca de ese asunto, queria disculparme. Lo siento.
+Yuuko: No, es culpa mia, lo siento.
+Sugimura: Está bien.
+El amigo de Sugimura: Oigan, ¿vieron Sasuke anoche? ¡Fué maravilloso! Me
+conmovió...
+
+Durante la clase
+Maestra: Esta formula va a venir en el examen, asi que, memoricenla
+por favor.
+Estudiantes: ¡¿Qué?!
+Maestra: ¡Pueden retirarse!
+
+Pasillo
+Seiji: ¿Tsukishima está en este salón?
+Estudiante: ¿Amasawa? ¿Qué pasa?
+Seiji: Tsukishima está en esta clase, ¿cierto?
+Estudiante: ¿Tsukishima? Si, ella está aquí.
+Estudiante: ¡Hey, Tsukishima! Tienes un visitante ... ¡un muchacho!
+Estudiante: Mira, ahí está ella.
+Shizuku: ¡¡Seiji-kun!!
+Seiji: Tsukishima... ¿tienes un minuto?
+Shizuku: ¡Si!
+Estudiante: ¡Wheee! ¡Tsukishima tiene novio!
+Estudiantes: ¡Novio!...¡Novio!...¡Novio!...
+Shizuku: ¡NO! ¡Les digo que no es eso!
+Shizuku: ¿Qué demonios pasa?
+Seiji: ¡Me están dejando ir! A Italia.
+Shizuku: ¡¿Huh?!
+Shizuku: Vamos a alguna otra parte.
+Seiji: ¿A dónde vamos?
+Shizuku: A la azotea.
+Shizuku: ¡Ahhhh!
+Seiji: Increíble...
+Shizuku: Sabes, preguntaste por mi enfrente de toda esa gente.
+Seiji: Lo siento. Quería que tu fueras la primera en saber.
+Shizuku: No me molesta que lo mal interpreten pero...
+Seiji: Mi papá finalmente cedió. Pero hay una condición.
+Shizuku: ¿Huh? ¿Qué?
+Seiji: Voy como aprendíz por dos meses al estudio de un amigo de mi 
+abuelito.
+Shizuku: ¿Aprendíz?
+Seiji: Dicen que el maestro es muy estricto, y él verá si hay alguna
+esperanza para mi. Y además, voy a averiguar si acaso mi auto-confianza me 
+puede
+sacar adelante.
+Seiji: Si no funciona, tengo que hacer lo que papá dice e iré al 
+bachillerato.
+Eso... no me gusta, porque es como planear una ruta de escape. Pero es mi
+oportunidad, así que voy a ir.
+Shizuku: ¿Cuándo? ¿Cuándo te vas?
+Seiji: Tan pronto como obtenga mi pasaporte. Mi papá y yo vamos a hablar en 
+la
+escuela hoy.
+Shizuku: Entonces, es pronto.
+Shizuku: Es agradable, ¿no es así? Tu sueño se hará realidad.
+Seiji: Si. De cualquier forma, haré mi mejor esfuerzo.
+Shizuku: Umm...
+Seiji: ¿Eh?
+Seiji: Hey, ya paró la lluvia.
+Shizuku: Así es.
+Shizuku: Ohhh, mira ahí.
+Shizuku: Tal vez haya un arcoiris.
+Seiji: Mmm.
+Shizuku: Me pregunto que clase de poblado es Cremona. Espero que sea 
+maravilloso.
+Seiji: Si. Dicen que es un pueblo viejo. Muchos fabricantes de violines 
+viven ahí.
+Shizuku: Es grandioso, ¿no es así? Encarando tus sueños y persiguiendolos. 
+Soy
+tan tonta. "Sería agradable ir al mismo bachillerato contigo" --
+cosas como esa. Ja Ja. Completamente de bajo nivel, no puedo soportarlo.
+
+Escaleras
+Muchacho 1: Shhh, aquí están.
+Muchacho 2: ¡Hey, los encontramos!
+
+Azotea
+Seiji: Hace mucho tiempo, te noté por las tarjetas de circulación. Apuesto a 
+que
+no sabes cuantas veces pasé a tu lado en la biblioteca.
+Seiji: Hey, inclusive me senté en el asiento junto a ti.
+Shizuku: ¡¿Qué?!
+Seiji: Sabes, para poder escribir mi nombre antes que el tuyo en las 
+tarjetas
+leí bastantes libros.
+Seiji: Yó... Despues de que me haya ido a Italia, cantaré esa cancion tuya y
+haré mi mejor esfuerzo.
+Shizuku: Yó... yó tambien...
+
+Muchacho 1: ¡No empujes, idiota!
+
+Shizuku: ¡¡¡BASTA YA!!!
+
+Escaleras
+Estudiante 1: ¡Está enojada!
+Estudiante 2: ¡Estoy tan asustado!
+Estudiante 3: ¡Aquí viene!
+
+En casa
+Shiho: Aquí tienes.
+Papá: Ah, gracias.
+Shizuku: Gracias por la cena.
+Mamá: Shizuku, ¿ya no vas a comer más?
+Shizuku: Voy a reunirme con Yuuko.
+Mamá: Si vas hacia la estación compra algo de leche.
+Shizuku: ¡¿Qué?!
+Shiho: Shizuku, tu eres la que se la zampa, ¿cierto?
+Shiho: Recientemente esa niña ha flojeado completamente.
+
+Afuera de la tienda
+Shizuku: ¡Lo siento! ¿Tuviste que salirte de la clase?
+Yuuko: Está bien.
+Shizuku: Ultimamente me he atontado.
+
+En casa de Yuuko
+Mamá de Yuuko: ¡Oh! Shizuku-chan, que agradable es el verte.
+Shizuku: Buenas tardes.
+Papá de Yuuko: Bienvenida.
+Shizuku: Disculpenos por favor.
+Mamá de Yuuko: Voy a hacer un poco de té, así que vengan por él, ¿OK?
+Yuuko: Está bien.
+Yuuko: Estoy peleada con papá, por eso no le hablo.
+
+En la habitación de Yuuko
+Yuuko: Los muchachos son asombrosos, ¿no es así?
+Shizuku: Aún cuando va a regresar a casa en dos meses, despues de la 
+gradiación
+se va de regreso. Dice que estudiará allá más o menos diez años.
+Yuuko: Eso es casi como decir adios para siempre.
+Yuuko: Pero sabes, más que eso, es como estar unidos por un hilo rojo, ¿no 
+es así?
+¡Es maravilloso!
+Shizuku: Él es increible. Porque aún cuando ambos estabamos leyendo los 
+mismos
+libros, uno de nosotros solamente hacia eso, sabes, y el otro ya habia 
+decidido
+el camino de su vida y lo está siguiendo con paso seguro.
+Yuuko: Ya veo...
+Yuuko: Tienes razón. Cuando Kinu-chan era una novata, ella estaba en la
+misma clase, ¿no es así?
+Yuuko: Ella dice que él es un poco dificil de abordar, pero es guapo, y
+tambien estudia con empeño.
+Shizuku: ¡Claro que si! Por favor no hables de ello tan explicitamente. Me
+estoy deprimiendo más y más.
+Yuuko: ¿Por qué? Está bien si te gusta, ¿no? Él ya te dijo que tu le gustas, 
+¿cierto?
+Shizuku: Ya ni siquiera estoy segura de eso.
+Yuuko: No lo entiendo. Si yó fuera tú, estariamos escribiendonos cartas de 
+apoyo mutuo
+todos los días.
+Shizuku: Es solo que no puedo alentar a alguien que ha estado esforzandose 
+más que yó
+por tanto tiempo.
+Yuuko: Me lo imaginaba...
+Yuuko: Cuando hablas así, no se como quieres que salgan las cosas con él.
+¿Acaso es que si no has decidido que vas a hacer con tu vida, tampoco puedes 
+enamorarte?
+Yuuko: Tu tamnbien tienes talento, ¿no es cierto? A los nuevos les encanta 
+tu traducción
+de "caminos campestres". Tú no eres como yó... Tu puedes decir lo que 
+piensas claramente.
+Shizuku: "Hay muchas personas que tocan tan bien como yo."
+Yuuko: ¿Huh?
+Shizuku: Uh-uh... Algo que él dijo. Se va para asegurarse de que tiene 
+talento.
+Si esto es así, yo tambien me voy a asegurar.
+Shizuku: ¡Ya lo decidí! Voy a escribir una historia. Hay algo acerca de lo 
+que
+quiero escribir. Si él va a hacerlo, yo tambien voy a intentar.
+Yuuko: Pero se aproximan los exámenes.
+Shizuku: Está bien. Gracias Yuuko. De alguna manera mi energía ha regresado.
+Yuuko: ¿Te vas a casa?
+Shizuku: Si.
+
+En el piso de abajo
+Shizuku: Siento el molestar.
+Mamá de Yuuko: Dale mis saludos a tu Mamá, ¿OK?
+Shizuku: Si.
+
+Afuera
+Shizuku: Yuuko, tu tambien aguanta, ¿OK?
+Yuuko: Mmm.
+Shizuku: Estoy segura que aún Sugimura puede entender lo agradable que eres.
+Shizuku: Adiós.
+Yuuko: Adiós.
+
+Caminando
+Shizuku: Ya veo... es tan simple. Todo lo que tengo que hacer es intentarlo.
+Shizuku: ¡"Moon"!
+Niña: "Muta"... "Muta"...
+Niña: Mamá, "Muta" se fué de nuevo.
+Niña: "Muta"...
+Shizuku: "Muta", ¿he?
+
+En casa
+En el papel:
+"Si escuchas atentamente"
+Escucha la voz del bosque. Y los recuerdos del viento que sopla desde un
+lejano grupo de estrellas, y la palabra dicha por la nube...
+
+Chikyuuya
+Nishi: Oh, hacer a Barón el héroe...
+Shizuku: ¿Puedo tener su permiso? Porque escuché por parte de Seiji-kun que
+esta figura es un tesoro suyo.
+Nishi: Ja ja ja. Así que tu te molestaste en... Si, muy bien. Pero
+con una condición.
+Shizuku: ¿Si?
+Nishi: Que me dejes ser el primer lector de tu historia.
+Shizuku: Uh, ummm...
+Nishi: ¿Qué tal?
+Shizuku: ¿Realmente tengo que mostrarsela a usted? Porque... Todabia no se 
+si
+puedo escribir bien o no.
+Nishi: Ja ja ja ja. Eso es algo que tambien nosotros los artesanos tenemos 
+que afrontar. No
+puedes esperar que al principio sea perfecta.
+Nishi: Ha claro. Tal vez deba mostrarte algo agradable.
+Nishi: Aquí lo tenemos.
+Nishi: Hecha un vistazo.
+Nishi: Esta es una piedra llamada mica cismática. Intenta ver dentro de la 
+fisura.
+Está bien, así.
+Shizuku: ¡Ohhh! ¡Es tan bella!
+Nishi: Se llama "berilo". Hay una incrustación de esmeralda bruta.
+Shizuku: ¿"Esmeralda"? ¿La gema?
+Nishi: Así es. Tú y Seiji, ambos son como esa piedra.
+Piedras sin pulir en su estado natural. A mi me gustan mucho aún las piedras
+sin pulir, pero cosas como hacer violines o escribir historias son 
+diferentes.
+Tienes que encontrar las piedras preciosas en bruto dento de ti, tomarte tu 
+tiempo,
+y pulirlas. Es un trabajo que lleva mucho tiempo. Esa roca tiene una piedra 
+más
+grande, ¿cierto?
+Shizuku: Si.
+Nishi: De hecho, esa, cuando la pules, resulta que no tiene valor
+alguno. Las más pequeñas más adentro son de mayor pureza. Y en una parte
+que no se puede ver desde afuera, puede que haya aún mejores piedras.
+Ah, no funciona. Envejeces y comienzas a volverte sermoneador.
+Shizuku: Me he atemorizado mucho por averiguar si tengo o no
+un hermoso cristal como este dentro de mi. Pero quiero escribir. Cuando haya
+escrito mi historia, me asegurare de mostrarsela primero a usted.
+Nishi: Gracias. Lo espero con anticipación.
+
+Caminando
+Shizuku: Una piedra en bruto...
+Shizuku: Una veta de lapislázuli...   {Así es como se escribe en Español.  
+:) }
+
+La historia
+Barón: Entonces, ahora serviré como tu acompañante en nuestra jornada para 
+hallar
+la veta de lapislázuli.
+Barón: No hay nada que temer.
+Barón: En el día de la Luna nueva, el espacio se vuelve retorcido.
+Barón: Las cosas que están lejos solamente parecen grandes y las cosas que 
+están cerca
+solo parecen pequeñas.
+Barón: ¡Saltemos! Tomaremos la corriente ascendente.
+Barón: ¡Debemos apresurarnos! Los planetoides se han reunido.
+
+Volando
+Barón: Está bien, ¿sabes? Estamos surcando las corrientes de aire.
+Barón: A este paso, estaremos sobre esa torre en un momento.
+Muchacha: ¿Tan alto?
+Barón: ¿Qué? Todo lo que tenemos que hacer es acercarnos más y no será tal 
+cosa.
+
+Corriendo
+Shizuku: ¡Iremos sin temor! ¡Cuando las corrientes de aire de la tarde se 
+mezclan,
+nuestras manos pueden alcanzar aún las estrellas!
+
+Biblioteca
+Papá: ¿Huh?
+Papá: Wow... Vaya, eso es inusual. Shizuku buscando un libro que no
+es de historias.
+
+Investigando
+Book: Ópalo, Cuarzo, ???, Jadeita, Lazurita.
+Shizuku: Este hombre... está fabricando un violín en prision.
+Shizuku: ¡Seiji-kun! Me preguntaba si ya habias partido.
+Seiji: Me dijo mi abuelito, y pensé que estarias aquí.
+Seiji: Me alegro de haber podido verte... Parto mañana.
+Shizuku: ¿Mañana?
+Seiji: Está bien. Esperaré aquí hasta que termines.
+
+Yendo a casa
+Seiji: Disculpa que no te acompañe hasta tu casa.
+Shizuku: Uh-uh. Me alegró mucho que vinieras. No puedo ir a despedirte pero 
+estaré
+esperandote cuando regreses.
+Seiji: Si, solo son dos meses, ¿sabes?
+Shizuku: Lo siento, no he hecho nada más que quejarme. Tambien yó voy a 
+hacer mi
+mejor esfuerzo.
+Seiji: Bueno, hasta luego.
+Shizuku: ¡Adiós!
+
+La historia
+Barón: Mi prometida Louise y yó nacimos en un poblado de una tierra muy 
+lejana.
+Barón: En este poblado, todabia vive la magia, y la sangre de los magos 
+corre
+por las venas de los artesanos quienes conectan los estudios.
+Barón: Quien nos fabricó fué un aprendiz artesano de figuras sin dinero.
+Barón: Pero Louise y yó eramos felices, porque él nos infundió un 
+sentimiento
+de amor por la humanidad.
+Barón: Pero entonces...
+
+En clase
+Yuuko: Shizuku... Shizuku... ¡Shizuku!
+Maestro: ¿Qué es lo que pasa? ¡Tsukishima!
+Shizuku: Y-yo no se. No estaba escuchando.
+Maestro: ¡Despabilese! ¡Esta es una época importante para usted!
+Shizuku: Lo siento, profesor.
+Maestro: Harada, lea usted en su lugar.
+Yuuko: Si, profesor.
+{Uso intencionalmente la manera formal de dirigirse entre el profesor y las 
+alumnas
+para subrayar el hecho de la ligera reprimenda en esta escena. En mi opinión 
+esto
+refleja mucho mejor tanto la cultura Japonesa como el leve conflicto del 
+momento.}
+
+
+En el almuerzo
+Yuuko: ¿QUÉ? ¡¿De nuevo estuviste despierta hasta las 4?!
+Shizuku: Tranquilizate, ¿quieres? Porque no me canso para nada.
+Yuuko: Pero, sabes, ultimamente has estado distrayendote mucho. Exactamente
+como hoy...
+Shizuku: Solamente estaba perdida entre mis ideas. Hay demasiadas cosas que 
+quiero
+escribir pero todabia no las he podido ordenar.
+Shizuku: De alguna manera no tengo apetito.
+
+En casa
+Mamá: ¡Shizuku! ¿Estás aquí? Por el amor de dios, nisiquiera encendiste la 
+luz.
+Mamá: Ahh, desearía que por lo menos hubieras terminado de lavar.
+Mamá: ¡Shizuku! Ven aquí por un momento, Shizuku.
+
+En la cena
+Papá: ¿Dónde está Shizuku? Ella está en casa, ¿verdad?
+Mamá: Dijo que no queria nada de cenar.
+
+En la sala de maestros
+Maestro: Ah, la estaba esperando.
+Mamá: Siento molestarle.
+Maestro: Por favor, venga por aquí.
+Maestro: La oficina de orientación vocacional está vacia, ¿cierto?
+Otro Maestro: Cierto.
+Maestro: Por favor...
+
+En casa
+Mamá: Ya llegué.
+Shiho: Bienvenida.
+Mamá: Hoy llegaste temprano, ¿no es así, Shiho?
+Mamá: Phew, Estoy rendida.
+Shiho: ¿Café?
+Mamá: Si, por favor.
+Shiho: Mamá, hay algo que quiero discutir contigo.
+Mamá: ¿De qué se trata?
+Shiho: Estoy pensando en mudarme.
+Shiho: Ya encontre un departamento.
+Mamá: Pero eso va a costar dinero, ¿no es así?
+Shiho: Eatá bien. He ahorrado algo de lo de mi trabajo de medio tiempo, y es 
+más, ya he
+encontrado una vacante como profesora de una escuela de preparación, así que 
+de alguna
+manera me las arreglaré.
+Mamá: Ya veo... y yó no he hecho nada más que hacerte que ayudes en los 
+quehaceres de la casa.
+Has tu mejor esfuerzo. Yó hablaré con tu papá acerca de esto.
+Shiho: ¿De verdad? ¡Estoy tan contenta!
+Mamá: Tendrás que solventar los gastos hasta la primavera, pero despues de
+la graduación, ya podré trabajar tambien, así que nosotros te ayudaremos un 
+poco, ¿OK?
+Shiho: Mm, ojala. Lo siento, este es un momento terrible, con tu tésis de la 
+Maestría.
+Mamá: Gracias. Te estoy muy agradecida simplemente por tu ayuda en recopilar 
+los datos.
+Shiho: Además, con más espacio en la habitación, Shizuku podrá concentrarse 
+un
+poco en sus estudios. Porque esa niña ha estado actuando un poco extraño 
+ultimamente.
+Mamá: ¿De verdad lo crees?
+Mamá: Hoy, me llamaron de la escuela. Mira esto.
+Shiho: ¿Qué es esto?
+Shiho: ¡No lo puedo creer! ¡Su lugar de aprovechamiento ha bajado cien 
+posiciones!
+Mamá: Esa niña parece estar pegada a su escritorio, haciendo algo.
+
+Afuera
+Papá: Ah, buenas noches.
+Vecina: Bienvenido a casa.
+Vecina: Disculpe.
+
+Adentro
+Shiho: Con calificaciones como esa, ¿a que clase de escuela piensas que
+vas a entrar?
+Shizuku: ¿Y qué? Simplemente no iré al bachillerato.
+Shiho: ¡¿No ir al bachillerato?! ¡De verdad que estás viendo todo color de 
+rosa!
+¡¿Que es lo que crees que puedes hacer solo con secundaria?!
+Shizuku: ¡Por lo menos yo decidiré el curso de mi propia vida!
+Shiho: Te crees muy atrevida, ¿no es cierto? ¡Tu salida es simplemente 
+escapar de
+la realidad! Entiendes que tu historial será decidido para el segundo 
+trimestre,
+¿verdad?
+Shizuku: ¿Acaso estudiar es la gran cosa? ¡Desde que entraste a la 
+Universidad solamente
+has trabajado en puestos de medio tiempo!
+Shiho: ¡Yó estoy haciendo lo que se supone que debo estar haciendo! ¡La que 
+está huyendo de
+lo que debe hacer eser tú! ¡Tú no entiendes eso!
+Shizuku: ¡No estoy huyendo! ¡Tengo algo más importante que hacer!
+Shiho: ¿Qué es eso "mas importante"? ¡Trata de hablar claramente!
+Papá: Shiho, Shizuku, paren ya.
+Shiho: Pero... papá, Shizuku se está portando horrible.
+Papá: Hm. Vengan para acá las dos y traten de explicar sus razones. 
+Shizuku...
+cambiate el uniforme como se supone que debes hacerlo y ven para acá.
+Shiho: Apurate.
+
+En la cocina
+Trozo de papel: Resultados de exámen trimestre intermedio, calificación 3 
+(=U.S. 9{?}) Clase 5 (Tsukishima
+Shizuku)
+Japonés: 82, Inglés I: 62, Inglés II: 54, Matemáticas I: 17, Matemáticas II: 
+31,
+Química: 39, Historia: 53, Ciencias Sociales: 46, Total: 384
+De 276 estudiantes totales, número 153
+
+Papá: Ahora veo.
+Papá: Shizuku, ¿acaso es como dice Shiho?
+Shizuku: ¡No es que no me importen mis exámenes!
+Shiho: ¿No dijiste "Simplemente no iré al bachillerato" hace un momento?
+Shizuku: Pero tu dijiste que no podria llegar a ninguna parte...
+Papá: Shiho... Voy a hablar con Shizuku a solas, ¿podrias dejarnos
+por favor?
+Shiho: Si papá.
+Papá: ¿Dónde está tu mamá?
+Shiho: Con los Tanakas.
+Mamá: Ya llegué.
+Shiho: Bienvenida. Mamá...
+Mamá: ¿Ya llegó tu Papá?
+Shiho: Si.
+Papá: Mamá, ¿podrias unirtenos por favor? Shiho me acaba de decir acerca de
+Shizuku.
+Mamá: Ahora voy.
+Papá: A ver... Shizuku.
+Papá: ¿Lo que estas haciendo ultimamente es más importante aún que tus 
+estudios?
+Papá: ¿No nos quieres decir acerca de lo que estas haciedo?
+Shizuku: Cuando pueda decirles, lo haré.
+Mamá: Shizuku, ¿es esto algo que tengas que hacer precisamente ahorita?
+Shizuku: ¡No hay tiempo! Si no lo hago en las siguientes tres semanas...
+Porque he decidido probarme a mi misma durante ese tiempo. Tengo que 
+hacerlo.
+Mamá: ¿Probarte? ¿Qué? ¿Qué es lo que estas probando?
+Mamá: Si no nos dices no podemos saber, ¿cierto?
+Mamá: ¿Es esto algo que no le puedes decir a tu mamá o a tu papá?
+Mamá: Querido.
+Papá: Ah, lo siento. Creo que lo olvidé.
+Papá: He visto como has estado haciendo algo con entusiasmo en la
+biblioteca. Me has impresionado. Mamá, ¿debemos dejar que Shizuku haga lo 
+que quiera?
+Papá: Despues de todo, hay más de una manera de vivir la vida.
+Mamá: Mmm. Además, yo recuerdo haber estado en esa misma situación una o dos 
+veces.
+Papá: OK. Shizuku, trata de hacer lo que crees.
+Papá: Pero sabes, vivir de manera diferente a la demas gente es dificil
+a su manera. Porque no importa lo que pase no puedes culpar a nadie más.
+Mamá: Y tambien quiero que estés presente en la mesa.
+Papá: Correcto. Porque somos una familia, ¿cierto?
+Shizuku: Así lo haré.
+Papá: Ve y llama a Shiho.
+Mamá: Haré té.
+Papá: Mmm.
+
+En la recamara
+Shiho: Shizuku.
+Shiho: Papá habrá dicho lo que dijo, pero la verdad es que él desea que tu
+estudiaras, ¿OK?
+Shizuku: ¡Lo sé! ¡Lo tiene escrito en su espalda!
+{Traducción literaria de la intención del diálogo en Japonés.}
+Shiho: Me voy a mudar este Domingo.
+Shiho: Puedes quedarte con la habitación para ti sola.
+Shizuku: Hermanita, ¿te vas de casa?
+Shiho: Correcto. Despabilate.
+
+Un bosque lugubre
+[la voz suena como "Barón"]
+Voz: ¡A prisa!
+Voz: ¡A prisa!
+Voz: ¡A prisa!
+Voz: ¡Solo uno es genuino!
+Shizuku: ¿Cuál? ¿Cuál es genuino?
+Voz: ¡A prisa!
+Voz: ¡A prisa!
+Voz: ¡A prisa!
+Shizuku: Ahhh...
+Shizuku: Eeeeeeeeeeee...
+
+Chikyuuya
+Nishi: Louise, ¿has venido a mi? Ya he envejecido tanto...
+Nishi: Shizuku-san... Vaya, pasa, pasa. Caramba, Me quedé completamente 
+dormido.
+Shizuku: Disculpeme, um, escribí una historia así que la traje.
+Nishi: ¡Oh! Entonces está terminada.
+Shizuku: Se lo prometí. Por favor sea el primero en leerla.
+Nishi: Esto es bastante largo.
+
+Cubierta:
+Si escuchas atentamente
+La historia que me dió "Barón"
+
+Tsukishima Shizuku
+
+Shizuku: Um, ¿podría leerla exactamente ahorita? Esperaré cuantas horas
+sean necesarias.
+Nishi: Pero... trabajaste tanto en ella. Quiero tomarme mi tiempo para 
+leerla...
+Shizuku: Si es aburrida puede detenerse de inmediato. Si no es mucha 
+molestia...
+Umm, estoy tan nerviosa.
+Nishi: Entiendo. La leere ahora mismo, si me permites. Ahora, al lado del
+fuego. Está enfriando el día de hoy.
+Nishi: Así nadie nos molestará.
+Shizuku: Um, ¿está bien si espero abajo?
+Nishi: ¿Hmm?
+Shizuku: No me molesta. No tengo nada de frio.
+Nishi: Pero...
+Nishi: No me molesta, pero...
+
+Afuera
+Nishi: En un lugar como este... Shizuku-san. Ya termine.
+Nishi: Gracias. Fue muy buena historia.
+Shizuku: ¡Es mentira! ¡Miente! ¡Por favor digame la verdad! ¡Las cosas que 
+queria
+escribir no van bien juntas! ¡La segunda mitad es ridícula! ¡Eso lo se yo
+misma!
+Nishi: Cierto. Es áspera, poco sutíl, e inacabada. Como los violines de 
+Seiji.
+Nishi: Definitivamente me has mostrado tu piedra recien extraida. Hiciste 
+absolutamente tu
+mayor esfuerzo, ¿no es así? Es fabulosa. No hay nada por lo que haya que 
+disgustarse.
+Por favor tomate tu tiempo y haz un buen trabajo puliendola.
+Nishi: Ahora, aquí hace fio. Por favor ven adentro.
+Shizuku: Y-yo supe después de haber tratado de escribir. Que simplemente 
+querer escribir no
+es suficiente. Que tengo que estudiar más. Pero... Seiji-kun siempre sigue 
+adelante y va
+por delante de mi. Me dije a mi misma que lo haría aunque fuera imposible. 
+Estaba tan
+asustada... tan asustada...
+Nishi: Te gusta Seiji, ¿no es cierto?
+
+Sorbeando
+Nishi: ¿Cómo sabe?
+Shizuku: Está deliciosa.
+Nishi: Cuando fué Seiji era sopa de pasta.
+Nishi: Cuando terminó su primer violín, digo.
+Nishi: Esa tambien fué una porción extra-grande.
+
+Mas tarde
+Nishi: Vaya, gracias.
+Nishi: Veamos, ¿donde me quedé?
+Shizuku: Ustes estaba estudiando en Alemania y encontró a Barón en la 
+cafetería
+del pueblo...
+Nishi: Cierto, cierto. Me pregunto si puede llamarsele "melancólico"... Me
+atrajo su expresión. Le dije al propietario que definitivamente queria
+comprarle a "Barón", pero él me dijo que no. "Este gato-Barón tiene una 
+compañera."
+Me dijo que él no era capaz de separar a dos enamorados. Dijo que
+"Barón" estaba esperando el regreso de una figura de gata-mujer-noble
+que habia sido regresada al artesano original por reparaciones menores.
+Shizuku: Es exactamente como la historia que escribí...
+Nishi: Tienes razón. Una semejanza misteriosa, ¿no es así? Se acercaba el 
+día de
+mi regreso a Japón, y estaba listo para rendirme. Pero en ese momento, una
+mujer que estaba conmigo me propuso algo.
+Nishi: Cuando regresara la novia de "Barón", ella la buscaría, y seguramente 
+los
+reuniriamos a los dos. El propietario finalmente accedió. Y sucedió que dejé
+Alemania solamente con "Barón". Le prometí a la dama que regresaría
+sin falta para obtener a la novia de "Barón", y le pedí que guardara la
+figura hasta entonces.
+Nishi: Así cuando las dos figuras se volvieran a reunir, nosotros tambien...
+Nishi: Poco despues de eso comenzó la guerra, y no pude cumplir mi promesa.
+Nishi: Finalmente, cuando pude ir a ese poblado de nuevo, busqué por
+todas partes.
+Nishi: Pero nunca encontré el paradero de aquella dama, o lo que le pasó
+a la novia de "Barón".
+Shizuku: Ella era muy importante para usted, ¿no es así?
+Nishi: El "Barón" que vivía solo en mis recuerdos me ha sido revitalizado 
+gracias
+a tu prometedor cuento. Por supuesto; eso...
+Nishi: Ahora, extiende tus manos.
+Shizuku: Uhh...
+Nishi: La piedra va bien contigo. Te la regalo. Por favor haz un buen 
+trabajo
+y termina de escribir tu propia historia.
+Shizuku: Así lo haré...
+
+De noche, afuera
+Shizuku: Muchisimas gracias.
+Shizuku: Adiós.
+
+En casa
+Shizuku: Ya llegué.
+Mamá: Bienvenida.
+Shizuku: ¿Donde está papá?
+Mamá: En el baño.
+Mamá: Querida, ¿qué hora crees que es?
+Shizuku: He causado que te preocupes. De ahora en adelante, regresasé a 
+estudiar
+para los examenes de admisión. Por favor tranquilizate.
+Mamá: ¡Oh! Entonces, ya terminaste con lo que sea que estabas probando,
+¿no es así?
+Shizuku: Por ahora.
+Mamá: ¿Ya cenaste? Hay curry.
+Shizuku: No gracias.
+Mamá: Hmmm. "Por ahora", ¿he?
+
+Mas tarde
+Papá: Shizuku, ¿puedo pasar? Ya vete a bañar.
+Papá: La guerrera descansa.
+
+De madrugada
+Shizuku: ¡N-no puede ser!
+Shizuku: ¡E-espera!
+
+Afuera
+Seiji: ¡Esto es un milagro! ¡De verdad pude verte!
+Shizuku: N-no es un sueño, ¿o si?
+Seiji: Tome el vuelo un día antes. Subete.
+Seiji: Ah, espera un segundo. Así te va a dar frio.
+Seiji: Ahora, subete.
+Shizuku: Iré por un abrigo.
+Seiji: No hay tiempo. Vamos, subete.
+Seiji: Sujetate fuerte.
+Seiji: Queria verte de nuevo de inmediato. Te llamé tantas veces
+dentro de mi corazón: "Shizukuuuu". ¡Y entonces, de verdad apareciste!
+¡Somos asombrosos!
+Shizuku: Yo tambien queria verte. Esto es todabia como un sueño.
+Shizuku: ¿Cómo estuvo Cremona?
+Seiji: Verla fue muy diferente a escuchar acerca de ella. ¡Pero lo voy
+a hacer! Oh, ya está clareando.
+
+En la colina
+Shizuku: ¿Me bajo?
+Seiji: No, ¡está bien! Decidí que te iba a llevar hasta arriba de la colina.
+Shizuku: ¡Eso no es justo!
+Shizuku: ¡No puedo soportar simplemente ser equipaje!
+Shizuku: ¡Porque quiero ser útil!
+Seiji: ¡Ya entendí! ¿Empujas?
+Seiji: Solo un poco más...
+Seiji: ¡Shizukuuu! ¡Rapido, subete!
+Shizuku: S-si.
+
+En la cumbre
+Seiji: Lo hicimos.
+Shizuku: Ohhhh...
+Seiji: ¿Te doy la mano?
+Shizuku: Estoy bien.
+Seiji: Por aquí.
+Shizuku: ¡Increible! Con la neblina de la mañana se ve justo como el oceano.
+Seiji: Este es mi lugar secreto. Es casi la hora justa.
+Seiji: Quería enseñarte esto.
+Seiji: Mi abuelito me estuvo diciendo acerca de lo que hiciste. Yo no hice 
+nada para animarte.
+No estaba pensando en nada más que en mí mismo.
+Shizuku: Uh-uh. Por tí, pude hacer mi mejor esfuerzo. Estoy contenta de 
+haberme esforzado.
+Porque ahora me entiendo a mí misma un poco mejor que antes.
+Voy a estudiar más. Tambien he decidido que voy a ir al bachillerato.
+Seiji: Shizuku, umm, sabes... Yo... No puede ser exactamente ahorita, 
+pero...
+¿Te casarias conmigo?
+Seiji: Porque estoy seguro de que voy a ser un fabricante de violines 
+auténticos. Y despues
+de eso...
+Shizuku: Mm-hmm.
+Seiji: ¡¿De veras?!
+Shizuku: ¡Estoy tan feliz! Pensé que sería agradable si las cosas pudieran 
+resultar de
+esta manera.
+Seiji: ¡De veras! ¡Que bien!
+Shizuku: Espera.
+Shizuku: El viento está frio.
+Seiji: ¡Te amo Shizuku!
+
+Canción final
+
+*Kantorii Roodo, kono michi
+Zutto yukeba
+Ano machi ni tsuduite ru
+Ki ga suru Kantorii Roodo
+
+   *Camino campestre, si tu sigues
+	todo este camino, tengo el presentimiento
+	de que es el camino campestre a mi pueblo natal
+
+Hitori botchi, osorezu ni
+Ikiyou to yume mite ta
+Samishisa oshikomete
+Tsuyoi jibun wo mamotte ikou
+
+	Soñé que vivia
+	Sin miedo de estar sola
+	Embotellando la soledad
+	Seguiré, preservando mi lado fueo no puedo
+	Adiós, camino campestre
+
+Crédito finales:
+[Nota: ">>>" marcan una pantalla en el "comic" del filme. No apareecen en el
+filme, pero son útiles para compaginar la traducción al "comic" del filme.]
+>>>
+Voces (Actores)
+
+Honna Youko   Takahashi Issei
+
+>>>
+Tachibana Takashi   Muroi Shigeru
+Tsuyuguchi Shigeru   Kobayashi Keiki
+
+>>>
+Yamashita Yorie   Takayama Minami   Kayama Maiko   Nakajima Yoshimi
+
+>>>
+Iizuka Masami   Chiba Mai   Kuga Mirai   Murano Tadamasa
+Yoshida Shousuke   Shiraishi Tatsuya   Suganuma Nagato   Ayukawa Shouhei
+Takahashi Satoru   Fujita Daisuke   Sakaguchi Akiko   Naitoh Momoko
+Tanaka Masako   Muraguchi Yuki   Waka Yuriko   Shiobara Nao
+Yokomae Takanori (?)
+
+>>>
+Hirata Keiko   Itoh Hiromi   Narui Yutaka   Yasuda Hiromi
+Okada Tatsuya   Imai Yoshihiro   Nakamura Haruhiko   Inoue Naohisa
+
+Ogawa Koumei   Egawa Suguru   Fubuki Masako   Kishibe Shiroo
+
+>>>
+Personal
+
+>>>
+Ejecutivo a cargo de la producción   Tokuma Yasuyoshi
+
+>>>
+Productores asociados (?)   Ujiie Seiichirou   Shouji (?) Takashi
+
+Historia original   Hiiragi Aoi (publicada por Shuueisha)
+
+>>>
+Script, Storyboard   Miyazaki Hayao
+
+Productores de línea (?)   Yamashita Tatsumi   Ootsuka Tsutomu
+
+Música   Nomi Yuuji
+
+>>>
+Canción tema    Camino campestre
+   Título original   "Take Me Home, Country Roads"
+   Letra y composición   Bill Danoff, Taffy Nivert, y John Denver
+   Traducción al Japonús   Suzuki Mamiko
+   Letra adicional   Miyazaki Hayao
+   Arreglo   Nomi Yuuji
+   Interprete   Honna Youko (Tokuma Japan Communications)
+
+>>>
+Canción inicial    Camino campestre
+   "Take Me Home, Country Roads"
+   Letra y composición   Bill Danoff, Taffy Nivert, y John Denver
+   Cantada por   Olivia Newton-John (Toshiba EMI)
+
+>>>
+Director de animación (?)   Kousaka Kitarou
+
+Animación principal
+Ishii Kuniyuki   Futaki Makiko   Andoh Masashi   Konishi Ken-ichi
+Kagawa Ai   Kurita Tsutomu   Inamura Takeshi   Yoshida Ken-ichi
+Endoh Masaaki   Moritomo Noriko   Noda Takehiro   Yoshio Hideaki
+Kawaguchi Toshio   Ohya Atsuko   Matsuse Masaru   Sasaki Shinsaku
+Minowa Hiroko   Saitoh Masaya   Yamada Ken-ichi   Inoue Hiroyuki
+
+>>>
+Shinohara Masako   Momose Yoshiyuki   Ohtsuka Shinji (Nobuharu?)
+
+Telecom Animation Film
+Tanaka Atsuko   Yano Yuuichirou   Aoyama Hiroyuki   Takiguchi Sadakazu (?)
+Yokobori Hisao
+
+>>>
+Supervisión de animación   Ohmura Mayumi   Tejima Masako   Nakagome Rie
+
+Animación adicional
+{No conozco el término adecuado para la palabra en Inglés "In-betweeners"}
+Tateno Hiromi   Fujimura Rie   Kitajima Yumiko   Shibata Kazuko
+Nakamura Katsutoshi   Shibata Eriko   Onoda Kazuyoshi   Kurata Misuzu
+Kuwana Ikuo   Sawa Kunori   Suzuki Makiko   Suzuki Mariko
+Matsuo Mariko   Yamamori Eiji   Kikuchi Hana   Tsuruoka Koujirou
+Yokoyama Kazumi   Alexandra Weihrauch
+
+>>>
+Azuma Seiko   Yamaura Yukari   Nishido Sumie   Yokota Kioko
+Nagashima Youko   Sueda Hisako   Komasa   Shintome Rie
+Miyazawa Keiko   Sakano Houko   Matsushita Atsuko   Iwayanagi Emiko
+Kondoh Rie   Tsuneki Shinobu   Shiina Ritsuko   Miyabayashi Eiko
+Katayama Yuuichi   Yamamoto Mayumi   Oota Kumiko   Itoh Yumiko
+Mano Suzuko   Adachi Masahiko   Furuya Hiromi
+
+Telecom Animation film
+
+>>>
+Takahashi Natsuko   Fujimori Maya   Yazawa Mayu   Hamada Youko
+Matsuzaki Masaru   Shikibe Miyoko   Kimura Gou   Suzuki Takao (??)
+Sugaya Naoko   Odaka Masako   Itagaki Nobu   Hirai Kazuko
+Kouya Hiroko   Yozawa Keiko   Tanji Hiroyuki
+
+Cooperating Animation Studios
+Anime Torotoro   Oh Production   Studio Cockpit
+Studio Takuranke   Group Donguri
+
+>>>
+Director de arte   Kuroda Satoshi
+
+Artistas
+Oga Kazuo   Samura Katsu   Yamakawa Akira   Ohta Kiyomi
+Tanaka Naoya   Takeshige Youji   Kasugai Naomi   Naganawa Kyouko
+Tamura Seiki   Ina Ryouko   Hirahara Sayaka   Fukutome Kiichi
+Yamamoto Nizou
+
+>>>
+Efectos especiales   Tanifuji Kaoru
+
+Diseño de personajes en color   Yasuda Nichiyo
+
+Especificación de color   Ono Akiko   Ohshiro Minako
+
+>>>
+Acabados
+Izeki Mayo   Mori Naomi   Moriya Kanako   Atsuta Naomi
+Taguchi Tomo   Katayama Yuriko
+
+Estudio IM
+Iseda Nichiyo   Narita Terumi   Takayama Yasuyo   Nakahata Hitomi
+Shibata Michiyo   Tanida Youko   Hara Keiko   Furusawa Kazumi
+Fukuma Eiko   Ueki Sayuri   Morita Kaoru   Nabetani Hisashi
+Maehara Kinuyo   Ikegami Michiko   Ozaki Mito   Kobayashi Kazuo
+
+>>>
+Estudio Killy
+Takahashi Naomi   Morisawa Chiyomi   Miyamoto Chiemi   Fujita Junko
+Yuki Watami (?)   Arai Tsuneo   Watanabe Nobuko   Mizukami Kyouko
+Saino (?) Kimiko   Obara Yoshiko   Ishiguro Shizuka   Tsunetomi Satoko
+
+Trazo (?) estudio M
+Yoshida Sayoko   Maeno Izumi   Motohashi Emiko   Watanabe Emiko
+Daigo Reiko   Aihara Akiko   Sugiyama Wakako   Kaneuchi Junko
+
+>>>
+Estudio Ado
+Sawame Mayumi   Shibusawa Shizue   Kojima Tomiko   Yoshino Kiyoko
+
+Estudio OZ
+Tanaka Naomi   Shinoda Toki   Hosoya Akemi   Isozaki Akihiko
+
+Cooperación técnica    Murao     Stack   Saitou Yoshio
+      Taiyou Shikisai   Kitamura Shigeji
+
+>>>
+Director de fotografía   Okui Atsushi
+
+Fotografía    Yabuta Junji   Takahashi Wataru   Kojoh Kan
+
+Director de sonido   Asari Naoko
+
+>>>
+Ingeniero de grabación (?)   Inoue Hideshi (?)
+
+Asistentes de Ingeniero de grabación (?)   Asakura Tsutomu   Takagi Sou
+
+Efectos   Itoh Michihiro
+
+Asistentes de efectos   Ishino Takahisa   Horiuchi Tomohiro
+
+Producción músical   Meiru   Nagano Michitoku   Takagi Tomou
+
+>>>
+Mezlado de la música   Ohno Eihiko
+
+Estudio de grabación    Tokyo TV Center
+
+Reparto    BE WITCH  Yamanaka Utako
+
+Producción de audio    Estudio Moon
+    Inashiro Kazumi   Imai Yasuyuki
+
+Re-grabación SR*D     Nishio Noboru   Abe Kouji
+
+>>>
+Titulos    Mano Kaoru   Michikawa Akira
+
+Edición    Seyama Takeshi
+
+Asistente de edición     Mizuta Kyouko   Uchida Megumi
+
+>>>
+Asistentes del director    Ohno Masahiko   Itoh Hiroyuki
+
+>>>
+Administrador de la producción   Takahashi Nozomi
+
+Jefe de producción     Kawabata Toshiyuki
+
+Escritorio de producción    Tanaka Sengi (?)   Nishigiri Tomoaki
+
+>>>
+Planeación de la producción (?)    Aritomi Kouji   Ootsuka Kouji   Nagasawa 
+Minako
+
+Administrador de la oficina   Yamamoto Akemi   Yamada Naomi
+
+Desarrollo de mercancia    Imai Tomomi   Asano Kouichi
+
+A cargo de publicaciones    Nozaki Tooru
+
+>>>
+Cooperación
+Koganei City Koganei Escuela Secundaria #1    Chazoki (?) Yukinobu
+Violín/Guitarra Workshop
+Apisu Corp.    Knopf(?)-Antiques-Shellman Corp.
+                       Isogai Noriyo
+Satoh Yuki
+     Cameo Interactive
+Hashimoto Taketoshi
+
+>>>
+Cooperación especial   Yomiuri Newspaper Company
+
+Productor de publicidad   Yabe Masaru
+
+Toho    Nishinoh Sadaki   Harada Rieko
+
+Major    Wakisaka Moriichi   Okamura Naoto   Yamagata Rika
+    Wada Sachiko   Fujii Naeko   Koyanagi Michiyo
+    Hara Mieko   Watanabe Mika
+
+>>>
+Comité de producción de "Si escuchas atentamente"
+
+Tokuma Shoten
+Kaneko Akira   Nishizawa Masahiko   Suzuki Masaki (?)
+Tsutsui Ryouko   Aoto Kouichi (?)   Itoh Junko
+
+Nippon Television Network
+Urushido Yasuharu (?)   Hosaka Taketaka (?)   Takahashi Hiroshi
+Takei Hidehiko   Fujimoto Suzuko   Tachimatsu (?) Noriko
+
+>>>
+Hakuhoudou
+Ohno Shigeru   Sawata Hatsuhiko (?)   Saitoh Hisaomi
+Morie Hiroshi   Fujimaki Naoya   Nishida Fujio
+
+Estudio Ghibli
+Kobayashi Shigeru   Yanagisawa Akira   Arai Akiyoshi
+Nonaka Shinsuke   Ichimura Akio   Dohguchi Tomoki (?)
+
+>>>
+A cargo de producción    Okuda Seiji   Suzuki Nobuko
+
+Desarrollo     Imagica
+   Sincronización   Hirabayashi Hiroaki
+   Optico   Sekiguchi Masaharu
+
+>>>
+(Logotipo de grabaciones "Dolby Digital Spectral")
+
+Cooperación técnica
+Continental Far East Corp.
+    Mori Mikio
+
+>>>
+Arte para la secuencia 'La historia que me dio "Barón"'  Inoue Naohisa
+tomado de "Ibaraado hakubutsushi" ("Una historia natural de 'Ibaraado'")
+(Publicado por Kakuusha)
+
+Producción de composición digital         Digital Image Creating Room 
+Flamingo
+Ochi Takehiko
+    División de programación NTV, Centro de arte, Departamento de producción 
+CG        Sugano
+Yoshinori
+    Servicios de grabación digital por Cinesite
+
+Grabado en madera "Artesano fabricando un violín en prision"   Miyazaki 
+Keisuke
+
+>>>
+Una producción de estudio Ghibli
+
+Productor   Suzuki Toshio
+
+>>>
+Productor ejecutivo  Miyazaki Hayao
+
+>>>
+Director   Kondoh Yoshifumi
+

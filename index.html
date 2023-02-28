@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.269">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>SPN 203 Using R to analyze language</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="index_files/libs/clipboard/clipboard.min.js"></script>
+<script src="index_files/libs/quarto-html/quarto.js"></script>
+<script src="index_files/libs/quarto-html/popper.min.js"></script>
+<script src="index_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="index_files/libs/quarto-html/anchor.min.js"></script>
+<link href="index_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="index_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="index_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="index_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+<link href="index_files/libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet">
+<script src="index_files/libs/pagedtable-1.1/js/pagedtable.js"></script>
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">SPN 203 Using R to analyze language</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>This tutorial will present the basic of reading text as data into R, and doing descriptive and some statistical analysis on the use of intensifiers in Spanish from movie scripts.</p>
+<section id="before-we-start" class="level1">
+<h1>Before we start</h1>
+<p>If you open this document in RStudio (<a href="https://posit.cloud/">cloud</a> or <a href="https://posit.co/download/rstudio-desktop/">desktop</a>), you should be prompted to install the packages that are used in this document. If that’s not the case, run <code>install.packages("tidyverse")</code> before running the first line of code:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="data" class="level1">
+<h1>Data</h1>
+<p>We will be using data from <a href="https://www.simplyscripts.com/non_english_scripts.html">movie scripts</a> in Spanish. More specifically, we will look at Spanish scripts for movies by by Hayao Miyazaki.</p>
+<p>There’s a folder called <code>utf8-txt-files</code> in this project, which contains the movie scripts in text format encoded in UTF8 (which makes it easier for R to read the files, and keeping the diacritics).</p>
+<p>We will first list all the files we want to read into R:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>files_to_read <span class="ot">&lt;-</span> <span class="fu">list.files</span>(<span class="at">path =</span> <span class="st">"utf8-txt-files"</span>,</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>                            <span class="at">full.names =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>files_to_read</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] "utf8-txt-files/script_kiki_spanish.txt"    
+[2] "utf8-txt-files/script_laputa_spanish.txt"  
+[3] "utf8-txt-files/script_mimi_spmex.txt"      
+[4] "utf8-txt-files/script_nausicaa_spanish.txt"
+[5] "utf8-txt-files/script_porco_spanish.txt"   
+[6] "utf8-txt-files/script_totoro_spanish.txt"  </code></pre>
+</div>
+</div>
+<p>Then we will read these files in as one object <code>all_text</code>. Since these are regular text files (not data files), I’m using as delimitator a character I know is not present in the text (<code>|</code>):</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="ot">&lt;-</span> <span class="fu">read_delim</span>(files_to_read,</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>                       <span class="at">delim =</span> <span class="st">"|"</span>,</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>                       <span class="at">col_names =</span> <span class="cn">FALSE</span>,</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a>                       <span class="at">id =</span> <span class="st">"filename"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>The object <code>all_text</code> should be listed in your <code>Environment</code> tab in RStudio.</p>
+<p>The next steps aim at cleaning up the <code>filename</code> so we extract the movie from it:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="ot">&lt;-</span> all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">movie =</span> <span class="fu">str_remove_all</span>(filename, <span class="st">"utf8-txt-files/script_"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="ot">&lt;-</span> all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">movie =</span> <span class="fu">str_remove_all</span>(movie, <span class="st">"_spanish.txt"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="ot">&lt;-</span> all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">movie =</span> <span class="fu">str_remove_all</span>(movie, <span class="st">"_spmex.txt"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Now that we have a variable called <code>movie</code>, we can count how many lines of script we have for each movie using the <code>count()</code> function:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(movie)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["movie"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]}],"data":[{"1":"kiki","2":"1216"},{"1":"laputa","2":"2193"},{"1":"mimi","2":"1864"},{"1":"nausicaa","2":"1389"},{"1":"porco","2":"1856"},{"1":"totoro","2":"853"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+</section>
+<section id="some-text-clean-up" class="level1">
+<h1>Some text clean up</h1>
+<p>You might have noticed that there are some extra special character in the text, like tabs (which are represented in R as <code>\\t</code>). Let’s clean up the text by removing all tabs from it:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="ot">&lt;-</span> all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">clean_text =</span> <span class="fu">str_remove_all</span>(X1, <span class="st">"</span><span class="sc">\\</span><span class="st">t"</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="variable" class="level1">
+<h1>Variable</h1>
+<p>We will be looking at intensifiers in the text for these movie scripts. Here’s the intensifiers (adverbs that modify adjectives) I know in Spanish:</p>
+<ul>
+<li>muy</li>
+<li>tan</li>
+<li>bastante</li>
+</ul>
+<p>Can you think of any other intensifier?</p>
+<p>We can search the text by using <code>str_detect</code> inside a <code>filter</code> function:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(<span class="fu">str_detect</span>(clean_text, <span class="st">"muy"</span>)) <span class="sc">%&gt;%</span> </span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">distinct</span>(clean_text)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["clean_text"],"name":[1],"type":["chr"],"align":["left"]}],"data":[{"1":"un lindo novio?  Será muy difícil de partir entonces."},{"1":"decidas, eres una persona muy impulsiva."},{"1":"KIKI:       Bueno, supongo que así soy yo.  Estoy muy emocionada, como cuando"},{"1":"KOKIRI:     No lo está; es muy pequeña.  Toma la escoba de mi Madre."},{"1":"KIKI:       Oh, no!  Es muy vieja."},{"1":"abajo)  Ese es mi pueblo.  No es muy grande, pero está"},{"1":"Es muy hermoso, y la torre del reloj es maravillosa."},{"1":"MUJER:    De veras?  Estoy muy contenta de que te guste aquí."},{"1":"KIKI:       De verdad?!  Estoy muy contenta.  Estoy pensando en ponerle"},{"1":"OSONO:      No será muy costoso?"},{"1":"KIKI:       Oh, gracias!  Trabajaré muy duro.  Señora Osono, usted es una"},{"1":"MAKI:       Me pregunto si es muy lejos?"},{"1":"JIJI:       Es muy pronto para tomar una decisión."},{"1":"Pensé que era muy lindo."},{"1":"KETTO:      Jeff (el perro) de verdad es muy divertido.  (risa)"},{"1":"OSONO:      Así que, estás preocupada por eso?  Es un muy bonito vestido,"},{"1":"muy pesado!"},{"1":"JIJI:       Es muy tarde para la fiesta?  Kiki, ahí está ese chico!"},{"1":"KIKI:       Es muy tarde ahora.  No puedo ir así de todos modos."},{"1":"KIKI:       No quiero nada.  Puedo caminar hasta allá, es muy cerca."},{"1":"KIKI:       Eso está bien, no es muy lejos.  Señorita Lily, te lo dejo"},{"1":"KIKI:       ...No es eso...Lo siento, pero estaba muy asustada..."},{"1":"KIKI:       No recuerdo, porque era muy joven, pero mi madre dijo que"},{"1":"KIKI:       Está muy debilitada.  Tendré que cancelar mi servicio"},{"1":"URSULA:     Esta es una habitación muy bonita."},{"1":"La magia y la pintura son muy parecidas.  Sabes, muchas"},{"1":"estamos muy bien.  (La voz de Kiki:) Mi trabajo va por el"},{"1":"La entrada parece muy pequeña. . ."},{"1":"Lo -- lo siento, pero podrías alejar esa piedra?  Es muy fuerte"},{"1":"Aw, eso está muy mal.  Sheeta, quiero decirte algo bueno."},{"1":"Es correcto.  Palabras secretas muy antiguas."},{"1":"Está muy encalambrado, mi mano no entrará."},{"1":"algo rudo y proveniente de una persona con poca educación o muy distraida."},{"1":"Kun - De uso muy similar a \"Chan\" pero casi exclusivamente con niños y"},{"1":"casera, muy barata, de baja calidad y por lo mismo muy popular en zonas"},{"1":"Shizuku: Hice un primer intento, pero no va muy bien."},{"1":"Hacia mi pueblo natal que está muy lejos"},{"1":"Shizuku: Hey, está bien. Es muy denso."},{"1":"Shizuku: Pasó algo muy agradable, y tuve la sensación de que habia"},{"1":"Shizuku: La verdad es que, no estoy muy segura acerca de ella."},{"1":"Yuuko: Simplemente darsela a los nuevos es muy aburrido. Cantemosla nosotras"},{"1":"Shizuku: No muy lejos."},{"1":"Shizuku: Tampoco eres muy dulce, ¿verdad?"},{"1":"cosas fueran a salir tan bien.\" No muy dulce..."},{"1":"Shizuku: Dije algo malo. Le dije a \"Moon\" que él no era muy dulce. Justo"},{"1":"abierta muy a menudo."},{"1":"Shizuku: Hoy pareces muy triste de alguna manera..."},{"1":"Muchacho: Sabes, tu puedes decir cosas embarazosas como esa muy"},{"1":"Seiji: Dicen que el maestro es muy estricto, y él verá si hay alguna"},{"1":"Nishi: Ja ja ja. Así que tu te molestaste en... Si, muy bien. Pero"},{"1":"Barón: Mi prometida Louise y yó nacimos en un poblado de una tierra muy"},{"1":"Mamá: Gracias. Te estoy muy agradecida simplemente por tu ayuda en recopilar"},{"1":"Shiho: Te crees muy atrevida, ¿no es cierto? ¡Tu salida es simplemente"},{"1":"Nishi: Gracias. Fue muy buena historia."},{"1":"Shizuku: Ella era muy importante para usted, ¿no es así?"},{"1":"Seiji: Verla fue muy diferente a escuchar acerca de ella. ¡Pero lo voy"},{"1":"debes ponerle así tu mano.  Es pequeño, pero muy furioso."},{"1":"GOLL      Oh, este es uno muy bueno.  La primera cosa que haremos"},{"1":"KUSHANA   Es un valle muy bonito, no lo crees...?"},{"1":"KUSHANA   Eres muy ingenua. [\"Amai\"  TE: dulce, fácil, simple, confiada]"},{"1":"cantidad insectos no muy contentos que digamos)"},{"1":"NAUSICAÄ  Son llamados nueces Chico...  Son muy nutritivas."},{"1":"HOMBRE      Es muy tarde."},{"1":"estrellas, o algo así.  Las armas no trabajan muy bien <contra"},{"1":"TÍO     Usted también es una Princesa, pero usted es muy diferenta a"},{"1":"KUROTOWA  Su Alteza!  Está considerando esa cosa...?  Es muy pronto."},{"1":"puedo...?  Fue muy cruel, cierto...?  (La larva de Ohmu,"},{"1":"KUROTOWA  Se está derritiendo [ALT: pudriendo]...  Fue muy temprano."},{"1":"Waw!  Ese avión rojo es muy bueno!"},{"1":"Deténganlas.  Son rehenes muy valiosas!"},{"1":"recompensas son muy educados."},{"1":"en bote.  Eso pasó. Fuiste muy afortunado."},{"1":"cierto?  O porque soy muy joven para hacerlo?"},{"1":"mi abuelo dice que empezaste a volar a una edad muy temprana..."},{"1":"esta ala debía conocer muy bien las cualidades de la madera."},{"1":"Estoy muy impresionada."},{"1":"Este es el único avión de su tipo. Ellos dijeron que era muy"},{"1":"Bueno, estaremos muy ocupados."},{"1":"Es un caballo salvaje, igual que tú. Está muy difícil de manejar."},{"1":"estar muy asustado.  Lo tienes!  Dispara!  Aún no dispara todavía...."},{"1":"Ese tipo está muy confiado."},{"1":"Pero es muy corto el tiempo de los cerezos,"},{"1":"mienai ashita o muyami ni sagashite"},{"1":"llegado. Yoroshiku Onegai Shimasu. (Expresión muy común."},{"1":"Traducida no muy exactamente, significa 'Su favor es solicitado"},{"1":"Abuela: Estamos muy ocupados en los campos ahora, pero limpié un poco,"},{"1":"Padre: No trabaje muy duro!"},{"1":"Mei: Uh-huh, pero Hermanita se pone muy enfadada."},{"1":"Madre: Satsuki, ven acá. No está muy corto? (Peinando el cabello de"},{"1":"Mei: Está muy caliente!"},{"1":"después de tomar parte de la comida, traducida no muy correctamente"},{"1":"Padre: Mei se está volviendo muy pesada."},{"1":"dos horas más, y la Abuela está muy ocupada."},{"1":"Madre: De verdad? Ese niño? Es un paraguas muy viejo."},{"1":"Abuela: Eso la hará muy feliz."},{"1":"Madre: Esas niñas tienen que sobreponerse mucho. Satsuki es una niña muy"},{"1":"tomodachi takusan  ureshii na           Tengo muchos amigos, soy muy feliz."}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+</section>
+<section id="tokenize-the-data" class="level1">
+<h1>Tokenize the data</h1>
+<p>It’s pretty common to count occurrences of words when working with text. To do so, we first need to <code>tokenize</code> our text – which means to split the text in individual words.</p>
+<p>We will be using the package <code>tidytext</code> for this. You should have been prompted to install the packages that are used in this document. If that’s not the case, run <code>install.packages("tidytext")</code> before running this line of code:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidytext)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>We will create a new <code>object</code> with our tokens, by using the <code>unnest_tokens()</code> function:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a>tokenized_texts <span class="ot">&lt;-</span> all_text <span class="sc">%&gt;%</span> </span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">unnest_tokens</span>(word, clean_text)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Since we are working with intensifiers, it’s helpful to see what word (or token) follows each intensifier. Let’s get the <code>lead</code> word (the one that follows each token in our data) and add it as an extra variable in our data called <code>following_word</code>.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>tokenized_texts <span class="ot">&lt;-</span> tokenized_texts <span class="sc">%&gt;%</span> </span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">following_word =</span> <span class="fu">lead</span>(word))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb14"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a>tokenized_texts <span class="sc">%&gt;%</span> </span>
+<span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(word <span class="sc">==</span> <span class="st">"muy"</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(following_word, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["following_word"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]}],"data":[{"1":"bien","2":"7"},{"1":"lejos","2":"4"},{"1":"bonito","2":"3"},{"1":"corto","2":"3"},{"1":"dulce","2":"3"},{"1":"feliz","2":"3"},{"1":"mal","2":"3"},{"1":"tarde","2":"3"},{"1":"antiguas","2":"2"},{"1":"bueno","2":"2"},{"1":"contenta","2":"2"},{"1":"difícil","2":"2"},{"1":"duro","2":"2"},{"1":"grande","2":"2"},{"1":"joven","2":"2"},{"1":"ocupados","2":"2"},{"1":"pequeña","2":"2"},{"1":"pronto","2":"2"},{"1":"a","2":"1"},{"1":"aburrido","2":"1"},{"1":"afortunado","2":"1"},{"1":"agradable","2":"1"},{"1":"agradecida","2":"1"},{"1":"asustada","2":"1"},{"1":"asustado","2":"1"},{"1":"atrevida","2":"1"},{"1":"barata","2":"1"},{"1":"bonita","2":"1"},{"1":"buena","2":"1"},{"1":"caliente","2":"1"},{"1":"cerca","2":"1"},{"1":"común","2":"1"},{"1":"confiado","2":"1"},{"1":"contentos","2":"1"},{"1":"correctamente","2":"1"},{"1":"costoso","2":"1"},{"1":"cruel","2":"1"},{"1":"debilitada","2":"1"},{"1":"denso","2":"1"},{"1":"diferenta","2":"1"},{"1":"diferente","2":"1"},{"1":"distraida","2":"1"},{"1":"divertido","2":"1"},{"1":"educados","2":"1"},{"1":"emocionada","2":"1"},{"1":"encalambrado","2":"1"},{"1":"enfadada","2":"1"},{"1":"estricto","2":"1"},{"1":"exactamente","2":"1"},{"1":"frecuentemente","2":"1"},{"1":"fuerte","2":"1"},{"1":"furioso","2":"1"},{"1":"hermoso","2":"1"},{"1":"importante","2":"1"},{"1":"impresionada","2":"1"},{"1":"impulsiva","2":"1"},{"1":"informal","2":"1"},{"1":"ingenua","2":"1"},{"1":"lejana","2":"1"},{"1":"lento","2":"1"},{"1":"lindo","2":"1"},{"1":"nutritivas","2":"1"},{"1":"ocupada","2":"1"},{"1":"parecidas","2":"1"},{"1":"peligroso","2":"1"},{"1":"pesada","2":"1"},{"1":"pesado","2":"1"},{"1":"popular","2":"1"},{"1":"segura","2":"1"},{"1":"sensible","2":"1"},{"1":"similar","2":"1"},{"1":"temprana","2":"1"},{"1":"temprano","2":"1"},{"1":"triste","2":"1"},{"1":"valiosas","2":"1"},{"1":"vieja","2":"1"},{"1":"viejo","2":"1"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<p>Now we can filter <code>word</code> by the intensifier we want (don’t forget to use quotes around the intensifier we are looking for) and count the frequency of words that follow that intensifier:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb15"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>tokenized_texts <span class="sc">%&gt;%</span> </span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(word <span class="sc">==</span> <span class="st">"tan"</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(following_word, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["following_word"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]}],"data":[{"1":"pronto","2":"9"},{"1":"alto","2":"4"},{"1":"bien","2":"4"},{"1":"linda","2":"4"},{"1":"contenta","2":"3"},{"1":"feliz","2":"3"},{"1":"hermosa","2":"3"},{"1":"asustada","2":"2"},{"1":"grande","2":"2"},{"1":"hermoso","2":"2"},{"1":"joven","2":"2"},{"1":"solo","2":"2"},{"1":"a","2":"1"},{"1":"agradable","2":"1"},{"1":"ansioso","2":"1"},{"1":"asustado","2":"1"},{"1":"avanzada","2":"1"},{"1":"avergonzado","2":"1"},{"1":"bella","2":"1"},{"1":"blanca","2":"1"},{"1":"bonita","2":"1"},{"1":"bueno","2":"1"},{"1":"cómico","2":"1"},{"1":"convencional","2":"1"},{"1":"delicadamente","2":"1"},{"1":"dócil","2":"1"},{"1":"duro","2":"1"},{"1":"exacta","2":"1"},{"1":"excepcional","2":"1"},{"1":"expléndido","2":"1"},{"1":"explicitamente","2":"1"},{"1":"feo","2":"1"},{"1":"fuerte","2":"1"},{"1":"furioso","2":"1"},{"1":"hermosos","2":"1"},{"1":"inquietas","2":"1"},{"1":"largo","2":"1"},{"1":"lento","2":"1"},{"1":"leve","2":"1"},{"1":"lindas","2":"1"},{"1":"lindo","2":"1"},{"1":"malas","2":"1"},{"1":"maravillosa","2":"1"},{"1":"misterioso","2":"1"},{"1":"molesta","2":"1"},{"1":"nerviosa","2":"1"},{"1":"nervioso","2":"1"},{"1":"pobres","2":"1"},{"1":"profundo","2":"1"},{"1":"rapido","2":"1"},{"1":"redondo","2":"1"},{"1":"romántica","2":"1"},{"1":"saludable","2":"1"},{"1":"simple","2":"1"},{"1":"solitario","2":"1"},{"1":"tarde","2":"1"},{"1":"temprano","2":"1"},{"1":"tonta","2":"1"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<p>Let’s try a different intensifier:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a>tokenized_texts <span class="sc">%&gt;%</span> </span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(word <span class="sc">==</span> <span class="st">"bastante"</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(following_word, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["following_word"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]}],"data":[{"1":"bueno","2":"2"},{"1":"tiempo","2":"2"},{"1":"vieja","2":"2"},{"1":"amarrado","2":"1"},{"1":"así","2":"1"},{"1":"cruel","2":"1"},{"1":"desesperados","2":"1"},{"1":"largo","2":"1"},{"1":"radical","2":"1"},{"1":"rápido","2":"1"},{"1":"raro","2":"1"},{"1":"voz","2":"1"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<section id="annotated-text" class="level2">
+<h2 class="anchored" data-anchor-id="annotated-text">Annotated text</h2>
+<p>Text annotation is really helpful when searching for certain grammatical class (like adjectives and adverbs). I annotated the text with part-of-speech (<code>POS</code>) labels and then extracted all adjectives from the text automatically, with some post-processing to eliminate false positives. That is to say that there’s noise in the data since these tokens were not coded by humans. This data is used to the purpose of this demonstration, not as valid findings regarding the use of intensifiers in Spanish.</p>
+<p>Let’s read that annotated in R (it’s in a <code>comma separated values</code> file):</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb17"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>annotated_text <span class="ot">&lt;-</span> <span class="fu">read_csv</span>(<span class="st">"data/annotated_text.csv"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Let’s explore the data a bit.</p>
+<p>There’s a <code>pos</code> label for every token and the previous token. There’s also a variable called <code>intensified</code> with is coded as <code>1</code> when the adjective is intensified (it as a preceding adverb) and <code>0</code> when it’s not. The <code>previous_token</code> is the intensifier.</p>
+<p>We filter the data looking for adjectives that are intensified in the text, then we count the intensifiers:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a>annotated_text <span class="sc">%&gt;%</span> </span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(intensified <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(previous_token, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["previous_token"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]}],"data":[{"1":"muy","2":"85"},{"1":"tan","2":"62"},{"1":"más","2":"44"},{"1":"poco","2":"14"},{"1":"bastante","2":"11"},{"1":"completamente","2":"5"},{"1":"mucho","2":"4"},{"1":"realmente","2":"4"},{"1":"bien","2":"3"},{"1":"casi","2":"2"},{"1":"demasiado","2":"2"},{"1":"mas","2":"2"},{"1":"absolutamente","2":"1"},{"1":"extremadamente","2":"1"},{"1":"extremandamente","2":"1"},{"1":"gravemente","2":"1"},{"1":"increíblemente","2":"1"},{"1":"medio","2":"1"},{"1":"perfectamente","2":"1"},{"1":"poquito","2":"1"},{"1":"seriamente","2":"1"},{"1":"suficiente","2":"1"},{"1":"suficientemente","2":"1"},{"1":"terriblemente","2":"1"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<p>We can also count the adjectives that are intensified:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>annotated_text <span class="sc">%&gt;%</span> </span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">filter</span>(intensified <span class="sc">==</span> <span class="dv">1</span>) <span class="sc">%&gt;%</span> </span>
+<span id="cb19-3"><a href="#cb19-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">count</span>(token, <span class="at">sort =</span> <span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["token"],"name":[1],"type":["chr"],"align":["left"]},{"label":["n"],"name":[2],"type":["int"],"align":["right"]}],"data":[{"1":"grande","2":"10"},{"1":"rápido","2":"7"},{"1":"feliz","2":"6"},{"1":"bueno","2":"5"},{"1":"contenta","2":"5"},{"1":"duro","2":"5"},{"1":"importante","2":"5"},{"1":"joven","2":"5"},{"1":"mejor","2":"5"},{"1":"asustada","2":"4"},{"1":"bonito","2":"4"},{"1":"difícil","2":"4"},{"1":"hermosa","2":"4"},{"1":"hermoso","2":"4"},{"1":"linda","2":"4"},{"1":"pronto","2":"4"},{"1":"vieja","2":"4"},{"1":"agradable","2":"3"},{"1":"corto","2":"3"},{"1":"dulce","2":"3"},{"1":"antiguas","2":"2"},{"1":"asustado","2":"2"},{"1":"bajo","2":"2"},{"1":"bonita","2":"2"},{"1":"cruel","2":"2"},{"1":"dificil","2":"2"},{"1":"divertido","2":"2"},{"1":"fuerte","2":"2"},{"1":"furioso","2":"2"},{"1":"largo","2":"2"},{"1":"lento","2":"2"},{"1":"lindo","2":"2"},{"1":"ocupados","2":"2"},{"1":"pequeña","2":"2"},{"1":"preocupada","2":"2"},{"1":"profundo","2":"2"},{"1":"rapido","2":"2"},{"1":"segura","2":"2"},{"1":"aburrido","2":"1"},{"1":"adorable","2":"1"},{"1":"afortunado","2":"1"},{"1":"agradecida","2":"1"},{"1":"amarrado","2":"1"},{"1":"ansioso","2":"1"},{"1":"atrevida","2":"1"},{"1":"avanzada","2":"1"},{"1":"avergonzado","2":"1"},{"1":"barata","2":"1"},{"1":"bella","2":"1"},{"1":"blanca","2":"1"},{"1":"bonitos","2":"1"},{"1":"buena","2":"1"},{"1":"caliente","2":"1"},{"1":"calmado","2":"1"},{"1":"cautelosa","2":"1"},{"1":"ciegos","2":"1"},{"1":"codiciosos","2":"1"},{"1":"cómico","2":"1"},{"1":"completa","2":"1"},{"1":"complicada","2":"1"},{"1":"común","2":"1"},{"1":"confiada","2":"1"},{"1":"confiado","2":"1"},{"1":"contentos","2":"1"},{"1":"convencional","2":"1"},{"1":"cortés","2":"1"},{"1":"costosas","2":"1"},{"1":"costoso","2":"1"},{"1":"debilitada","2":"1"},{"1":"denso","2":"1"},{"1":"desanimada","2":"1"},{"1":"desesperados","2":"1"},{"1":"diferente","2":"1"},{"1":"distraida","2":"1"},{"1":"dócil","2":"1"},{"1":"dormida","2":"1"},{"1":"dormido","2":"1"},{"1":"dura","2":"1"},{"1":"educados","2":"1"},{"1":"emocionada","2":"1"},{"1":"empadada","2":"1"},{"1":"encalambrado","2":"1"},{"1":"enfadada","2":"1"},{"1":"espantosas","2":"1"},{"1":"estricto","2":"1"},{"1":"exacta","2":"1"},{"1":"excepcional","2":"1"},{"1":"expléndido","2":"1"},{"1":"extraño","2":"1"},{"1":"feo","2":"1"},{"1":"frágil","2":"1"},{"1":"grandes","2":"1"},{"1":"guardada","2":"1"},{"1":"hambrienta","2":"1"},{"1":"hecha","2":"1"},{"1":"hecho","2":"1"},{"1":"herida","2":"1"},{"1":"hermosos","2":"1"},{"1":"impresionada","2":"1"},{"1":"impulsiva","2":"1"},{"1":"indecente","2":"1"},{"1":"informal","2":"1"},{"1":"ingenua","2":"1"},{"1":"inocente","2":"1"},{"1":"inquietas","2":"1"},{"1":"insolente","2":"1"},{"1":"juntas","2":"1"},{"1":"lejana","2":"1"},{"1":"leve","2":"1"},{"1":"límpio","2":"1"},{"1":"lindas","2":"1"},{"1":"malas","2":"1"},{"1":"maligno","2":"1"},{"1":"maravillosa","2":"1"},{"1":"mareados","2":"1"},{"1":"mejores","2":"1"},{"1":"misterioso","2":"1"},{"1":"molesta","2":"1"},{"1":"mudado","2":"1"},{"1":"necesario","2":"1"},{"1":"nerviosa","2":"1"},{"1":"nervioso","2":"1"},{"1":"nutritivas","2":"1"},{"1":"ocupada","2":"1"},{"1":"orgullosos","2":"1"},{"1":"oxidado","2":"1"},{"1":"parecidas","2":"1"},{"1":"peligroso","2":"1"},{"1":"pequeñas","2":"1"},{"1":"pequeños","2":"1"},{"1":"pesada","2":"1"},{"1":"pesado","2":"1"},{"1":"pobres","2":"1"},{"1":"polvoriento","2":"1"},{"1":"popular","2":"1"},{"1":"probable","2":"1"},{"1":"radical","2":"1"},{"1":"raro","2":"1"},{"1":"razonables","2":"1"},{"1":"redondo","2":"1"},{"1":"renombrados","2":"1"},{"1":"romántica","2":"1"},{"1":"rudo","2":"1"},{"1":"saludable","2":"1"},{"1":"sensible","2":"1"},{"1":"similar","2":"1"},{"1":"simple","2":"1"},{"1":"solitario","2":"1"},{"1":"sutíl","2":"1"},{"1":"temprana","2":"1"},{"1":"temprano","2":"1"},{"1":"tonta","2":"1"},{"1":"tormentoso","2":"1"},{"1":"tranquilas","2":"1"},{"1":"triste","2":"1"},{"1":"valientes","2":"1"},{"1":"valiosas","2":"1"},{"1":"viejo","2":"1"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<p>Since the variable <code>intensified</code> is a binary variable (<code>1</code> for yes, the adjective is intensified, and <code>0</code> for no), we can do a <code>mean</code> of this variable by movie to get what percentage of adjectives are intensified in the different movie scripts.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a>annotated_text <span class="sc">%&gt;%</span> </span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(movie) <span class="sc">%&gt;%</span> </span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">percent_intensified =</span> <span class="fu">mean</span>(intensified)) <span class="sc">%&gt;%</span> </span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="sc">-</span>percent_intensified)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["movie"],"name":[1],"type":["chr"],"align":["left"]},{"label":["percent_intensified"],"name":[2],"type":["dbl"],"align":["right"]}],"data":[{"1":"kiki","2":"0.12470024"},{"1":"mimi","2":"0.12382739"},{"1":"porco","2":"0.11990950"},{"1":"totoro","2":"0.10077519"},{"1":"laputa","2":"0.07073171"},{"1":"nausicaa","2":"0.04436229"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<p>The percentages by themselves don’t tell us much, since we don’t know if these differences are <strong>statistcally different</strong>. We need to run a statistical test to find out.</p>
+<p>In this case, since our response variable (<code>intensified</code>) is binary (represented by <code>0</code>s and <code>1</code>s) we will run logistic regression:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb21"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a>model_movie <span class="ot">&lt;-</span> <span class="fu">glm</span>(<span class="at">formula =</span> intensified <span class="sc">~</span> movie,</span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a>             <span class="at">data =</span> annotated_text,</span>
+<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a>             <span class="at">family =</span> <span class="st">"binomial"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>The best way to visualize the results is by plotting them. You should have been prompted to install the packages that are used in this document. If that’s not the case, run <code>install.packages("effects")</code> before running these lines of code:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(effects)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Loading required package: carData</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>lattice theme set by effectsTheme()
+See ?effectsTheme for details.</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb25"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a><span class="fu">effect</span>(<span class="st">"movie"</span>, model_movie) <span class="sc">%&gt;%</span> </span>
+<span id="cb25-2"><a href="#cb25-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">data.frame</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb25-3"><a href="#cb25-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="fu">reorder</span>(movie, fit),</span>
+<span id="cb25-4"><a href="#cb25-4" aria-hidden="true" tabindex="-1"></a>             <span class="at">x =</span> fit,</span>
+<span id="cb25-5"><a href="#cb25-5" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmin =</span> lower,</span>
+<span id="cb25-6"><a href="#cb25-6" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmax =</span> upper,</span>
+<span id="cb25-7"><a href="#cb25-7" aria-hidden="true" tabindex="-1"></a>             <span class="at">label =</span> <span class="fu">round</span>(fit, <span class="dv">2</span>))) <span class="sc">+</span></span>
+<span id="cb25-8"><a href="#cb25-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_errorbar</span>() <span class="sc">+</span></span>
+<span id="cb25-9"><a href="#cb25-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_label</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-21-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>Note how the percentages are similar to what we had calculated before. The difference is that now we have <code>confidence intervals</code> which tells us if the different groups are different or not (overlapping intervals indicate no differences).</p>
+<p>We can do the same with the grammatical gender of the adjective. Is one type of adjective intensified more than the others?</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>annotated_text <span class="sc">%&gt;%</span> </span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">group_by</span>(genero) <span class="sc">%&gt;%</span> </span>
+<span id="cb26-3"><a href="#cb26-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">summarize</span>(<span class="at">percent_intensified =</span> <span class="fu">mean</span>(intensified)) <span class="sc">%&gt;%</span> </span>
+<span id="cb26-4"><a href="#cb26-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">arrange</span>(<span class="sc">-</span>percent_intensified)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+
+<div data-pagedtable="false">
+  <script data-pagedtable-source="" type="application/json">
+{"columns":[{"label":["genero"],"name":[1],"type":["chr"],"align":["left"]},{"label":["percent_intensified"],"name":[2],"type":["dbl"],"align":["right"]}],"data":[{"1":"femenino","2":"0.12210797"},{"1":"masculino","2":"0.09335900"},{"1":"neutral","2":"0.07397959"}],"options":{"columns":{"min":{},"max":[10]},"rows":{"min":[10],"max":[10]},"pages":{}}}
+  </script>
+</div>
+</div>
+</div>
+<p>Let’s build our logistic regression model and visualize our results:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb27"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a>model_genero <span class="ot">&lt;-</span> <span class="fu">glm</span>(<span class="at">formula =</span> intensified <span class="sc">~</span> genero,</span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a>             <span class="at">data =</span> annotated_text,</span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a>             <span class="at">family =</span> <span class="st">"binomial"</span>)</span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a><span class="fu">effect</span>(<span class="st">"genero"</span>, model_genero) <span class="sc">%&gt;%</span> </span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">data.frame</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="fu">reorder</span>(genero, fit),</span>
+<span id="cb27-8"><a href="#cb27-8" aria-hidden="true" tabindex="-1"></a>             <span class="at">x =</span> fit,</span>
+<span id="cb27-9"><a href="#cb27-9" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmin =</span> lower,</span>
+<span id="cb27-10"><a href="#cb27-10" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmax =</span> upper,</span>
+<span id="cb27-11"><a href="#cb27-11" aria-hidden="true" tabindex="-1"></a>             <span class="at">label =</span> <span class="fu">round</span>(fit, <span class="dv">2</span>))) <span class="sc">+</span></span>
+<span id="cb27-12"><a href="#cb27-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_errorbar</span>() <span class="sc">+</span></span>
+<span id="cb27-13"><a href="#cb27-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_label</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-23-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>We built our statistical models with just one predictor – we can also run multivariate models.</p>
+<p>The question here is, controling for adjective gender, do we still see differences in intensification across the movie scripts?</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a>model_multivariado <span class="ot">&lt;-</span> <span class="fu">glm</span>(<span class="at">formula =</span> intensified <span class="sc">~</span> movie <span class="sc">+</span> genero,</span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a>             <span class="at">data =</span> annotated_text,</span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a>             <span class="at">family =</span> <span class="st">"binomial"</span>)</span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a><span class="fu">effect</span>(<span class="st">"genero"</span>, model_multivariado) <span class="sc">%&gt;%</span> </span>
+<span id="cb28-6"><a href="#cb28-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">data.frame</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb28-7"><a href="#cb28-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="fu">reorder</span>(genero, fit),</span>
+<span id="cb28-8"><a href="#cb28-8" aria-hidden="true" tabindex="-1"></a>             <span class="at">x =</span> fit,</span>
+<span id="cb28-9"><a href="#cb28-9" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmin =</span> lower,</span>
+<span id="cb28-10"><a href="#cb28-10" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmax =</span> upper,</span>
+<span id="cb28-11"><a href="#cb28-11" aria-hidden="true" tabindex="-1"></a>             <span class="at">label =</span> <span class="fu">round</span>(fit, <span class="dv">2</span>))) <span class="sc">+</span></span>
+<span id="cb28-12"><a href="#cb28-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_errorbar</span>() <span class="sc">+</span></span>
+<span id="cb28-13"><a href="#cb28-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_label</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-24-1.png" class="img-fluid" width="672"></p>
+</div>
+<div class="sourceCode cell-code" id="cb29"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="fu">effect</span>(<span class="st">"movie"</span>, model_multivariado) <span class="sc">%&gt;%</span> </span>
+<span id="cb29-2"><a href="#cb29-2" aria-hidden="true" tabindex="-1"></a>  <span class="fu">data.frame</span>() <span class="sc">%&gt;%</span> </span>
+<span id="cb29-3"><a href="#cb29-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggplot</span>(<span class="fu">aes</span>(<span class="at">y =</span> <span class="fu">reorder</span>(movie, fit),</span>
+<span id="cb29-4"><a href="#cb29-4" aria-hidden="true" tabindex="-1"></a>             <span class="at">x =</span> fit,</span>
+<span id="cb29-5"><a href="#cb29-5" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmin =</span> lower,</span>
+<span id="cb29-6"><a href="#cb29-6" aria-hidden="true" tabindex="-1"></a>             <span class="at">xmax =</span> upper,</span>
+<span id="cb29-7"><a href="#cb29-7" aria-hidden="true" tabindex="-1"></a>             <span class="at">label =</span> <span class="fu">round</span>(fit, <span class="dv">2</span>))) <span class="sc">+</span></span>
+<span id="cb29-8"><a href="#cb29-8" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_errorbar</span>() <span class="sc">+</span></span>
+<span id="cb29-9"><a href="#cb29-9" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_label</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="index_files/figure-html/unnamed-chunk-24-2.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
