@@ -5,7 +5,7 @@ editor: visual
 df-print: paged
 ---
 
-This tutorial will present the basic of reading text as data into R, and doing descriptive and some statistical analysis on the use of intensifiers in Spanish from movie scripts. [You can access the source code and the data for this tutorial on GitHub](https://github.com/picoral/SPN203-Spring2023)
+This tutorial presents the basics of reading text as data into R, and doing descriptive and some statistical analyses on the use of intensifiers in Spanish from movie scripts. [You can access the source code and the data for this tutorial on GitHub](https://github.com/picoral/SPN203-Spring2023)
 
 # Before we start
 
