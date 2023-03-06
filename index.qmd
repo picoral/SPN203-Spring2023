@@ -309,3 +309,10 @@ effect("movie", model_multivariado) %>%
   geom_errorbar() +
   geom_label()
 ```
+
+# Other resources
+
+* [Corpus Text Processor](https://github.com/writecrow/ciabatta/wiki/6a.-Automatic-processing-with-our-Corpus-Text-Processor)
+* [Text Mining with R](https://www.tidytextmining.com/)
+* [Creating a Website with Quarto](https://quarto.org/docs/websites/)
+* [Text annotation with spacyr](https://cran.r-project.org/web/packages/spacyr/vignettes/using_spacyr.html)
